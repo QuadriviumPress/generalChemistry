@@ -1,0 +1,363 @@
+(src-averill-1-0-ch96appe)=
+
+# Appendix E: Standard Reduction Potentials at 25°C
+
+````````{list-table}
+:header-rows: 1
+
+- - Half-Reaction
+  - E° (V)
+- - Ac<sup>3+</sup> + 3e<sup>−</sup>→ Ac
+  - −2.20
+- - Ag<sup>+</sup> + e<sup>−</sup>→ Ag
+  - 0.7996
+- - AgBr + e<sup>−</sup>→ Ag + Br<sup>−</sup>
+  - 0.07133
+- - AgCl + e<sup>−</sup>→ Ag + Cl<sup>−</sup>
+  - 0.22233
+- - Ag<sub>2</sub>CrO<sub>4</sub> + 2e<sup>−</sup>→ 2Ag + CrO<sub>4</sub><sup>2−</sup>
+  - 0.4470
+- - AgI + e<sup>−</sup>→ Ag + I<sup>−</sup>
+  - −0.15224
+- - Ag<sub>2</sub>S + 2e<sup>−</sup>→ 2Ag + S<sup>2−</sup>
+  - −0.691
+- - Ag<sub>2</sub>S + 2H<sup>+</sup> + 2e<sup>−</sup>→ 2Ag + H<sub>2</sub>S
+  - −0.0366
+- - AgSCN + e<sup>−</sup>→ Ag + SCN<sup>−</sup>
+  - 0.08951
+- - Al<sup>3+</sup> + 3e<sup>−</sup>→ Al
+  - −1.662
+- - Al(OH)<sub>4</sub><sup>−</sup> + 3e<sup>−</sup>→ Al + 4OH<sup>−</sup>
+  - −2.328
+- - Am<sup>3+</sup> + 3e<sup>−</sup>→ Am
+  - −2.048
+- - As + 3H<sup>+</sup> + 3e<sup>−</sup>→ AsH<sub>3</sub>
+  - −0.608
+- - H<sub>3</sub>AsO<sub>4</sub> + 2H<sup>+</sup> + 2e<sup>−</sup>→ HAsO<sub>2</sub> + 2H<sub>2</sub>O
+  - 0.560
+- - Au<sup>+</sup> + e<sup>−</sup>→ Au
+  - 1.692
+- - Au<sup>3+</sup> + 3e<sup>−</sup>→ Au
+  - 1.498
+- - H<sub>3</sub>BO<sub>3</sub> + 3H<sup>+</sup> + 3e<sup>−</sup>→ B + 3H<sub>2</sub>O
+  - −0.8698
+- - Ba<sup>2+</sup> + 2e<sup>−</sup>→ Ba
+  - −2.912
+- - Be<sup>2+</sup> + 2e<sup>−</sup>→ Be
+  - −1.847
+- - Bi<sup>3+</sup> + 3e<sup>−</sup>→ Bi
+  - 0.308
+- - BiO<sup>+</sup> + 2H<sup>+</sup> + 3e<sup>−</sup>→ Bi + H<sub>2</sub>O
+  - 0.320
+- - Br<sub>2</sub>(aq) + 2e<sup>−</sup>→ 2Br<sup>−</sup>
+  - 1.0873
+- - Br<sub>2</sub>(l) + 2e<sup>−</sup>→ 2Br<sup>−</sup>
+  - 1.066
+- - BrO<sub>3</sub><sup>−</sup> + 6H<sup>+</sup> + 5e<sup>−</sup>→ $\frac{1}{2}$Br<sub>2</sub> + 3H<sub>2</sub>O
+  - 1.482
+- - BrO<sub>3</sub><sup>−</sup> + 6H<sup>+</sup> + 6e<sup>−</sup>→ Br<sup>−</sup> + 3H<sub>2</sub>O
+  - 1.423
+- - CO<sub>2</sub> + 2H<sup>+</sup> + 2e<sup>−</sup>→ HCO<sub>2</sub>H
+  - −0.199
+- - Ca<sup>2+</sup> + 2e<sup>−</sup>→ Ca
+  - −2.868
+- - Ca(OH)<sub>2</sub> + 2e<sup>−</sup>→ Ca + 2OH<sup>−</sup>
+  - −3.02
+- - Cd<sup>2+</sup> + 2e<sup>−</sup>→ Cd
+  - −0.4030
+- - CdSO<sub>4</sub> + 2e<sup>−</sup>→ Cd + SO<sub>4</sub><sup>2−</sup>
+  - −0.246
+- - Cd(OH)<sub>4</sub><sup>2−</sup> + 2e<sup>−</sup>→ Cd + 4OH<sup>−</sup>
+  - −0.658
+- - Ce<sup>3+</sup> + 3e<sup>−</sup>→ Ce
+  - −2.336
+- - Ce<sup>4−</sup> + e<sup>−</sup>→ Ce<sup>3+</sup>
+  - 1.72
+- - Cl<sub>2</sub>(g) + 2e<sup>−</sup>→ 2Cl<sup>−</sup>
+  - 1.35827
+- - HClO + H<sup>+</sup> + e<sup>−</sup>→ $\frac{1}{2}$Cl<sub>2</sub> + H<sub>2</sub>O
+  - 1.611
+- - HClO + H<sup>+</sup> + 2e<sup>−</sup>→ Cl<sup>−</sup> + H<sub>2</sub>O
+  - 1.482
+- - ClO<sup>−</sup> + H<sub>2</sub>O + 2e<sup>−</sup>→ Cl<sup>−</sup> + 2OH<sup>−</sup>
+  - 0.81
+- - ClO<sub>3</sub><sup>−</sup> + 6H<sup>+</sup> + 5e<sup>−</sup>→ $\frac{1}{2}$Cl<sub>2</sub> + 3H<sub>2</sub>O
+  - 1.47
+- - ClO<sub>3</sub><sup>−</sup> + 6H<sup>+</sup> + 6e<sup>−</sup>→ Cl<sup>−</sup> + 3H<sub>2</sub>O
+  - 1.451
+- - ClO<sub>4</sub><sup>−</sup> + 8H<sup>+</sup> + 7e<sup>−</sup>→ $\frac{1}{2}$Cl<sub>2</sub> + 4H<sub>2</sub>O
+  - 1.39
+- - ClO<sub>4</sub><sup>−</sup> + 8H<sup>+</sup> + 8e<sup>−</sup>→ Cl<sup>−</sup> + 4H<sub>2</sub>O
+  - 1.389
+- - Co<sup>2+</sup> + 2e<sup>−</sup>→ Co
+  - −0.28
+- - Co<sup>3+</sup> + e<sup>−</sup>→ Co<sup>2+</sup>
+  - 1.92
+- - Cr<sup>2+</sup> + 2e<sup>−</sup>→ Cr
+  - −0.913
+- - Cr<sup>3+</sup> + e<sup>−</sup>→ Cr<sup>2+</sup>
+  - −0.407
+- - Cr<sup>3+</sup> + 3e<sup>−</sup>→ Cr
+  - −0.744
+- - Cr<sub>2</sub>O<sub>7</sub><sup>−</sup> + 14H<sup>+</sup> + 6e<sup>−</sup>→ 2Cr<sup>3+</sup> + 7H<sub>2</sub>O
+  - 1.232
+- - CrO<sub>4</sub><sup>2−</sup> + 4H<sub>2</sub>O + 3e<sup>−</sup>→ Cr(OH)<sub>3</sub> + 5OH<sup>−</sup>
+  - −0.13
+- - Cs<sup>+</sup> + e<sup>−</sup>→ Cs
+  - −3.026
+- - Cu<sup>+</sup> + e<sup>−</sup>→ Cu
+  - 0.521
+- - Cu<sup>2+</sup> + e<sup>−</sup>→ Cu<sup>+</sup>
+  - 0.153
+- - Cu<sup>2+</sup> + 2e<sup>−</sup>→ Cu
+  - 0.3419
+- - CuI<sub>2</sub><sup>−</sup> + e<sup>−</sup>→ Cu + 2I<sup>−</sup>
+  - 0.00
+- - Cu<sub>2</sub>O + H<sub>2</sub>O + 2e<sup>−</sup>→ 2Cu + 2OH<sup>−</sup>
+  - −0.360
+- - Dy<sup>3+</sup> + 3e<sup>−</sup>→ Dy
+  - −2.295
+- - Er<sup>3+</sup> + 3e<sup>−</sup>→ Er
+  - −2.331
+- - Es<sup>3+</sup> + 3e<sup>−</sup>→ Es
+  - −1.91
+- - Eu<sup>2+</sup> + 2e<sup>−</sup>→ Eu
+  - −2.812
+- - Eu<sup>3+</sup> + 3e<sup>−</sup>→ Eu
+  - −1.991
+- - F<sub>2</sub> + 2e<sup>−</sup>→ 2F<sup>−</sup>
+  - 2.866
+- - Fe<sup>2+</sup> + 2e<sup>−</sup>→ Fe
+  - −0.447
+- - Fe<sup>3+</sup> + 3e<sup>−</sup>→ Fe
+  - −0.037
+- - Fe<sup>3+</sup> + e<sup>−</sup>→ Fe<sup>2+</sup>
+  - 0.771
+- - \[Fe(CN)<sub>6</sub>\]<sup>3−</sup> + e<sup>−</sup>→ \[Fe(CN)<sub>6</sub>\]<sup>4−</sup>
+  - 0.358
+- - Fe(OH)<sub>3</sub> + e<sup>−</sup>→ Fe(OH)<sub>2</sub> + OH<sup>−</sup>
+  - −0.56
+- - Fm<sup>3+</sup> + 3e<sup>−</sup>→ Fm
+  - −1.89
+- - Fm<sup>2+</sup> + 2e<sup>−</sup>→ Fm
+  - −2.30
+- - Ga<sup>3+</sup> + 3e<sup>−</sup>→ Ga
+  - −0.549
+- - Gd<sup>3+</sup> + 3e<sup>−</sup>→ Gd
+  - −2.279
+- - Ge<sup>2+</sup> + 2e<sup>−</sup>→ Ge
+  - 0.24
+- - Ge<sup>4+</sup> + 4e<sup>−</sup>→ Ge
+  - 0.124
+- - 2H<sup>+</sup> + 2e<sup>−</sup>→ H<sub>2</sub>
+  - 0.00000
+- - H<sub>2</sub> + 2e<sup>−</sup>→ 2H<sup>−</sup>
+  - −2.23
+- - 2H<sub>2</sub>O + 2e<sup>−</sup>→ H<sub>2</sub> + 2OH<sup>−</sup>
+  - −0.8277
+- - H<sub>2</sub>O<sub>2</sub> + 2H<sup>+</sup> + 2e<sup>−</sup>→ 2H<sub>2</sub>O
+  - 1.776
+- - Hf<sup>4+</sup> + 4e<sup>−</sup>→ Hf
+  - −1.55
+- - Hg<sup>2+</sup> + 2e<sup>−</sup>→ Hg
+  - 0.851
+- - 2Hg<sup>2+</sup> + 2e<sup>−</sup>→ Hg<sub>2</sub><sup>2+</sup>
+  - 0.920
+- - Hg<sub>2</sub>Cl<sub>2</sub> + 2e<sup>−</sup>→ 2Hg + 2Cl<sup>−</sup>
+  - 0.26808
+- - Ho<sup>2+</sup> + 2e<sup>−</sup>→ Ho
+  - −2.1
+- - Ho<sup>3+</sup> + 3e<sup>−</sup>→ Ho
+  - −2.33
+- - I<sub>2</sub> + 2e<sup>−</sup>→ 2I<sup>−</sup>
+  - 0.5355
+- - I<sub>3</sub><sup>−</sup> + 2e<sup>−</sup>→ 3I<sup>−</sup>
+  - 0.536
+- - 2IO<sub>3</sub><sup>−</sup> + 12H<sup>+</sup> + 10e<sup>−</sup>→ I<sub>2</sub> + 6H<sub>2</sub>O
+  - 1.195
+- - IO<sub>3</sub><sup>−</sup> + 6H<sup>+</sup> + 6e<sup>−</sup>→ I<sup>−</sup> + 3H<sub>2</sub>O
+  - 1.085
+- - In<sup>+</sup> + e<sup>−</sup>→ In
+  - −0.14
+- - In<sup>3+</sup> + 2e<sup>−</sup>→ In<sup>+</sup>
+  - −0.443
+- - In<sup>3+</sup> + 3e<sup>−</sup>→ In
+  - −0.3382
+- - Ir<sup>3+</sup> + 3e<sup>−</sup>→ Ir
+  - 1.156
+- - K<sup>+</sup> + e<sup>−</sup>→ K
+  - −2.931
+- - La<sup>3+</sup> + 3e<sup>−</sup>→ La
+  - −2.379
+- - Li<sup>+</sup> + e<sup>−</sup>→ Li
+  - −3.0401
+- - Lr<sup>3+</sup> + 3e<sup>−</sup>→ Lr
+  - −1.96
+- - Lu<sup>3+</sup> + 3e<sup>−</sup>→ Lu
+  - −2.28
+- - Md<sup>3+</sup> + 3e<sup>−</sup>→ Md
+  - −1.65
+- - Md<sup>2+</sup> + 2e<sup>−</sup>→ Md
+  - −2.40
+- - Mg<sup>2+</sup> + 2e<sup>−</sup>→ Mg
+  - −2.372
+- - Mn<sup>2+</sup> + 2e<sup>−</sup>→ Mn
+  - −1.185
+- - MnO<sub>2</sub> + 4H<sup>+</sup> + 2e<sup>−</sup>→ Mn<sup>2+</sup> + 2H<sub>2</sub>O
+  - 1.224
+- - MnO<sub>4</sub><sup>−</sup> + 8H<sup>+</sup> + 5e<sup>−</sup>→ Mn<sup>2+</sup> + 4H<sub>2</sub>O
+  - 1.507
+- - MnO<sub>4</sub><sup>−</sup> + 2H<sub>2</sub>O + 3e<sup>−</sup>→ MnO<sub>2</sub> + 4OH<sup>−</sup>
+  - 0.595
+- - Mo<sup>3+</sup> + 3e<sup>−</sup>→ Mo
+  - −0.200
+- - N<sub>2</sub> + 2H<sub>2</sub>O + 6H<sup>+</sup> + 6e<sup>−</sup>→ 2NH<sub>4</sub>OH
+  - 0.092
+- - HNO<sub>2</sub> + H<sup>+</sup> + e<sup>−</sup>→ NO + H<sub>2</sub>O
+  - 0.983
+- - NO<sub>3</sub><sup>−</sup> + 4H<sup>+</sup> + 3e<sup>−</sup>→ NO + 2H<sub>2</sub>O
+  - 0.957
+- - Na<sup>+</sup> + e<sup>−</sup>→ Na
+  - −2.71
+- - Nb<sup>3+</sup> + 3e<sup>−</sup>→ Nb
+  - −1.099
+- - Nd<sup>3+</sup> + 3e<sup>−</sup>→ Nd
+  - −2.323
+- - Ni<sup>2+</sup> + 2e<sup>−</sup>→ Ni
+  - −0.257
+- - No<sup>3+</sup> + 3e<sup>−</sup>→ No
+  - −1.20
+- - No<sup>2+</sup> + 2e<sup>−</sup>→ No
+  - −2.50
+- - Np<sup>3+</sup> + 3e<sup>−</sup>→ Np
+  - −1.856
+- - O<sub>2</sub> + 2H<sup>+</sup> + 2e<sup>−</sup>→ H<sub>2</sub>O<sub>2</sub>
+  - 0.695
+- - O<sub>2</sub> + 4H<sup>+</sup> + 4e<sup>−</sup>→ 2H<sub>2</sub>O
+  - 1.229
+- - O<sub>2</sub> + 2H<sub>2</sub>O + 2e<sup>−</sup>→ H<sub>2</sub>O<sub>2</sub> + 2OH<sup>−</sup>
+  - −0.146
+- - O<sub>3</sub> + 2H<sup>+</sup> + 2e<sup>−</sup>→ O<sub>2</sub> + H<sub>2</sub>O
+  - 2.076
+- - OsO<sub>4</sub> + 8H<sup>+</sup> + 8e<sup>−</sup>→ Os + 4H<sub>2</sub>O
+  - 0.838
+- - P + 3H<sub>2</sub>O + 3e<sup>−</sup>→ PH<sub>3</sub>(g) + 3OH<sup>−</sup>
+  - −0.87
+- - PO<sub>4</sub><sup>3−</sup> + 2H<sub>2</sub>O + 2e<sup>−</sup>→ HPO<sub>3</sub><sup>2−</sup> + 3OH<sup>−</sup>
+  - −1.05
+- - Pa<sup>3+</sup> + 3e<sup>−</sup>→ Pa
+  - −1.34
+- - Pa<sup>4+</sup> + 4e<sup>−</sup>→ Pa
+  - −1.49
+- - Pb<sup>2+</sup> + 2e<sup>−</sup>→ Pb
+  - −0.1262
+- - PbO + H<sub>2</sub>O + 2e<sup>−</sup>→ Pb + 2OH<sup>−</sup>
+  - −0.580
+- - PbO<sub>2</sub> + SO<sub>4</sub><sup>2−</sup> + 4H<sup>+</sup> + 2e<sup>−</sup>→ PbSO<sub>4</sub> + 2H<sub>2</sub>O
+  - 1.6913
+- - PbSO<sub>4</sub> + 2e<sup>−</sup>→ Pb + SO<sub>4</sub><sup>2−</sup>
+  - −0.3588
+- - Pd<sup>2+</sup> + 2e<sup>−</sup>→ Pd
+  - 0.951
+- - Pm<sup>3+</sup> + 3e<sup>−</sup>→ Pm
+  - −2.30
+- - Po<sup>4+</sup> + 4e<sup>−</sup>→ Po
+  - 0.76
+- - Pr<sup>3+</sup> + 3e<sup>−</sup>→ Pr
+  - −2.353
+- - Pt<sup>2+</sup> + 2e<sup>−</sup>→ Pt
+  - 1.18
+- - \[PtCl<sub>4</sub>\]<sup>2−</sup> + 2e<sup>−</sup>→ Pt + 4Cl<sup>−</sup>
+  - 0.755
+- - Pu<sup>3+</sup> + 3e<sup>−</sup>→ Pu
+  - −2.031
+- - Ra<sup>2+</sup> + 2e<sup>−</sup>→ Ra
+  - −2.8
+- - Rb<sup>+</sup> + e<sup>−</sup>→ Rb
+  - −2.98
+- - Re<sup>3+</sup> + 3e<sup>−</sup>→ Re
+  - 0.300
+- - Rh<sup>3+</sup> + 3e<sup>−</sup>→ Rh
+  - 0.758
+- - Ru<sup>3+</sup> + e<sup>−</sup>→ Ru<sup>2+</sup>
+  - 0.2487
+- - S + 2e<sup>−</sup>→ S<sup>2−</sup>
+  - −0.47627
+- - S + 2H<sup>+</sup> + 2e<sup>−</sup>→ H<sub>2</sub>S(aq)
+  - 0.142
+- - 2S + 2e<sup>−</sup>→ S<sub>2</sub><sup>2−</sup>
+  - −0.42836
+- - H<sub>2</sub>SO<sub>3</sub> + 4H<sup>+</sup> + 4e<sup>−</sup>→ S + 3H<sub>2</sub>O
+  - 0.449
+- - SO<sub>4</sub><sup>2−</sup> + H<sub>2</sub>O + 2e<sup>−</sup>→ SO<sub>3</sub><sup>2−</sup> + 2OH<sup>−</sup>
+  - −0.93
+- - Sb + 3H<sup>+</sup> + 3e<sup>−</sup>→ SbH<sub>3</sub>
+  - −0.510
+- - Sc<sup>3+</sup> + 3e<sup>−</sup>→ Sc
+  - −2.077
+- - Se + 2e<sup>−</sup>→ Se<sup>2−</sup>
+  - −0.924
+- - Se + 2H<sup>+</sup> + 2e<sup>−</sup>→ H<sub>2</sub>Se
+  - −0.082
+- - SiF<sub>6</sub><sup>2−</sup> + 4e<sup>−</sup>→ Si + 6F<sup>−</sup>
+  - −1.24
+- - Sm<sup>3+</sup> + 3e<sup>−</sup>→ Sm
+  - −2.304
+- - Sn<sup>2+</sup> + 2e<sup>−</sup>→ Sn
+  - −0.1375
+- - Sn<sup>4+</sup> + 2e<sup>−</sup>→ Sn<sup>2+</sup>
+  - 0.151
+- - Sr<sup>2+</sup> + 2e<sup>−</sup>→ Sr
+  - −2.899
+- - Ta<sup>3+</sup> + 3e<sup>−</sup>→ Ta
+  - −0.6
+- - TcO<sub>4</sub><sup>−</sup> + 4H<sup>+</sup> + 3e<sup>−</sup>→ TcO<sub>2</sub> + 2H<sub>2</sub>O
+  - 0.782
+- - TcO<sub>4</sub><sup>−</sup> + 8H<sup>+</sup> + 7e<sup>−</sup>→ Tc + 4H<sub>2</sub>O
+  - 0.472
+- - Tb<sup>3+</sup> + 3e<sup>−</sup>→ Tb
+  - −2.28
+- - Te + 2e<sup>−</sup>→ Te<sup>2−</sup>
+  - −1.143
+- - Te<sup>4+</sup> + 4e<sup>−</sup>→ Te
+  - 0.568
+- - Th<sup>4+</sup> + 4e<sup>−</sup>→ Th
+  - −1.899
+- - Ti<sup>2+</sup> + 2e<sup>−</sup>→ Ti
+  - −1.630
+- - Tl<sup>+</sup> + e<sup>−</sup>→ Tl
+  - −0.336
+- - Tl<sup>3+</sup> + 2e<sup>−</sup>→ Tl<sup>+</sup>
+  - 1.252
+- - Tl<sup>3+</sup> + 3e<sup>−</sup>→ Tl
+  - 0.741
+- - Tm<sup>3+</sup> + 3e<sup>−</sup>→ Tm
+  - −2.319
+- - U<sup>3+</sup> + 3e<sup>−</sup>→ U
+  - −1.798
+- - VO<sub>2</sub><sup>+</sup> + 2H<sup>+</sup> + e<sup>−</sup>→ VO<sup>2+</sup> + H<sub>2</sub>O
+  - 0.991
+- - V<sub>2</sub>O<sub>5</sub> + 6H<sup>+</sup> + 2e<sup>−</sup>→ 2VO<sup>2+</sup> + 3H<sub>2</sub>O
+  - 0.957
+- - W<sub>2</sub>O<sub>5</sub> + 2H<sup>+</sup> + 2e<sup>−</sup>→ 2WO<sub>2</sub> + H<sub>2</sub>O
+  - −0.031
+- - XeO<sub>3</sub> + 6H<sup>+</sup> + 6e<sup>−</sup>→ Xe + 3H<sub>2</sub>O
+  - 2.10
+- - Y<sup>3+</sup> + 3e<sup>−</sup>→Y
+  - −2.372
+- - Yb<sup>3+</sup> + 3e<sup>−</sup>→Yb
+  - −2.19
+- - Zn<sup>2+</sup> + 2e<sup>−</sup>→ Zn
+  - −0.7618
+- - Zn(OH)<sub>4</sub><sup>2−</sup> + 2e<sup>−</sup>→ Zn + 4OH<sup>−</sup>
+  - −1.199
+- - Zn(OH)<sub>2</sub> + 2e<sup>−</sup>→ Zn + 2OH<sup>−</sup>
+  - −1.249
+- - ZrO<sub>2</sub> + 4H<sup>+</sup> + 4e<sup>−</sup>→ Zr + 2H<sub>2</sub>O
+  - −1.553
+- - Zr<sup>4+</sup> + 4e<sup>−</sup>→ Zr
+  - −1.45
+
+````````
+
+Source of data: CRC Handbook of Chemistry and Physics*,* 84th Edition (2004).

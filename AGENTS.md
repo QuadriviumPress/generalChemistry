@@ -1,0 +1,35 @@
+# AGENTS.md
+
+## Standard
+
+Follow the [QuadriviumPress MyST baseline](https://github.com/QuadriviumPress/bindery/blob/main/doc/myst-baseline.md) and [presentation skill](https://github.com/QuadriviumPress/bindery/blob/main/skills/quadrivium-myst-presentation/SKILL.md).
+
+## Commands
+
+```bash
+npm ci
+npm run start
+npm run verify
+npm run build
+npm run check
+```
+
+`npm run check` verifies the import and builds HTML with strict internal link checks.
+`npm run import:source -- /path/to/upstream` repeats the conversion; see README.md.
+
+## Intentional differences
+
+- Converted chapters live in `chapters/ch-NN-*.md`, with `front/` and `appendices/` for other source pages.
+- `source/` retains original combined HTML pages and a revision, checksum, asset, and conversion manifest.
+- `scripts/import_source.py` uses Python, Beautiful Soup, PyYAML, and pandoc only for source conversion. Normal builds and verification need Node and Python's standard library.
+- `verify` uses `scripts/verify_book.py` to validate full source coverage, source checksums, local images, and cross-reference targets. Converted Markdown may be edited without rerunning the import; generated checksums provide provenance, not an editing restriction.
+- Source numbering is preserved literally, so MyST automatic numbering is disabled.
+- The npm license describes content. Template code retains its MIT notice in `LICENSE-CODE`.
+- `scripts/verify_rendered.py` runs after builds and checks rendered table, figure, and math coverage, including detection of prose accidentally parsed as code.
+- PWA support uses the starter's setup script. Deployment calls bindery's reusable workflow and verifies before building.
+
+## Presentation gap
+
+The source's numbered problems, examples, and answer lists remain in their original order and grouping. Recasting them into individual exercise/solution pairs would imply associations not present in the source. Learning objectives, key takeaways, and source callouts become MyST admonitions; source glossary definitions and notes become footnotes. Equations, tables, and figure captions retain source numbers and linked source labels. Figures receive source-derived alternative text; uncaptioned illustrations use a chapter-based fallback. Add richer descriptions during editorial review.
+
+Preserve source attribution and third-party credits. Make editorial corrections in Markdown and document substantive changes in SOURCES.md. Rerunning the importer overwrites converted pages.

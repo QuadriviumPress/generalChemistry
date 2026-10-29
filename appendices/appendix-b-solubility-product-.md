@@ -1,0 +1,410 @@
+(src-averill-1-0-ch96appb)=
+
+# Appendix B: Solubility-Product Constants (Ksp) for Compounds at 25°C
+
+````````{list-table}
+:header-rows: 1
+
+- - Compound Name
+  - Compound Formula
+  - *K* <sub>sp</sub>
+- - Aluminum phosphate
+  - AlPO<sub>4</sub>
+  - 9.84 × 10<sup>−21</sup>
+- - Barium bromate
+  - Ba(BrO<sub>3</sub>)<sub>2</sub>
+  - 2.43 × 10<sup>−4</sup>
+- - Barium carbonate
+  - BaCO<sub>3</sub>
+  - 2.58 × 10<sup>−9</sup>
+- - Barium chromate
+  - BaCrO<sub>4</sub>
+  - 1.17 × 10<sup>−10</sup>
+- - Barium fluoride
+  - BaF<sub>2</sub>
+  - 1.84 × 10<sup>−7</sup>
+- - Barium iodate
+  - Ba(IO<sub>3</sub>)<sub>2</sub>
+  - 4.01 × 10<sup>−9</sup>
+- - Barium nitrate
+  - Ba(NO<sub>3</sub>)<sub>2</sub>
+  - 4.64 × 10<sup>−3</sup>
+- - Barium sulfate
+  - BaSO<sub>4</sub>
+  - 1.08 × 10<sup>−10</sup>
+- - Barium sulfite
+  - BaSO<sub>3</sub>
+  - 5.0 × 10<sup>−10</sup>
+- - Beryllium hydroxide
+  - Be(OH)<sub>2</sub>
+  - 6.92 × 10<sup>−22</sup>
+- - Bismuth arsenate
+  - BiAsO<sub>4</sub>
+  - 4.43 × 10<sup>−10</sup>
+- - Bismuth iodide
+  - BiI<sub>3</sub>
+  - 7.71 × 10<sup>−19</sup>
+- - Cadmium carbonate
+  - CdCO<sub>3</sub>
+  - 1.0 × 10<sup>−12</sup>
+- - Cadmium fluoride
+  - CdF<sub>2</sub>
+  - 6.44 × 10<sup>−3</sup>
+- - Cadmium hydroxide
+  - Cd(OH)<sub>2</sub>
+  - 7.2 × 10<sup>−15</sup>
+- - Cadmium iodate
+  - Cd(IO<sub>3</sub>)<sub>2</sub>
+  - 2.5 × 10<sup>−8</sup>
+- - Cadmium phosphate
+  - Cd<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+  - 2.53 × 10<sup>−33</sup>
+- - Cadmium sulfide
+  - CdS
+  - 8.0 × 10<sup>−27</sup>
+- - Calcium carbonate
+  - CaCO<sub>3</sub>
+  - 3.36 × 10<sup>−9</sup>
+- - Calcium fluoride
+  - CaF<sub>2</sub>
+  - 3.45 × 10<sup>−11</sup>
+- - Calcium hydroxide
+  - Ca(OH)<sub>2</sub>
+  - 5.02 × 10<sup>−6</sup>
+- - Calcium iodate
+  - Ca(IO<sub>3</sub>)<sub>2</sub>
+  - 6.47 × 10<sup>−6</sup>
+- - Calcium phosphate
+  - Ca<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+  - 2.07 × 10<sup>−33</sup>
+- - Calcium sulfate
+  - CaSO<sub>4</sub>
+  - 4.93 × 10<sup>−5</sup>
+- - Cesium perchlorate
+  - CsClO<sub>4</sub>
+  - 3.95 × 10<sup>−3</sup>
+- - Cesium periodate
+  - CsIO<sub>4</sub>
+  - 5.16 × 10<sup>−6</sup>
+- - Cobalt(II) arsenate
+  - Co<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>
+  - 6.80 × 10<sup>−29</sup>
+- - Cobalt(II) hydroxide
+  - Co(OH)<sub>2</sub>
+  - 5.92 × 10<sup>−15</sup>
+- - Cobalt(II) phosphate
+  - Co<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+  - 2.05 × 10<sup>−35</sup>
+- - Copper(I) bromide
+  - CuBr
+  - 6.27 × 10<sup>−9</sup>
+- - Copper(I) chloride
+  - CuCl
+  - 1.72 × 10<sup>−7</sup>
+- - Copper(I) cyanide
+  - CuCN
+  - 3.47 × 10<sup>−20</sup>
+- - Copper(I) iodide
+  - CuI
+  - 1.27 × 10<sup>−12</sup>
+- - Copper(I) thiocyanate
+  - CuSCN
+  - 1.77 × 10<sup>−13</sup>
+- - Copper(II) arsenate
+  - Cu<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>
+  - 7.95 × 10<sup>−36</sup>
+- - Copper(II) oxalate
+  - CuC<sub>2</sub>O<sub>4</sub>
+  - 4.43 × 10<sup>−10</sup>
+- - Copper(II) phosphate
+  - Cu<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+  - 1.40 × 10<sup>−37</sup>
+- - Copper(II) sulfide
+  - CuS
+  - 6.3 × 10<sup>−36</sup>
+- - Europium(III) hydroxide
+  - Eu(OH)<sub>3</sub>
+  - 9.38 × 10<sup>−27</sup>
+- - Gallium(III) hydroxide
+  - Ga(OH)<sub>3</sub>
+  - 7.28 × 10<sup>−36</sup>
+- - Iron(II) carbonate
+  - FeCO<sub>3</sub>
+  - 3.13 × 10<sup>−11</sup>
+- - Iron(II) fluoride
+  - FeF<sub>2</sub>
+  - 2.36 × 10<sup>−6</sup>
+- - Iron(II) hydroxide
+  - Fe(OH)<sub>2</sub>
+  - 4.87 × 10<sup>−17</sup>
+- - Iron(III) hydroxide
+  - Fe(OH)<sub>3</sub>
+  - 2.79 × 10<sup>−39</sup>
+- - Iron(III) sulfide
+  - FeS
+  - 6.3 × 10<sup>−18</sup>
+- - Lanthanum iodate
+  - La(IO<sub>3</sub>)<sub>3</sub>
+  - 7.50 × 10<sup>−12</sup>
+- - Lead(II) bromide
+  - PbBr<sub>2</sub>
+  - 6.60 × 10<sup>−6</sup>
+- - Lead(II) carbonate
+  - PbCO<sub>3</sub>
+  - 7.40 × 10<sup>−14</sup>
+- - Lead(II) chloride
+  - PbCl<sub>2</sub>
+  - 1.70 × 10<sup>−5</sup>
+- - Lead(II) fluoride
+  - PbF<sub>2</sub>
+  - 3.3 × 10<sup>−8</sup>
+- - Lead(II) hydroxide
+  - Pb(OH)<sub>2</sub>
+  - 1.43 × 10<sup>−20</sup>
+- - Lead(II) iodate
+  - Pb(IO<sub>3</sub>)<sub>2</sub>
+  - 3.69 × 10<sup>−13</sup>
+- - Lead(II) iodide
+  - PbI<sub>2</sub>
+  - 9.8 × 10<sup>−9</sup>
+- - Lead(II)selenite
+  - PbSeO<sub>4</sub>
+  - 1.37 × 10<sup>−7</sup>
+- - Lead(II) sulfate
+  - PbSO<sub>4</sub>
+  - 2.53 × 10<sup>−8</sup>
+- - Lead(II) sulfide
+  - PbS
+  - 8.0 × 10<sup>−28</sup>
+- - Lithium carbonate
+  - Li<sub>2</sub>CO<sub>3</sub>
+  - 8.15 × 10<sup>−4</sup>
+- - Lithium fluoride
+  - LiF
+  - 1.84 × 10<sup>−3</sup>
+- - Lithium phosphate
+  - Li<sub>3</sub>PO<sub>4</sub>
+  - 2.37 × 10<sup>−11</sup>
+- - Magnesium carbonate
+  - MgCO<sub>3</sub>
+  - 6.82 × 10<sup>−6</sup>
+- - Magnesium fluoride
+  - MgF<sub>2</sub>
+  - 5.16 × 10<sup>−11</sup>
+- - Magnesium hydroxide
+  - Mg(OH)<sub>2</sub>
+  - 5.61 × 10<sup>−12</sup>
+- - Magnesium phosphate
+  - Mg<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+  - 1.04 × 10<sup>−24</sup>
+- - Manganese(II) carbonate
+  - MnCO<sub>3</sub>
+  - 2.24 × 10<sup>−11</sup>
+- - Manganese(II) iodate
+  - Mn(IO<sub>3</sub>)<sub>2</sub>
+  - 4.37 × 10<sup>−7</sup>
+- - Mercury(I) bromide
+  - Hg<sub>2</sub>Br<sub>2</sub>
+  - 6.40 × 10<sup>−23</sup>
+- - Mercury(I) carbonate
+  - Hg<sub>2</sub>CO<sub>3</sub>
+  - 3.6 × 10<sup>−17</sup>
+- - Mercury(I) chloride
+  - Hg<sub>2</sub>Cl<sub>2</sub>
+  - 1.43 × 10<sup>−18</sup>
+- - Mercury(I) fluoride
+  - Hg<sub>2</sub>F<sub>2</sub>
+  - 3.10 × 10<sup>−6</sup>
+- - Mercury(I) iodide
+  - Hg<sub>2</sub>I<sub>2</sub>
+  - 5.2 × 10<sup>−29</sup>
+- - Mercury(I) oxalate
+  - Hg<sub>2</sub>C<sub>2</sub>O<sub>4</sub>
+  - 1.75 × 10<sup>−13</sup>
+- - Mercury(I) sulfate
+  - Hg<sub>2</sub>SO<sub>4</sub>
+  - 6.5 × 10<sup>−7</sup>
+- - Mercury(I) thiocyanate
+  - Hg<sub>2</sub>(SCN)<sub>2</sub>
+  - 3.2 × 10<sup>−20</sup>
+- - Mercury(II) bromide
+  - HgBr<sub>2</sub>
+  - 6.2 × 10<sup>−20</sup>
+- - Mercury (II) iodide
+  - HgI<sub>2</sub>
+  - 2.9 × 10<sup>−29</sup>
+- - Mercury(II) sulfide (red)
+  - HgS
+  - 4 × 10<sup>−53</sup>
+- - Mercury(II) sulfide (black)
+  - HgS
+  - 1.6 × 10<sup>−52</sup>
+- - Neodymium carbonate
+  - Nd<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub>
+  - 1.08 × 10<sup>−33</sup>
+- - Nickel(II) carbonate
+  - NiCO<sub>3</sub>
+  - 1.42 × 10<sup>−7</sup>
+- - Nickel(II) hydroxide
+  - Ni(OH)<sub>2</sub>
+  - 5.48 × 10<sup>−16</sup>
+- - Nickel(II) iodate
+  - Ni(IO<sub>3</sub>)<sub>2</sub>
+  - 4.71 × 10<sup>−5</sup>
+- - Nickel(II) phosphate
+  - Ni<sub>3</sub>(PO<sub>4</sub>)<sub>2</sub>
+  - 4.74 × 10<sup>−32</sup>
+- - Palladium(II) thiocyanate
+  - Pd(SCN)<sub>2</sub>
+  - 4.39 × 10<sup>−23</sup>
+- - Potassium hexachloroplatinate
+  - K<sub>2</sub>PtCl<sub>6</sub>
+  - 7.48 × 10<sup>−6</sup>
+- - Potassium perchlorate
+  - KClO<sub>4</sub>
+  - 1.05 × 10<sup>−2</sup>
+- - Potassium periodate
+  - KIO<sub>4</sub>
+  - 3.71 × 10<sup>−4</sup>
+- - Praseodymium hydroxide
+  - Pr(OH)<sub>3</sub>
+  - 3.39 × 10<sup>−24</sup>
+- - Rubidium perchlorate
+  - RbClO<sub>4</sub>
+  - 3.00 × 10<sup>−3</sup>
+- - Scandium fluoride
+  - ScF<sub>3</sub>
+  - 5.81 × 10<sup>−24</sup>
+- - Scandium hydroxide
+  - Sc(OH)<sub>3</sub>
+  - 2.22 × 10<sup>−31</sup>
+- - Silver(I) acetate
+  - AgCH<sub>3</sub>CO<sub>2</sub>
+  - 1.94 × 10<sup>−3</sup>
+- - Silver(I) arsenate
+  - Ag<sub>3</sub>AsO<sub>4</sub>
+  - 1.03 × 10<sup>−22</sup>
+- - Silver(I) bromate
+  - AgBrO<sub>3</sub>
+  - 5.38 × 10<sup>−5</sup>
+- - Silver(I) bromide
+  - AgBr
+  - 5.35 × 10<sup>−13</sup>
+- - Silver(I) carbonate
+  - Ag<sub>2</sub>CO<sub>3</sub>
+  - 8.46 × 10<sup>−12</sup>
+- - Silver(I) chloride
+  - AgCl
+  - 1.77 × 10<sup>−10</sup>
+- - Silver(I) chromate
+  - Ag<sub>2</sub>CrO<sub>4</sub>
+  - 1.12 × 10<sup>−12</sup>
+- - Silver(I) cyanide
+  - AgCN
+  - 5.97 × 10<sup>−17</sup>
+- - Silver(I) iodate
+  - AgIO<sub>3</sub>
+  - 3.17 × 10<sup>−8</sup>
+- - Silver(I) iodide
+  - AgI
+  - 8.52 × 10<sup>−17</sup>
+- - Silver(I) oxalate
+  - Ag<sub>2</sub>C<sub>2</sub>O<sub>4</sub>
+  - 5.40 × 10<sup>−12</sup>
+- - Silver(I) phosphate
+  - Ag<sub>3</sub>PO<sub>4</sub>
+  - 8.89 × 10<sup>−17</sup>
+- - Silver(I) sulfate
+  - Ag<sub>2</sub>SO<sub>4</sub>
+  - 1.20 × 10<sup>−5</sup>
+- - Silver(I) sulfide
+  - Ag<sub>2</sub>S
+  - 6.3 × 10<sup>−50</sup>
+- - Silver(I) sulfite
+  - Ag<sub>2</sub>SO<sub>3</sub>
+  - 1.50 × 10<sup>−14</sup>
+- - Silver(I) thiocyanate
+  - AgSCN
+  - 1.03 × 10<sup>−12</sup>
+- - Strontium arsenate
+  - Sr<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>
+  - 4.29 × 10<sup>−19</sup>
+- - Strontium carbonate
+  - SrCO<sub>3</sub>
+  - 5.60 × 10<sup>−10</sup>
+- - Strontium fluoride
+  - SrF<sub>2</sub>
+  - 4.33 × 10<sup>−9</sup>
+- - Strontium iodate
+  - Sr(IO<sub>3</sub>)<sub>2</sub>
+  - 1.14 × 10<sup>−7</sup>
+- - Strontium sulfate
+  - SrSO<sub>4</sub>
+  - 3.44 × 10<sup>−7</sup>
+- - Thallium(I) bromate
+  - TlBrO<sub>3</sub>
+  - 1.10 × 10<sup>−4</sup>
+- - Thallium(I) bromide
+  - TlBr
+  - 3.71 × 10<sup>−6</sup>
+- - Thallium(I) chloride
+  - TlCl
+  - 1.86 × 10<sup>−4</sup>
+- - Thallium(I) chromate
+  - Tl<sub>2</sub>CrO<sub>4</sub>
+  - 8.67 × 10<sup>−13</sup>
+- - Thallium(I) iodate
+  - TlIO<sub>3</sub>
+  - 3.12 × 10<sup>−6</sup>
+- - Thallium(I) iodide
+  - TlI
+  - 5.54 × 10<sup>−8</sup>
+- - Thallium(I) thiocyanate
+  - TlSCN
+  - 1.57 × 10<sup>−4</sup>
+- - Thallium(III) hydroxide
+  - Tl(OH)<sub>3</sub>
+  - 1.68 × 10<sup>−44</sup>
+- - Tin(II) hydroxide
+  - Sn(OH)<sub>2</sub>
+  - 5.45 × 10<sup>−27</sup>
+- - Tin(II) sulfide
+  - SnS
+  - 1.0 × 10<sup>−25</sup>
+- - Yttrium carbonate
+  - Y<sub>2</sub>(CO<sub>3</sub>)<sub>3</sub>
+  - 1.03 × 10<sup>−31</sup>
+- - Yttrium fluoride
+  - YF<sub>3</sub>
+  - 8.62 × 10<sup>−21</sup>
+- - Yttrium hydroxide
+  - Y(OH)<sub>3</sub>
+  - 1.00 × 10<sup>−22</sup>
+- - Yttrium iodate
+  - Y(IO<sub>3</sub>)<sub>3</sub>
+  - 1.12 × 10<sup>−10</sup>
+- - Zinc arsenate
+  - Zn<sub>3</sub>(AsO<sub>4</sub>)<sub>2</sub>
+  - 2.8 × 10<sup>−28</sup>
+- - Zinc carbonate
+  - ZnCO<sub>3</sub>
+  - 1.46 × 10<sup>−10</sup>
+- - Zinc fluoride
+  - ZnF<sub>2</sub>
+  - 3.04 × 10<sup>−2</sup>
+- - Zinc hydroxide
+  - Zn(OH)<sub>2</sub>
+  - 3 × 10<sup>−17</sup>
+- - Zinc selenide
+  - ZnSe
+  - 3.6 × 10<sup>−26</sup>
+- - Zinc sulfide (wurtzite)
+  - ZnS
+  - 1.6 × 10<sup>−24</sup>
+- - Zinc sulfide (sphalerite)
+  - ZnS
+  - 2.5 × 10<sup>−22</sup>
+
+````````
+
+Source of data: *CRC Handbook of Chemistry and Physics,* 84th Edition (2004); sulfide data from *Lange's Handbook of Chemistry,* 15th Edition (1999).

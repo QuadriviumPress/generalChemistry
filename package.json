@@ -1,0 +1,24 @@
+{
+  "name": "general-chemistry",
+  "version": "1.0.0",
+  "private": true,
+  "description": "General Chemistry: Principles, Patterns, and Applications, a complete MyST adaptation of the Saylor Academy edition.",
+  "license": "CC-BY-NC-SA-3.0",
+  "packageManager": "npm@10.9.8",
+  "engines": {
+    "node": ">=22",
+    "npm": ">=10 <11"
+  },
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html && python3 scripts/verify_rendered.py && node scripts/setup-pwa.mjs",
+    "verify": "python3 scripts/verify_book.py",
+    "check": "npm run verify && myst build --html --strict --check-links && python3 scripts/verify_rendered.py",
+    "import:source": "python3 scripts/import_source.py"
+  },
+  "devDependencies": {
+    "mystmd": "1.11.0",
+    "sharp": "0.35.4",
+    "yaml": "2.9.1"
+  }
+}

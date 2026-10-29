@@ -1,0 +1,461 @@
+(src-averill-1-0-ch96appc)=
+
+# Appendix C: Dissociation Constants and pKa Values for Acids at 25°C
+
+````````{list-table}
+:header-rows: 1
+
+- - Name
+  - Formula
+  - *K* <sub>a1</sub>
+  - p*K*<sub>a1</sub>
+  - *K* <sub>a2</sub>
+  - p*K*<sub>a2</sub>
+  - *K* <sub>a3</sub>
+  - p*K*<sub>a3</sub>
+  - *K* <sub>a4</sub>
+  - p*K*<sub>a4</sub>
+- - Acetic acid
+  - CH<sub>3</sub>CO<sub>2</sub>H
+  - 1.75 × 10<sup>−5</sup>
+  - 4.756
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Arsenic acid
+  - H<sub>3</sub>AsO<sub>4</sub>
+  - 5.5 × 10<sup>−3</sup>
+  - 2.26
+  - 1.7 × 10<sup>−7</sup>
+  - 6.76
+  - 5.1 × 10<sup>−12</sup>
+  - 11.29
+  -  
+  -  
+- - Benzoic acid
+  - C<sub>6</sub>H<sub>5</sub>CO<sub>2</sub>H
+  - 6.25 × 10<sup>−5</sup>
+  - 4.204
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Boric acid
+  - H<sub>3</sub>BO<sub>3</sub>
+  - 5.4 × 10<sup>−10</sup>\*
+  - 9.27\*
+  - \>1 × 10<sup>−14</sup>\*
+  - \>14\*
+  -  
+  -  
+  -  
+  -  
+- - Bromoacetic acid
+  - CH<sub>2</sub>BrCO<sub>2</sub>H
+  - 1.3 × 10<sup>−3</sup>
+  - 2.90
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Carbonic acid
+  - H<sub>2</sub>CO<sub>3</sub>
+  - 4.5 × 10<sup>−7</sup>
+  - 6.35
+  - 4.7 × 10<sup>−11</sup>
+  - 10.33
+  -  
+  -  
+  -  
+  -  
+- - Chloroacetic acid
+  - CH<sub>2</sub>ClCO<sub>2</sub>H
+  - 1.3 × 10<sup>−3</sup>
+  - 2.87
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Chlorous acid
+  - HClO<sub>2</sub>
+  - 1.1 × 10<sup>−2</sup>
+  - 1.94
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Chromic acid
+  - H<sub>2</sub>CrO<sub>4</sub>
+  - 1.8 × 10<sup>−1</sup>
+  - 0.74
+  - 3.2 × 10<sup>−7</sup>
+  - 6.49
+  -  
+  -  
+  -  
+  -  
+- - Citric acid
+  - C<sub>6</sub>H<sub>8</sub>O<sub>7</sub>
+  - 7.4 × 10<sup>−4</sup>
+  - 3.13
+  - 1.7 × 10<sup>−5</sup>
+  - 4.76
+  - 4.0 × 10<sup>−7</sup>
+  - 6.40
+  -  
+  -  
+- - Cyanic acid
+  - HCNO
+  - 3.5 × 10<sup>−4</sup>
+  - 3.46
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Dichloroacetic acid
+  - CHCl<sub>2</sub>CO<sub>2</sub>H
+  - 4.5 × 10<sup>−2</sup>
+  - 1.35
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Fluoroacetic acid
+  - CH<sub>2</sub>FCO<sub>2</sub>H
+  - 2.6 × 10<sup>−3</sup>
+  - 2.59
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Formic acid
+  - CH<sub>2</sub>O<sub>2</sub>
+  - 1.8 × 10<sup>−4</sup>
+  - 3.75
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Hydrazoic acid
+  - HN<sub>3</sub>
+  - 2.5 × 10<sup>−5</sup>
+  - 4.6
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Hydrocyanic acid
+  - HCN
+  - 6.2 × 10<sup>−10</sup>
+  - 9.21
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Hydrofluoric acid
+  - HF
+  - 6.3 × 10<sup>−4</sup>
+  - 3.20
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Hydrogen selenide
+  - H<sub>2</sub>Se
+  - 1.3 × 10<sup>−4</sup>
+  - 3.89
+  - 1.0× 10<sup>−11</sup>
+  - 11.0
+  -  
+  -  
+  -  
+  -  
+- - Hydrogen sulfide
+  - H<sub>2</sub>S
+  - 8.9 × 10<sup>−8</sup>
+  - 7.05
+  - 1 × 10<sup>−19</sup>
+  - 19
+  -  
+  -  
+  -  
+  -  
+- - Hydrogen telluride
+  - H<sub>2</sub>Te
+  - 2.5 × 10<sup>−3‡</sup>
+  - 2.6<sup>‡</sup>
+  - 1 × 10<sup>−11</sup>
+  - 11
+  -  
+  -  
+  -  
+  -  
+- - Hypobromous acid
+  - HBrO
+  - 2.8 × 10<sup>−9</sup>
+  - 8.55
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Hypochlorous acid
+  - HClO
+  - 4.0 × 10<sup>−8</sup>
+  - 7.40
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Hypoiodous acid
+  - HIO
+  - 3.2 × 10<sup>−11</sup>
+  - 10.5
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Iodic acid
+  - HIO<sub>3</sub>
+  - 1.7 × 10<sup>−1</sup>
+  - 0.78
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Iodoacetic acid
+  - CH<sub>2</sub>ICO<sub>2</sub>H
+  - 6.6 × 10<sup>−4</sup>
+  - 3.18
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Nitrous acid
+  - HNO<sub>2</sub>
+  - 5.6 × 10<sup>−4</sup>
+  - 3.25
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Oxalic acid
+  - C<sub>2</sub>H<sub>2</sub>O<sub>4</sub>
+  - 5.6 × 10<sup>−2</sup>
+  - 1.25
+  - 1.5 × 10<sup>−4</sup>
+  - 3.81
+  -  
+  -  
+  -  
+  -  
+- - Periodic acid
+  - HIO<sub>4</sub>
+  - 2.3 × 10<sup>−2</sup>
+  - 1.64
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Phenol
+  - C<sub>6</sub>H<sub>5</sub>OH
+  - 1.0 × 10<sup>−10</sup>
+  - 9.99
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Phosphoric acid
+  - H<sub>3</sub>PO<sub>4</sub>
+  - 6.9 × 10<sup>−3</sup>
+  - 2.16
+  - 6.2 × 10<sup>−8</sup>
+  - 7.21
+  - 4.8 × 10<sup>−13</sup>
+  - 12.32
+  -  
+  -  
+- - Phosphorous acid
+  - H<sub>3</sub>PO<sub>3</sub>
+  - 5.0 × 10<sup>−2</sup>\*
+  - 1.3\*
+  - 2.0 × 10<sup>−7</sup>\*
+  - 6.70\*
+  -  
+  -  
+  -  
+  -  
+- - Pyrophosphoric acid
+  - H<sub>4</sub>P<sub>2</sub>O<sub>7</sub>
+  - 1.2 × 10<sup>−1</sup>
+  - 0.91
+  - 7.9 × 10<sup>−3</sup>
+  - 2.10
+  - 2.0 × 10<sup>−7</sup>
+  - 6.70
+  - 4.8 × 10<sup>−10</sup>
+  - 9.32
+- - Resorcinol
+  - C<sub>6</sub>H<sub>4</sub>(OH)<sub>2</sub>
+  - 4.8 × 10<sup>−10</sup>
+  - 9.32
+  - 7.9 × 10<sup>−12</sup>
+  - 11.1
+  -  
+  -  
+  -  
+  -  
+- - Selenic acid
+  - H<sub>2</sub>SeO<sub>4</sub>
+  - Strong
+  - Strong
+  - 2.0 × 10<sup>−2</sup>
+  - 1.7
+  -  
+  -  
+  -  
+  -  
+- - Selenious acid
+  - H<sub>2</sub>SeO<sub>3</sub>
+  - 2.4 × 10<sup>−3</sup>
+  - 2.62
+  - 4.8 × 10<sup>−9</sup>
+  - 8.32
+  -  
+  -  
+  -  
+  -  
+- - Sulfuric acid
+  - H<sub>2</sub>SO<sub>4</sub>
+  - Strong
+  - Strong
+  - 1.0 × 10<sup>−2</sup>
+  - 1.99
+  -  
+  -  
+  -  
+  -  
+- - Sulfurous acid
+  - H<sub>2</sub>SO<sub>3</sub>
+  - 1.4 × 10<sup>−2</sup>
+  - 1.85
+  - 6.3 × 10<sup>−8</sup>
+  - 7.2
+  -  
+  -  
+  -  
+  -  
+- - *meso*-Tartaric acid
+  - C<sub>4</sub>H<sub>6</sub>O<sub>6</sub>
+  - 6.8 × 10<sup>−4</sup>
+  - 3.17
+  - 1.2 × 10<sup>−5</sup>
+  - 4.91
+  -  
+  -  
+  -  
+  -  
+- - Telluric acid
+  - H<sub>2</sub>TeO<sub>4</sub>
+  - 2.1 × 10<sup>−8‡</sup>
+  - 7.68<sup>‡</sup>
+  - 1.0 × 10<sup>−11‡</sup>
+  - 11.0<sup>‡</sup>
+  -  
+  -  
+  -  
+  -  
+- - Tellurous acid
+  - H<sub>2</sub>TeO<sub>3</sub>
+  - 5.4 × 10<sup>−7</sup>
+  - 6.27
+  - 3.7 × 10<sup>−9</sup>
+  - 8.43
+  -  
+  -  
+  -  
+  -  
+- - Trichloroacetic acid
+  - CCl<sub>3</sub>CO<sub>2</sub>H
+  - 2.2 × 10<sup>−1</sup>
+  - 0.66
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - Trifluoroacetic acid
+  - CF<sub>3</sub>CO<sub>2</sub>H
+  - 3.0 × 10<sup>−1</sup>
+  - 0.52
+  -  
+  -  
+  -  
+  -  
+  -  
+  -  
+- - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+  - \* Measured at 20°C, not 25°C.
+- - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+  - ‡ Measured at 18°C, not 25°C.
+
+````````
+
+Source of data: *CRC Handbook of Chemistry and Physics,* 84th Edition (2004).

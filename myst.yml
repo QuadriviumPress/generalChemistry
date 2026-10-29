@@ -1,0 +1,90 @@
+version: 1
+project:
+  title: 'General Chemistry: Principles, Patterns, and Applications'
+  short_title: General Chemistry
+  description: A complete general chemistry textbook covering matter, reactions, chemical
+    structure, thermodynamics, equilibrium, electrochemistry, and organic chemistry.
+  authors:
+  - name: Saylor Academy
+    note: Publisher of the source adaptation (2012); original creator attribution
+      omitted at the licensor’s request.
+  license: CC-BY-NC-SA-3.0
+  open_access: true
+  github: QuadriviumPress/generalChemistry
+  keywords:
+  - chemistry
+  - general chemistry
+  - thermochemistry
+  - open textbook
+  error_rules:
+  - rule: link-resolves
+    severity: ignore
+    keys:
+    - '{http,https}://**'
+  - rule: doi-link-valid
+    severity: ignore
+  toc:
+  - file: index.md
+  - title: Front matter
+    children:
+    - file: front/license.md
+    - file: front/preface.md
+  - title: Chapters
+    children:
+    - file: chapters/ch-01-introduction-to-chemistry.md
+    - file: chapters/ch-02-molecules-ions-and-chemical-fo.md
+    - file: chapters/ch-03-chemical-reactions.md
+    - file: chapters/ch-04-reactions-in-aqueous-solution.md
+    - file: chapters/ch-05-energy-changes-in-chemical-rea.md
+    - file: chapters/ch-06-the-structure-of-atoms.md
+    - file: chapters/ch-07-the-periodic-table-and-periodi.md
+    - file: chapters/ch-08-ionic-versus-covalent-bonding.md
+    - file: chapters/ch-09-molecular-geometry-and-covalen.md
+    - file: chapters/ch-10-gases.md
+    - file: chapters/ch-11-liquids.md
+    - file: chapters/ch-12-solids.md
+    - file: chapters/ch-13-solutions.md
+    - file: chapters/ch-14-chemical-kinetics.md
+    - file: chapters/ch-15-chemical-equilibrium.md
+    - file: chapters/ch-16-aqueous-acid-base-equilibriums.md
+    - file: chapters/ch-17-solubility-and-complexation-eq.md
+    - file: chapters/ch-18-chemical-thermodynamics.md
+    - file: chapters/ch-19-electrochemistry.md
+    - file: chapters/ch-20-nuclear-chemistry.md
+    - file: chapters/ch-21-periodic-trends-and-the-s-bloc.md
+    - file: chapters/ch-22-the-p-block-elements.md
+    - file: chapters/ch-23-the-d-block-elements.md
+    - file: chapters/ch-24-organic-compounds.md
+  - title: Appendices and credits
+    children:
+    - file: appendices/appendix-a-standard-thermodyna.md
+    - file: appendices/appendix-b-solubility-product-.md
+    - file: appendices/appendix-c-dissociation-consta.md
+    - file: appendices/appendix-d-dissociation-consta.md
+    - file: appendices/appendix-e-standard-reduction-.md
+    - file: appendices/appendix-f-properties-of-water.md
+    - file: appendices/appendix-g-physical-constants-.md
+    - file: appendices/appendix-h-periodic-table-of-e.md
+    - file: appendices/appendix-i-experimentally-meas.md
+    - file: appendices/art-and-photo-credits.md
+  - file: SOURCES.md
+  numbering:
+    headings: false
+    equations: false
+    figures: false
+    tables: false
+site:
+  template: book-theme
+  title: General Chemistry
+  options:
+    favicon: images/favicon.svg
+    logo: images/logo.svg
+    logo_dark: images/logo-dark.svg
+    logo_alt: Open book logo
+    logo_text: General Chemistry
+    logo_url: /generalChemistry/
+    style: css/custom.css
+    hide_authors: false
+  nav:
+  - title: Sources & Attribution
+    url: /SOURCES

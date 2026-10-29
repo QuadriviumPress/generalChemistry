@@ -1,0 +1,195 @@
+(src-averill-1-0-ch96appi)=
+
+# Appendix I: Experimentally Measured Masses of Selected Isotopes
+
+````````{list-table}
+:header-rows: 1
+
+- - Isotope
+  - Mass (amu)
+  - Isotope
+  - Mass (amu)
+  - Isotope
+  - Mass (amu)
+- - <sup>1</sup>H
+  - 1.007825
+  - <sup>14</sup>N
+  - 14.003074
+  - <sup>208</sup>Po
+  - 207.981246
+- - <sup>2</sup>H
+  - 2.014102
+  - <sup>16</sup>O
+  - 15.994915
+  - <sup>210</sup>Po
+  - 209.982874
+- - <sup>3</sup>H
+  - 3.016049
+  - <sup>52</sup>Cr
+  - 51.940508
+  - <sup>222</sup>Rn
+  - 222.017578
+- - <sup>3</sup>He
+  - 3.016029
+  - <sup>56</sup>Fe
+  - 55.934938
+  - <sup>226</sup>Ra
+  - 226.025410
+- - <sup>4</sup>He
+  - 4.002603
+  - <sup>59</sup>Co
+  - 58.933195
+  - <sup>230</sup>Th
+  - 230.033134
+- - <sup>6</sup>Li
+  - 6.015123
+  - <sup>58</sup>Ni
+  - 57.935343
+  - <sup>234</sup>Th
+  - 234.043601
+- - <sup>7</sup>Li
+  - 7.016005
+  - <sup>60</sup>Ni
+  - 59.930786
+  - <sup>234</sup>Pa
+  - 234.043308
+- - <sup>9</sup>Be
+  - 9.012182
+  - <sup>90</sup>Rb
+  - 89.914802
+  - <sup>233</sup>U
+  - 233.039635
+- - <sup>10</sup>B
+  - 10.012937
+  - <sup>144</sup>Cs
+  - 143.932077
+  - <sup>234</sup>U
+  - 234.040952
+- - <sup>11</sup>B
+  - 11.009305
+  - <sup>206</sup>Pb
+  - 205.974465
+  - <sup>235</sup>U
+  - 235.043930
+- - <sup>12</sup>C
+  - 12
+  - <sup>207</sup>Pb
+  - 206.975897
+  - <sup>238</sup>U
+  - 238.050788
+- - <sup>13</sup>C
+  - 13.003355
+  - <sup>208</sup>Pb
+  - 207.976652
+  - <sup>239</sup>Pu
+  - 239.052163
+- - <sup>14</sup>C
+  - 14.003242
+  -  
+  -  
+  -  
+  -  
+
+````````
+
+Data source: G. Audi, A. H. Wapstra, and C. Thibault, *The AME2003 atomic mass evaluation*.
+
+This table is provided as a reference.
+
+````````{list-table}
+:header-rows: 1
+
+- - Isotope
+  - Mass (amu)
+  - Isotope
+  - Mass (amu)
+- - <sup>8</sup>B
+  - 8.024607
+  - <sup>209</sup>Fr
+  - 208.99592
+- - <sup>40</sup>K
+  - 39.963998
+  - <sup>210</sup>Po
+  - 209.982874
+- - <sup>52</sup>Cr
+  - 51.940508
+  - <sup>212</sup>At
+  - 211.990745
+- - <sup>58</sup>Ni
+  - 57.935343
+  - <sup>214</sup>Pb
+  - 213.999797
+- - <sup>59</sup>Co
+  - 58.933195
+  - <sup>214</sup>Bi
+  - 213.998712
+- - <sup>60</sup>Co
+  - 59.933817
+  - <sup>216</sup>Fr
+  - 216.003198
+- - <sup>60</sup>Ni
+  - 59.930786
+  - <sup>199</sup>Pb
+  - 198.972917
+- - <sup>90</sup>Sr
+  - 89.907738
+  - <sup>222</sup>Rn
+  - 222.017578
+- - <sup>92</sup>Kr
+  - 91.926156
+  - <sup>226</sup>Ra
+  - 226.025410
+- - <sup>141</sup>Ba
+  - 140.914411
+  - <sup>227</sup>Ra
+  - 227.029178
+- - <sup>143</sup>Xe
+  - 142.935110
+  - <sup>228</sup>Ac
+  - 228.031021
+- - <sup>167</sup>Os
+  - 166.971550
+  - <sup>230</sup>Th
+  - 230.033134
+- - <sup>171</sup>Pt
+  - 170.981240
+  - <sup>233</sup>U
+  - 233.039635
+- - <sup>194</sup>Hg
+  - 193.965439
+  - <sup>234</sup>Th
+  - 234.043601
+- - <sup>194</sup>Tl
+  - 193.971200
+  - <sup>234</sup>Pa
+  - 234.043308
+- - <sup>199</sup>Pb
+  - 198.972917
+  - <sup>233</sup>U
+  - 233.039635
+- - <sup>199</sup>Bi
+  - 198.977672
+  - <sup>234</sup>U
+  - 234.040952
+- - <sup>206</sup>Pb
+  - 205.974465
+  - <sup>235</sup>U
+  - 235.043930
+- - <sup>207</sup>Pb
+  - 206.975897
+  - <sup>238</sup>Pa
+  - 238.054500
+- - <sup>208</sup>Pb
+  - 207.976652
+  - <sup>238</sup>U
+  - 238.050788
+- - <sup>208</sup>Bi
+  - 207.979742
+  - <sup>239</sup>Pu
+  - 239.052163
+- - <sup>208</sup>Po
+  - 207.981246
+  - <sup>245</sup>Pu
+  - 245.067747
+
+````````
