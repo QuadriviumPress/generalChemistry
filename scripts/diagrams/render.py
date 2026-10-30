@@ -12,10 +12,11 @@ from figs_a import FIGS as A
 from figs_a2 import FIGS as A2
 from figs_b import FIGS as B
 from figs_c import FIGS as C
+from figs_periodic import FIGS as P
 
 ROOT = Path(__file__).resolve().parents[2]
 OUT = ROOT / 'images/replacements'
-FIGS = {**A, **A2, **B, **C}
+FIGS = {**A, **A2, **B, **C, **P}
 
 
 def main(args):

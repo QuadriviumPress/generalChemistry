@@ -6,41 +6,43 @@
 - - Selected Physical Constants
   - Selected Physical Constants
 - - Atomic mass unit
-  - 1 amu = 1.6605389 × 10<sup>−24</sup> g
+  - 1 amu = 1.6605391 × 10<sup>−24</sup> g
 - - Atomic mass unit
-  - 1 g = 6.022142 × 10<sup>23</sup> amu
-- - Avogadro's number
-  - *N* = 6.022142 × 10<sup>23</sup>/mol
+  - 1 g = 6.022141 × 10<sup>23</sup> amu
+- - Avogadro's constant
+  - *N*<sub>A</sub> = 6.02214076 × 10<sup>23</sup>/mol (exact)
 - - Boltzmann's constant
-  - *k* = 1.380651 × 10<sup>−23</sup> J/K
+  - *k* = 1.380649 × 10<sup>−23</sup> J/K (exact)
 - - Charge on electron
-  - *e* = 1.6021765 × 10<sup>−19</sup> C
+  - *e* = 1.602176634 × 10<sup>−19</sup> C (exact)
 - - Faraday's constant
-  - *F* = 9.6485338 × 10<sup>4</sup> C/mol
+  - *F* = 9.648533212 × 10<sup>4</sup> C/mol (exact)
 - - Gas constant
-  - *R* = 0.0820575 (L atm)/(mol K)
+  - *R* = 0.08205737 (L atm)/(mol K)
 - - Gas constant
-  - = 8.31447 J/(mol K)
+  - = 8.314462618 J/(mol K) (exact)
 - - Mass of electron
   - *m*<sub>e</sub> = 5.485799 × 10<sup>−4</sup> amu
 - - Mass of electron
-  - = 9.109383 × 10<sup>−28</sup> g
+  - = 9.109384 × 10<sup>−28</sup> g
 - - Mass of neutron
   - *m*<sub>n</sub> = 1.0086649 amu
 - - Mass of neutron
-  - = 1.6749273 × 10<sup>−24</sup> g
+  - = 1.674928 × 10<sup>−24</sup> g
 - - Mass of proton
   - *m*<sub>p</sub> = 1.0072765 amu
 - - Mass of proton
-  - = 1.6726217 × 10<sup>−24</sup> g
+  - = 1.672622 × 10<sup>−24</sup> g
 - - Pi
   - π = 3.1415927
 - - Planck's constant
-  - *h* = 6.626069 × 10 <sup>−34</sup>J s
+  - *h* = 6.62607015 × 10<sup>−34</sup> J s (exact)
 - - Speed of light (in vacuum)
   - *c* = 2.99792458 × 10<sup>8</sup> m/s (exact)
 
 ````````
+
+The 2019 revision of the SI fixed Avogadro's constant, the Planck constant, the elementary charge, and the Boltzmann constant, so those values and the constants derived from them are exact. The atomic mass unit and the particle masses are CODATA 2022 values, rounded to the displayed digits. The number of atomic mass units in 1 g is 6.022141 × 10<sup>23</sup>, which differs slightly from Avogadro's constant.
 
 ````````{list-table}
 :header-rows: 1

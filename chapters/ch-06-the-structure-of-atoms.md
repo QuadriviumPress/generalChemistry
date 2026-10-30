@@ -1946,7 +1946,7 @@ with a filled 5*d* subshell, a 6*s*<sup>2</sup>4*f*<sup>14</sup>5*d*<sup>10</sup
 
 Exercise
 
-Although element 114 is not stable enough to occur in nature, two isotopes of element 114 were created for the first time in a nuclear reactor in 1999 by a team of Russian and American scientists. Write the complete electron configuration for element 114.
+Although flerovium (element 114) is not stable enough to occur in nature, two isotopes of flerovium were first created in 1999 by a team of Russian and American scientists, using a particle accelerator. Write the complete electron configuration for flerovium.
 
 **Answer:** 1*s*<sup>2</sup>2*s*<sup>2</sup>2*p*<sup>6</sup>3*s*<sup>2</sup>3*p*<sup>6</sup>4*s*<sup>2</sup>3*d*<sup>10</sup>4*p*<sup>6</sup>5*s*<sup>2</sup>4*d*<sup>10</sup>5*p*<sup>6</sup>6*s*<sup>2</sup>4*f*<sup>14</sup>5*d*<sup>10</sup>6*p*<sup>6</sup>7*s*<sup>2</sup>5*f*<sup>14</sup>6*d*<sup>10</sup>7*p*<sup>2</sup>
 
@@ -2338,7 +2338,7 @@ In addition to the three quantum numbers (*n*, *l*, *m*<sub>*l*</sub>) dictated 
 
 17. Tellurium, a metal used in semiconductor devices, is also used as a coloring agent in porcelains and enamels. Illustrate the aufbau principle, the Pauli exclusion principle, and Hund's rule using tellurium metal.
 
-18. A new element is believed to have been discovered by a team of Russian and American scientists, although its existence is yet to be independently confirmed. Six atoms of element 117, temporarily named ununseptium, were created by smashing together isotopes of calcium with the element berkelium. Give the following:
+18. Element 117, tennessine (Ts), was confirmed in 2015 and given its official name in 2016. Six atoms of the element were first created by a team of Russian and American scientists, who smashed together isotopes of calcium and berkelium. Give the following:
 
     1.  the complete electron configuration of this element
     2.  the valence electron configuration

@@ -764,7 +764,7 @@ Table 22.2 Selected Properties of the Group 14 Elements
 - - atomic mass (amu)
   - 12.01
   - 28.09
-  - 72.64
+  - 72.630
   - 118.71
   - 207.2
 - - valence electron configuration\*
@@ -3098,7 +3098,7 @@ The noble gases have a closed-shell valence electron configuration. The ionizati
 
 18. 
 
-19. Element 113: 5*f*<sup>14</sup>6*d*<sup>10</sup>7*s*<sup>2</sup>7*p*<sup>1</sup>, +1, E<sup>+</sup>(aq); element 115: 5*f*<sup>14</sup>6*d*<sup>10</sup>7*s*<sup>2</sup>7*p*<sup>3</sup>, +3, E<sup>3+</sup>(aq)
+19. Nihonium (element 113): 5*f*<sup>14</sup>6*d*<sup>10</sup>7*s*<sup>2</sup>7*p*<sup>1</sup>, +1, E<sup>+</sup>(aq); moscovium (element 115): 5*f*<sup>14</sup>6*d*<sup>10</sup>7*s*<sup>2</sup>7*p*<sup>3</sup>, +3, E<sup>3+</sup>(aq)
 
 20. 
 

@@ -2,13 +2,15 @@
 
 # Appendix H: Periodic Table of Elements
 
-![Two systems for numbering periodic groups are shown: 1--18 is the system currently recommended by the Inernational Union of Pure and Applied Chemistry (IUPAC); an older U.S. system, in which letters designate main group elements (A) and transition elements (B), is given parentheses.](/images/section_36/8683bef5b81e5ca068727d0382b5909f.jpg)
+![Periodic table with IUPAC group numbers 1 to 18 and the older U.S. A and B numbers. Each cell shows the atomic number, symbol, and an abridged atomic mass. Alkali metals are purple, alkaline earth metals green, other metals teal, metalloids gold, nonmetals tan, halogens red, and noble gases dark blue. The lanthanides and actinides are in two rows below.](/images/replacements/fig-h-periodic-table.svg)
 
-Two systems for numbering periodic groups are shown: 1--18 is the system currently recommended by the Inernational Union of Pure and Applied Chemistry (IUPAC); an older U.S. system, in which letters designate main group elements (A) and transition elements (B), is given parentheses.
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)). Abridged atomic masses follow the [2024 standard atomic weights](https://ciaaw.org/atomic-weights.htm) of the IUPAC Commission on Isotopic Abundances and Atomic Weights. A bracketed value is the mass number of the longest-lived isotope.
 
-An atomic mass in brackets indicates the mass of the longest-lived isotope of an element having no stable isotopes.
+Two systems for numbering periodic groups are shown: 1--18 is the system currently recommended by the International Union of Pure and Applied Chemistry (IUPAC); an older U.S. system, in which letters designate main group elements (A) and transition elements (B), is given in parentheses.
 
-Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293 amu) have been recognized by the International Union of Pure and Applied Chemistry (IUPAC). The collaborating scientists from the Joint Institute for Nuclear Research in Dubna, Russia, and Lawrence Livermore National Laboratory in California have been invited to propose names for the new elements. See <http://iupac.org/publications/pac/asap/PAC-REP-10-05-01>
+An atomic mass in brackets indicates the mass number of the longest-lived isotope of an element that has no standard atomic weight. The figure shows abridged values. The list below is the reference table.
+
+IUPAC has assigned official names and symbols to elements 113–118: nihonium (Nh), flerovium (Fl), moscovium (Mc), livermorium (Lv), tennessine (Ts), and oganesson (Og). None of them has a stable isotope.
 
 ````````{list-table}
 :header-rows: 2
@@ -28,7 +30,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Aluminum
   - Al
   - 13
-  - 26.9815386(8)
+  - 26.9815384(3)
 - - Americium
   - Am
   - 95
@@ -40,11 +42,11 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Argon
   - Ar
   - 18
-  - 39.948(1)
+  - 39.95‡
 - - Arsenic
   - As
   - 33
-  - 74.92160(2)
+  - 74.921595(6)
 - - Astatine
   - At
   - 85
@@ -60,7 +62,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Beryllium
   - Be
   - 4
-  - 9.012182(3)
+  - 9.0121831(5)
 - - Bismuth
   - Bi
   - 83
@@ -68,19 +70,19 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Bohrium
   - Bh
   - 107
-  - \[267\]\*
+  - \[270\]\*
 - - Boron
   - B
   - 5
-  - 10.811(7)
+  - 10.81‡
 - - Bromine
   - Br
   - 35
-  - 79.904(1)
+  - 79.904‡
 - - Cadmium
   - Cd
   - 48
-  - 112.411(8)
+  - 112.414(4)
 - - Calcium
   - Ca
   - 20
@@ -92,7 +94,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Carbon
   - C
   - 6
-  - 12.0107(8)
+  - 12.011‡
 - - Cerium
   - Ce
   - 58
@@ -100,11 +102,11 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Cesium
   - Cs
   - 55
-  - 132.9054519(2)
+  - 132.90545196(6)
 - - Chlorine
   - Cl
   - 17
-  - 35.453(2)
+  - 35.45‡
 - - Chromium
   - Cr
   - 24
@@ -112,8 +114,8 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Cobalt
   - Co
   - 27
-  - 58.933195(5)
-- - Copernicium†
+  - 58.933194(3)
+- - Copernicium
   - Cn
   - 112
   - \[285\]\*
@@ -132,7 +134,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Dubnium
   - Db
   - 105
-  - \[268\]\*
+  - \[270\]\*
 - - Dysprosium
   - Dy
   - 66
@@ -153,10 +155,14 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
   - Fm
   - 100
   - \[257\]\*
+- - Flerovium
+  - Fl
+  - 114
+  - \[289\]\*
 - - Fluorine
   - F
   - 9
-  - 18.9984032(5)
+  - 18.998403162(5)
 - - Francium
   - Fr
   - 87
@@ -164,7 +170,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Gadolinium
   - Gd
   - 64
-  - 157.25(3)
+  - 157.249(2)
 - - Gallium
   - Ga
   - 31
@@ -172,19 +178,19 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Germanium
   - Ge
   - 32
-  - 72.64(1)
+  - 72.630(8)
 - - Gold
   - Au
   - 79
-  - 196.966569(4)
+  - 196.966570(4)
 - - Hafnium
   - Hf
   - 72
-  - 178.49(2)
+  - 178.486(6)
 - - Hassium
   - Hs
   - 108
-  - \[269\]\*
+  - \[270\]\*
 - - Helium
   - He
   - 2
@@ -192,15 +198,15 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Holmium
   - Ho
   - 67
-  - 164.93032(2)
+  - 164.930329(5)
 - - Hydrogen
   - H
   - 1
-  - 1.00794(7)
+  - 1.008‡
 - - Indium
   - In
   - 49
-  - 114.818(3)
+  - 114.818(1)
 - - Iodine
   - I
   - 53
@@ -208,7 +214,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Iridium
   - Ir
   - 77
-  - 192.217(3)
+  - 192.217(2)
 - - Iron
   - Fe
   - 26
@@ -228,27 +234,31 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Lead
   - Pb
   - 82
-  - 207.2(1)
+  - 207.2‡
 - - Lithium
   - Li
   - 3
-  - 6.941(2)
+  - 6.94‡
+- - Livermorium
+  - Lv
+  - 116
+  - \[293\]\*
 - - Lutetium
   - Lu
   - 71
-  - 174.967(1)
+  - 174.96669(5)
 - - Magnesium
   - Mg
   - 12
-  - 24.3050(6)
+  - 24.305‡
 - - Manganese
   - Mn
   - 25
-  - 54.938045(5)
+  - 54.938043(2)
 - - Meitnerium
   - Mt
   - 109
-  - \[276\]\*
+  - \[278\]\*
 - - Mendelevium
   - Md
   - 101
@@ -256,11 +266,15 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Mercury
   - Hg
   - 80
-  - 200.59(2)
+  - 200.592(3)
 - - Molybdenum
   - Mo
   - 42
-  - 95.94(2)
+  - 95.95(1)
+- - Moscovium
+  - Mc
+  - 115
+  - \[289\]\*
 - - Neodymium
   - Nd
   - 60
@@ -276,19 +290,27 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Nickel
   - Ni
   - 28
-  - 58.6934(2)
+  - 58.6934(4)
+- - Nihonium
+  - Nh
+  - 113
+  - \[286\]\*
 - - Niobium
   - Nb
   - 41
-  - 92.90638(2)
+  - 92.90637(1)
 - - Nitrogen
   - N
   - 7
-  - 14.0067(2)
+  - 14.007‡
 - - Nobelium
   - No
   - 102
   - \[259\]\*
+- - Oganesson
+  - Og
+  - 118
+  - \[294\]\*
 - - Osmium
   - Os
   - 76
@@ -296,7 +318,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Oxygen
   - O
   - 8
-  - 15.9994(3)
+  - 15.999‡
 - - Palladium
   - Pd
   - 46
@@ -304,7 +326,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Phosphorus
   - P
   - 15
-  - 30.973762(2)
+  - 30.973761998(5)
 - - Platinum
   - Pt
   - 78
@@ -324,7 +346,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Praseodymium
   - Pr
   - 59
-  - 140.90765(2)
+  - 140.90766(1)
 - - Promethium
   - Pm
   - 61
@@ -332,7 +354,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Protactinium
   - Pa
   - 91
-  - 231.03588(2)\*
+  - 231.03588(1)\*
 - - Radium
   - Ra
   - 88
@@ -348,11 +370,11 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Rhodium
   - Rh
   - 45
-  - 102.90550(2)
+  - 102.90549(2)
 - - Roentgenium
   - Rg
   - 111
-  - \[280\]\*
+  - \[281\]\*
 - - Rubidium
   - Rb
   - 37
@@ -372,19 +394,19 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Scandium
   - Sc
   - 21
-  - 44.955912(6)
+  - 44.955907(4)
 - - Seaborgium
   - Sg
   - 106
-  - \[271\]\*
+  - \[269\]\*
 - - Selenium
   - Se
   - 34
-  - 78.96(3)
+  - 78.971(8)
 - - Silicon
   - Si
   - 14
-  - 28.0855(3)
+  - 28.085‡
 - - Silver
   - Ag
   - 47
@@ -400,7 +422,7 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Sulfur
   - S
   - 16
-  - 32.065(5)
+  - 32.06‡
 - - Tantalum
   - Ta
   - 73
@@ -408,27 +430,31 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Technetium
   - Tc
   - 43
-  - \[98\]\*
+  - \[97\]\*
 - - Tellurium
   - Te
   - 52
   - 127.60(3)
+- - Tennessine
+  - Ts
+  - 117
+  - \[293\]\*
 - - Terbium
   - Tb
   - 65
-  - 158.92535(2)
+  - 158.925354(7)
 - - Thallium
   - Tl
   - 81
-  - 204.3833(2)
+  - 204.38‡
 - - Thorium
   - Th
   - 90
-  - 232.03806(2)\*
+  - 232.0377(4)\*
 - - Thulium
   - Tm
   - 69
-  - 168.93421(2)
+  - 168.934219(5)
 - - Tin
   - Sn
   - 50
@@ -441,22 +467,6 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
   - W
   - 74
   - 183.84(1)
-- - Ununhexium
-  - Uuh
-  - 116
-  - \[293\]\*
-- - Ununpentium
-  - Uup
-  - 115
-  - \[288\]\*
-- - Ununquadium
-  - Uuq
-  - 114
-  - \[289\]\*
-- - Ununtrium
-  - Uut
-  - 113
-  - \[284\]\*
 - - Uranium
   - U
   - 92
@@ -472,28 +482,27 @@ Elements with atomic numbers 114 (ununquadium, 289 amu) and 116 (ununhexium, 293
 - - Ytterbium
   - Yb
   - 70
-  - 173.04(3)
+  - 173.045(10)
 - - Yttrium
   - Y
   - 39
-  - 88.90585(2)
+  - 88.905838(2)
 - - Zinc
   - Zn
   - 30
-  - 65.409(4)
+  - 65.38(2)
 - - Zirconium
   - Zr
   - 40
-  - 91.224(2)
-- - \*Element has no stable isotope. A value enclosed in brackets, e.g. \[209\], indicates the mass number of the longest-lived isotope of the element. Three such elements (Th, Pa, and U), however, do have a characteristic terrestrial isotopic composition, and an atomic mass is given for them. An uncertainty in the last digit in the Atomic Mass column is shown by the number in parentheses; e.g., 1.00794(7) indicates ±0.00007.
-  - \*Element has no stable isotope. A value enclosed in brackets, e.g. \[209\], indicates the mass number of the longest-lived isotope of the element. Three such elements (Th, Pa, and U), however, do have a characteristic terrestrial isotopic composition, and an atomic mass is given for them. An uncertainty in the last digit in the Atomic Mass column is shown by the number in parentheses; e.g., 1.00794(7) indicates ±0.00007.
-  - \*Element has no stable isotope. A value enclosed in brackets, e.g. \[209\], indicates the mass number of the longest-lived isotope of the element. Three such elements (Th, Pa, and U), however, do have a characteristic terrestrial isotopic composition, and an atomic mass is given for them. An uncertainty in the last digit in the Atomic Mass column is shown by the number in parentheses; e.g., 1.00794(7) indicates ±0.00007.
-  - \*Element has no stable isotope. A value enclosed in brackets, e.g. \[209\], indicates the mass number of the longest-lived isotope of the element. Three such elements (Th, Pa, and U), however, do have a characteristic terrestrial isotopic composition, and an atomic mass is given for them. An uncertainty in the last digit in the Atomic Mass column is shown by the number in parentheses; e.g., 1.00794(7) indicates ±0.00007.
-- - †Element 112 named shortly before the release of this text. Other periodic tables in this version of the text may refer to it as Ununbium (Uub).
-  - †Element 112 named shortly before the release of this text. Other periodic tables in this version of the text may refer to it as Ununbium (Uub).
-  - †Element 112 named shortly before the release of this text. Other periodic tables in this version of the text may refer to it as Ununbium (Uub).
-  - †Element 112 named shortly before the release of this text. Other periodic tables in this version of the text may refer to it as Ununbium (Uub).
-
+  - 91.222(3)
+- - \*Element has no stable isotope. A value enclosed in brackets, e.g. \[209\], indicates the mass number of the longest-lived isotope of the element. Three such elements (Th, Pa, and U) do have a characteristic terrestrial isotopic composition, and a standard atomic weight is given for them. An uncertainty in the last digit is shown by the number in parentheses; e.g., 4.002602(2) indicates ±0.000002.
+  - \*Element has no stable isotope. A value enclosed in brackets, e.g. \[209\], indicates the mass number of the longest-lived isotope of the element. Three such elements (Th, Pa, and U) do have a characteristic terrestrial isotopic composition, and a standard atomic weight is given for them. An uncertainty in the last digit is shown by the number in parentheses; e.g., 4.002602(2) indicates ±0.000002.
+  - \*Element has no stable isotope. A value enclosed in brackets, e.g. \[209\], indicates the mass number of the longest-lived isotope of the element. Three such elements (Th, Pa, and U) do have a characteristic terrestrial isotopic composition, and a standard atomic weight is given for them. An uncertainty in the last digit is shown by the number in parentheses; e.g., 4.002602(2) indicates ±0.000002.
+  - \*Element has no stable isotope. A value enclosed in brackets, e.g. \[209\], indicates the mass number of the longest-lived isotope of the element. Three such elements (Th, Pa, and U) do have a characteristic terrestrial isotopic composition, and a standard atomic weight is given for them. An uncertainty in the last digit is shown by the number in parentheses; e.g., 4.002602(2) indicates ±0.000002.
+- - ‡The standard atomic weight is an interval. The value shown is the conventional atomic weight for calculations. The intervals are H \[1.00784, 1.00811\], Li \[6.938, 6.997\], B \[10.806, 10.821\], C \[12.0096, 12.0116\], N \[14.00643, 14.00728\], O \[15.99903, 15.99977\], Mg \[24.304, 24.307\], Si \[28.084, 28.086\], S \[32.059, 32.076\], Cl \[35.446, 35.457\], Ar \[39.792, 39.963\], Br \[79.901, 79.907\], Tl \[204.382, 204.385\], and Pb \[206.14, 207.94\].
+  - ‡The standard atomic weight is an interval. The value shown is the conventional atomic weight for calculations. The intervals are H \[1.00784, 1.00811\], Li \[6.938, 6.997\], B \[10.806, 10.821\], C \[12.0096, 12.0116\], N \[14.00643, 14.00728\], O \[15.99903, 15.99977\], Mg \[24.304, 24.307\], Si \[28.084, 28.086\], S \[32.059, 32.076\], Cl \[35.446, 35.457\], Ar \[39.792, 39.963\], Br \[79.901, 79.907\], Tl \[204.382, 204.385\], and Pb \[206.14, 207.94\].
+  - ‡The standard atomic weight is an interval. The value shown is the conventional atomic weight for calculations. The intervals are H \[1.00784, 1.00811\], Li \[6.938, 6.997\], B \[10.806, 10.821\], C \[12.0096, 12.0116\], N \[14.00643, 14.00728\], O \[15.99903, 15.99977\], Mg \[24.304, 24.307\], Si \[28.084, 28.086\], S \[32.059, 32.076\], Cl \[35.446, 35.457\], Ar \[39.792, 39.963\], Br \[79.901, 79.907\], Tl \[204.382, 204.385\], and Pb \[206.14, 207.94\].
+  - ‡The standard atomic weight is an interval. The value shown is the conventional atomic weight for calculations. The intervals are H \[1.00784, 1.00811\], Li \[6.938, 6.997\], B \[10.806, 10.821\], C \[12.0096, 12.0116\], N \[14.00643, 14.00728\], O \[15.99903, 15.99977\], Mg \[24.304, 24.307\], Si \[28.084, 28.086\], S \[32.059, 32.076\], Cl \[35.446, 35.457\], Ar \[39.792, 39.963\], Br \[79.901, 79.907\], Tl \[204.382, 204.385\], and Pb \[206.14, 207.94\].
 ````````
 
-*Source of data:* Atomic weights of the elements 2001 (IUPAC Technical Report) as supplemented by the Table of Standard Atomic Weights 2005 (to be published in Pure and Applied Chemistry) on the IUPAC web site, and "Nuclear Data Sheets for A-266-294" (to be published in Nuclear Data Sheets) at <http://www.nndc.bnl.gov/superheavy.pdf>.
+*Source of data:* Standard atomic weights 2024, IUPAC Commission on Isotopic Abundances and Atomic Weights, <https://ciaaw.org/atomic-weights.htm>, including the 2024 revisions for gadolinium, lutetium, and zirconium. Mass numbers of the longest-lived isotopes are those in the IUPAC atomic weights of the elements 2021.

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "scope": "The 65 unavailable-image locations identified in the 2026-10-30 audit: 25 photographs and 40 diagrams. Original source files and checksums are retained.",
+  "scope": "The 65 unavailable-image locations identified in the 2026-10-30 audit, plus two periodic-table figures (FR066 and FR067) replaced because their element names and atomic weights had been superseded. Original source files and checksums are retained.",
   "entries": [
     {
       "id": "FR001",
@@ -2674,6 +2674,72 @@
           }
         ],
         "markdown": "![Five labeled photographs in a row: a flask of pale pink manganese(II) sulfate solution (+2), very dark brown Mn2O3 powder (+3), black MnO2 powder (+4), a beaker of green manganate solution (+6), and a flask of purple permanganate solution (+7)](/images/replacements/manganese-oxidation-states.jpg)\n\nLike vanadium, compounds of manganese in different oxidation states have different numbers of *d* electrons, which leads to compounds with different colors. From left to right: a saturated MnSO<sub>4</sub> solution, pale pink from the Mn<sup>2+</sup>(aq) ion; Mn<sub>2</sub>O<sub>3</sub>, which contains Mn(III), a very dark brown solid; MnO<sub>2</sub>, which contains Mn(IV), a black solid; and aqueous solutions of Mn(VI) and Mn(VII), which contain the green manganate ion \\[MnO<sub>4</sub>\\]<sup>2−</sup> and the purple permanganate ion \\[MnO<sub>4</sub>\\]<sup>−</sup>, respectively.\n\n*Photograph credits:* [Manganese(II) sulfate (sat).jpg](https://commons.wikimedia.org/wiki/File:Manganese(II)_sulfate_(sat).jpg), Leiem ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); [Manganese(III) oxide.jpg](https://commons.wikimedia.org/wiki/File:Manganese(III)_oxide.jpg), Leiem ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); [Manganese-dioxide-sample.jpg](https://commons.wikimedia.org/wiki/File:Manganese-dioxide-sample.jpg), Benjah-bmm27 ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-user)); [Manganate.jpg](https://commons.wikimedia.org/wiki/File:Manganate.jpg), Choij ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self)); [KMnO4 in H2O.jpg](https://commons.wikimedia.org/wiki/File:KMnO4_in_H2O.jpg), David Mülheims ([CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)). Cropped, scaled, and labeled into one composite for this edition ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))."
+      }
+    },
+    {
+      "id": "FR066",
+      "figure": "1.24 Periodic table",
+      "markdown_file": "chapters/ch-01-introduction-to-chemistry.md",
+      "original_asset": "images/section_05/26dbac2e64570e0683190e1b66079cb3.jpg",
+      "original_sha256": "6b660ca316c3d7d288639d1fcb64d4aa26d2df0cbe6a0482de8a090fb2a69b94",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "The source figure stopped at element 115 and used provisional symbols. Redrawn through oganesson with official symbols and the metal/nonmetal staircase described in the chapter.",
+      "original_markdown": "![Figure 1.24 The Periodic Table Showing the Elements in Order of Increasing Z](/images/section_05/26dbac2e64570e0683190e1b66079cb3.jpg)",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Checked that all 118 symbols are placed, the staircase leaves metals to the lower left, and the alternative text matches the drawing.",
+        "editorial_change": "Replaced the source periodic table, which ended at element 115 and used provisional symbols, with a table of the 118 officially named elements.",
+        "assets": [
+          {
+            "title": "Periodic table in order of increasing atomic number",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "IUPAC names and symbols for the 118 elements, including the 2016 names of elements 113, 115, 117, and 118.",
+            "sha256": "b9369b326f798d1662efd3221b5b10608eef2d3b00787bc0ec1fbff3b8b7eb68",
+            "path": "images/replacements/fig-01-24-periodic-table.svg"
+          }
+        ],
+        "markdown": "![Periodic table of the 118 elements with official IUPAC symbols, arranged by increasing atomic number. Metals are blue, to the lower left of an orange staircase. Nonmetals are bronze, to the upper right. Boron, silicon, germanium, arsenic, antimony, and tellurium are gold. The lanthanides and actinides are shown in two rows below the main table.](/images/replacements/fig-01-24-periodic-table.svg)\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR067",
+      "figure": "Appendix H periodic table",
+      "markdown_file": "appendices/appendix-h-periodic-table-of-e.md",
+      "original_asset": "images/section_36/8683bef5b81e5ca068727d0382b5909f.jpg",
+      "original_sha256": "c84fdd0e00b736df429cd279aaf60cd489671f4b4c05bf204cca616a02ab467b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "The source figure used provisional names through element 116 and 2005 atomic masses, and omitted elements 117 and 118.",
+      "original_markdown": "![Two systems for numbering periodic groups are shown: 1--18 is the system currently recommended by the Inernational Union of Pure and Applied Chemistry (IUPAC); an older U.S. system, in which letters designate main group elements (A) and transition elements (B), is given parentheses.](/images/section_36/8683bef5b81e5ca068727d0382b5909f.jpg)",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Checked official symbols through oganesson, abridged 2024 atomic masses, and both group-numbering systems.",
+        "editorial_change": "Replaced provisional names and 2005 atomic masses with official IUPAC names and CIAAW abridged standard atomic weights of 2024, and added elements 117 and 118.",
+        "assets": [
+          {
+            "title": "Periodic table of the elements",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "IUPAC names for elements 113-118 and the CIAAW abridged standard atomic weights of 2024. Bracketed masses are the longest-lived isotope mass numbers from the IUPAC atomic-weights table of 2021.",
+            "sha256": "5489aa75b83e823a6b45e516772e6362ee476a78a8de351ad657af39241b2728",
+            "path": "images/replacements/fig-h-periodic-table.svg"
+          }
+        ],
+        "markdown": "![Periodic table with IUPAC group numbers 1 to 18 and the older U.S. A and B numbers. Each cell shows the atomic number, symbol, and an abridged atomic mass. Alkali metals are purple, alkaline earth metals green, other metals teal, metalloids gold, nonmetals tan, halogens red, and noble gases dark blue. The lanthanides and actinides are in two rows below.](/images/replacements/fig-h-periodic-table.svg)\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)). Abridged atomic masses follow the [2024 standard atomic weights](https://ciaaw.org/atomic-weights.htm) of the IUPAC Commission on Isotopic Abundances and Atomic Weights. A bracketed value is the mass number of the longest-lived isotope."
       }
     }
   ]

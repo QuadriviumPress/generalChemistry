@@ -89,7 +89,7 @@ Table 7.1 Comparison of the Properties Predicted by Mendeleev in 1869 for *eka*-
   - 68
   - 69.723
   - 72
-  - 72.64
+  - 72.630
 
 - - element
   - metal
@@ -163,7 +163,7 @@ Moseley left his research work at the University of Oxford to join the British a
 
 ### Example 1
 
-Before its discovery in 1999, some theoreticians believed that an element with a *Z* of 114 existed in nature. Use Mendeleev's reasoning to name element 114 as *eka*-\_\_\_\_\_\_; then identify the known element whose chemistry you predict would be most similar to that of element 114.
+Before its discovery in 1999, some theoreticians believed that an element with a *Z* of 114 existed in nature. The element is now called flerovium. Use Mendeleev's reasoning to name element 114 as *eka*-\_\_\_\_\_\_; then identify the known element whose chemistry you predict would be most similar to that of flerovium.
 
 **Given:** atomic number
 
@@ -171,19 +171,19 @@ Before its discovery in 1999, some theoreticians believed that an element with a
 
 **Strategy:**
 
-**A** Using the periodic table (see [Chapter 32 \"Appendix H: Periodic Table of Elements\"](/appendices/appendix-h-periodic-table-of-e.md#src-averill-1-0-ch96apph)), locate the *n* = 7 row. Identify the location of the unknown element with *Z* = 114; then identify the known element that is directly above this location.
+**A** Using the periodic table (see [Chapter 32 \"Appendix H: Periodic Table of Elements\"](/appendices/appendix-h-periodic-table-of-e.md#src-averill-1-0-ch96apph)), locate the *n* = 7 row. Identify element 114; then identify the known element that is directly above this location.
 
-**B** Name the unknown element by using the prefix *eka*- before the name of the known element.
+**B** Name element 114 by using the prefix *eka*- before the name of the known element.
 
 **Solution:**
 
-**A** The *n* = 7 row can be filled in by assuming the existence of elements with atomic numbers greater than 112, which is underneath mercury (Hg). Counting three boxes to the right gives element 114, which lies directly below lead (Pb). **B** If Mendeleev were alive today, he would call element 114 *eka*-lead.
+**A** Copernicium (element 112) lies underneath mercury (Hg). Counting three boxes to the right gives flerovium (element 114), which lies directly below lead (Pb). **B** If Mendeleev were alive today, he would call element 114 *eka*-lead. Its official name is flerovium.
 
 Exercise
 
 Use Mendeleev's reasoning to name element 112 as *eka*-\_\_\_\_\_\_; then identify the known element whose chemistry you predict would be most similar to that of element 112.
 
-**Answer:** *eka*-mercury
+**Answer:** *eka*-mercury. The official name is copernicium.
 
 ````````````{important} Summary
 
@@ -1744,7 +1744,7 @@ The chemical families consist of elements that have the same valence electron co
 
 6.  Of the compounds NF<sub>3</sub>, NCl<sub>3</sub>, and NI<sub>3</sub>, which would be the least stable? Explain your answer. Of the ions BrO<sup>−</sup>, ClO<sup>−</sup>, or FO<sup>−</sup>, which would be the least stable? Explain your answer.
 
-7.  In an attempt to explore the chemistry of the superheavy element ununquadium, *Z* = 114, you isolated two distinct salts by exhaustively oxidizing metal samples with chlorine gas. These salts are found to have the formulas MCl<sub>2</sub> and MCl<sub>4</sub>. What would be the name of ununquadium using Mendeleev's *eka*-notation?
+7.  In an attempt to explore the chemistry of the superheavy element flerovium, *Z* = 114, you isolated two distinct salts by exhaustively oxidizing metal samples with chlorine gas. These salts are found to have the formulas MCl<sub>2</sub> and MCl<sub>4</sub>. What would be the name of flerovium using Mendeleev's *eka*-notation?
 
 8.  Would you expect the compound CCl<sub>2</sub> to be stable? SnCl<sub>2</sub>? Why or why not?
 
@@ -1820,7 +1820,7 @@ The chemical families consist of elements that have the same valence electron co
 
 6.  
 
-7.  Uuq = *eka*-lead
+7.  Fl = *eka*-lead
 
 8.  
 

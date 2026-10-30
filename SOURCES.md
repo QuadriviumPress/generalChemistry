@@ -15,9 +15,21 @@ The source states that the original creator or licensor requested omission of at
 
 All 24 chapters, the preface, original licensing page, appendices A–I, and Art and Photo Credits are included. `source/manifest.json` maps every combined source page to its Markdown counterpart and records source and generated checksums, figure assets, content counts, and upstream link defects. Original combined source pages are retained in `source/` for comparison; the source index records the section-level table of contents.
 
-QuadriviumPress converted HTML to MyST Markdown and MathML to LaTeX, restored nested heading levels, mapped cross-references to local targets, copied figures locally, and added source-derived alternative text. Glossary definitions and notes became footnotes. Learning objectives and selected callouts became MyST admonitions. The conversion preserves numbered problems, answers, tables, equations, and figure captions. Spanning table cells are expanded into an explicit grid, repeating shared headings to preserve their association with each row or column. Typographic mathematical symbols are expressed as equivalent TeX commands. Scientific claims and historical statistics have not been revised.
+QuadriviumPress converted HTML to MyST Markdown and MathML to LaTeX, restored nested heading levels, mapped cross-references to local targets, copied figures locally, and added source-derived alternative text. Glossary definitions and notes became footnotes. Learning objectives and selected callouts became MyST admonitions. The conversion preserves numbered problems, answers, tables, equations, and figure captions. Spanning table cells are expanded into an explicit grid, repeating shared headings to preserve their association with each row or column. Typographic mathematical symbols are expressed as equivalent TeX commands. Scientific claims and historical statistics have not been revised, except for the superseded standards and names listed under [Superseded standards](#superseded-standards).
 
 Links with missing source targets are retained as upstream links and recorded in the manifest rather than assigned invented targets.
+
+(superseded-standards)=
+## Superseded standards
+
+The 2012 source states some quantities as current that later IUPAC or SI decisions replaced. This edition updates those statements. Historical episodes and prices that remain accurate are unchanged.
+
+- **Element names and count.** IUPAC names and symbols replace the provisional names for elements 113–118 (nihonium, flerovium, moscovium, livermorium, tennessine, and oganesson). The count of known elements is 118. About 90 of them occur naturally. Copernicium is listed under its official name.
+- **Atomic weights.** [Appendix H](appendices/appendix-h-periodic-table-of-e.md) uses the [CIAAW standard atomic weights of 2024](https://ciaaw.org/atomic-weights.htm). Where the standard atomic weight is an interval, the table shows the conventional atomic weight. Bracketed values are mass numbers of the longest-lived isotopes from the IUPAC atomic-weights table of 2021. Germanium's atomic mass in the comparison tables is 72.630.
+- **The mole and physical constants.** Avogadro's constant, the Planck constant, the elementary charge, the Boltzmann constant, and the constants derived from them follow the 2019 SI, in which the defined values are exact. Measured masses follow CODATA 2022. Worked examples continue to use 6.022 × 10<sup>23</sup> and a molar mass of 12 g/mol for carbon-12.
+- **Claims that later work did not support.** The 2010 report of a bacterium that could replace phosphorus with arsenic was not confirmed. Reports of a long-lived *A* = 292 nucleus in thorium, interpreted as element 122, were not confirmed. Element 117 is tennessine, confirmed in 2015 and named in 2016. Flerovium was made in a particle accelerator.
+
+The periodic-table figures in Chapter 1 and Appendix H are original diagrams for this edition. They are recorded in `figure-replacements.json` as FR066 and FR067. The source JPEGs and checksums are unchanged.
 
 ## Figures and other components
 
