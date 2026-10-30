@@ -4,7 +4,7 @@ A complete QuadriviumPress MyST edition of Saylor Academy's 2012 textbook, versi
 
 ## Build
 
-Requires Node >=26, npm 10, and Python 3.
+Requires Node >=26, npm 11.20.0, and Python 3.
 
 ```bash
 npm ci
