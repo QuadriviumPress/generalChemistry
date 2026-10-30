@@ -9,6 +9,8 @@ import subprocess
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+from figure_replacements import apply_all
+
 from bs4 import BeautifulSoup
 import yaml
 
@@ -299,6 +301,7 @@ def main():
                                 {'title': 'Chapters', 'children': [{'file': e['file']} for e in entries if e['file'].startswith('chapters/')]},
                                 {'title': 'Appendices and credits', 'children': [{'file': e['file']} for e in entries if e['file'].startswith('appendices/')]}, {'file': 'SOURCES.md'}]
     (ROOT / 'myst.yml').write_text(yaml.safe_dump(config, sort_keys=False, allow_unicode=True))
+    apply_all(ROOT)
     print(f'Imported {len(entries)} pages and {len(manifest["assets"])} assets; {len(fallbacks)} upstream link defects recorded.')
 
 

@@ -1457,9 +1457,11 @@ The alkali metals have *ns*<sup>1</sup> valence electron configurations and the 
 
 Because they are so reactive, pure group 1 elements are powerful reducing agents that are used in lithium batteries and cardiac pacemakers. Sodium salts such as common table salt (NaCl), baking soda (NaHCO<sub>3</sub>), soda ash (Na<sub>2</sub>CO<sub>3</sub>), and caustic soda (NaOH) are important industrial chemicals. Other compounds of the alkali metals are important in biology. For example, because potassium is required for plant growth, its compounds are used in fertilizers, and lithium salts are used to treat manic-depressive, or bipolar, disorders.
 
-![Potassium burning. A piece of potassium dropped in a beaker of water will burn as it skips across the top of the water.](/images/section_11/25d01e0373d7be42b27eb9b91668d0db.jpg)
+![Potassium reacting with water in a beaker, producing a lilac flame](/images/replacements/potassium-water.jpg)
 
-**Potassium burning.** A piece of potassium dropped in a beaker of water will burn as it skips across the top of the water.
+**Potassium reacting with water.** The reaction produces hydrogen and potassium hydroxide. Burning potassium vapor gives the flame its lilac color.
+
+*Photograph credits:* [Potassium & water 39.jpg](https://commons.wikimedia.org/wiki/File:Potassium_%26_water_39.jpg), Ozone aurora / Philip Evans ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)).
 
 #### Group 2: The Alkaline Earth Metals
 

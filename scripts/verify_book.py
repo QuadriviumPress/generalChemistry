@@ -6,9 +6,16 @@ import re
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+from figure_replacements import NOTICE_SHA256, image_paths, validate_ledger
+
 ROOT = Path(__file__).resolve().parents[1]
 manifest = json.loads((ROOT / 'source/manifest.json').read_text())
 errors = []
+ledger, replacement_errors = validate_ledger(ROOT, manifest)
+errors.extend(replacement_errors)
+replacements = {(e['markdown_file'], e['original_asset']): e['replacement']
+                for e in ledger['entries'] if e['status'] == 'installed'}
+unresolved_notices = set()
 pages = manifest['pages']
 chapters = [p for p in pages if p['file'].startswith('chapters/')]
 appendices = [p for p in pages if p['title'].startswith('Appendix ')]
@@ -33,12 +40,21 @@ for page in pages:
     if 'CHEMISTRYTOKEN' in text or 'CHEMISTRYFOOTNOTE' in text:
         errors.append(f'Unexpanded conversion marker: {path}')
     # A single source figure can appear again when a spanning table cell is
-    # expanded. Every original image must appear at least once.
+    # expanded. Every original image or its declared replacement must appear.
     source_images = [image for image in re.findall(r'<img\b[^>]*src="([^"]+)"', original.read_text())
                      if not image.startswith('shared/')]
     for image in source_images:
-        if '/images/' + image not in text:
+        replacement = replacements.get((page['file'], 'images/' + image))
+        active_images = image_paths(text)
+        if replacement:
+            if not all('/' + asset['path'] in active_images for asset in replacement['assets']):
+                errors.append(f'Lost replacement for {image} in {path.name}')
+        elif '/images/' + image not in active_images:
             errors.append(f'Lost figure {image} in {path.name}')
+    for image in image_paths(text):
+        target = ROOT / image.lstrip('/')
+        if target.is_file() and hashlib.sha256(target.read_bytes()).hexdigest() == NOTICE_SHA256:
+            unresolved_notices.add((page['file'], image))
     if re.search(r'!\[\]\(', text):
         errors.append(f'Figure missing alternative text: {path}')
     documents[page['file']] = text
@@ -89,3 +105,6 @@ if errors:
     raise SystemExit('\n'.join(errors))
 print(f'Verified {len(chapters)} chapters, {len(appendices)} appendices, all {len(pages)} source pages, '
       f'{len(manifest["assets"])} local assets, and {sum(map(len, labels.values()))} cross-reference targets.')
+print(f'Figure replacements: {len(replacements)} installed; '
+      f'{len(ledger["entries"]) - len(replacements)} ledger entries pending; '
+      f'{len(unresolved_notices)} unavailable-image notices remain in the book.')

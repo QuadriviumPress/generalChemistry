@@ -4,9 +4,11 @@
 
 [Chapter 2 \"Molecules, Ions, and Chemical Formulas\"](/chapters/ch-02-molecules-ions-and-chemical-fo.md#src-averill-1-0-ch02) introduced you to a wide variety of chemical compounds, many of which have interesting applications. For example, nitrous oxide, a mild anesthetic, is also used as the propellant in cans of whipped cream, while copper(I) oxide is used as both a red glaze for ceramics and in antifouling bottom paints for boats. In addition to the physical properties of substances, chemists are also interested in their chemical reactions[^chem-1], processes in which a substance is converted to one or more other substances with different compositions and properties. Our very existence depends on chemical reactions, such as those between oxygen in the air we breathe and nutrient molecules in the foods we eat. Other reactions cook those foods, heat our homes, and provide the energy to run our cars. Many of the materials and pharmaceuticals that we take for granted today, such as silicon nitride for the sharp edge of cutting tools and antibiotics such as amoxicillin, were unknown only a few years ago. Their development required that chemists understand how substances combine in certain ratios and under specific conditions to produce a new substance with particular properties.
 
-![Sodium. The fourth most abundant alkali metal on Earth, sodium is a highly reactive element that is never found free in nature. When heated to 250°C, it bursts into flames if exposed to air.](/images/section_07/2350b50140af01f2b679e7849fa44c48.jpg)
+![Sodium metal on a watch glass with a shiny freshly cut surface](/images/replacements/sodium-metal.jpg)
 
-**Sodium.** The fourth most abundant alkali metal on Earth, sodium is a highly reactive element that is never found free in nature. When heated to 250°C, it bursts into flames if exposed to air.
+**Sodium metal.** A freshly cut surface is shiny; the older exposed surface is dull.
+
+*Photograph credits:* [Sodium sample.jpg](https://commons.wikimedia.org/wiki/File:Sodium_sample.jpg), Nefronus ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)).
 
 We begin this chapter by describing the relationship between the mass of a sample of a substance and its composition. We then develop methods for determining the quantities of compounds produced or consumed in chemical reactions, and we describe some fundamental types of chemical reactions. By applying the concepts and skills introduced in this chapter, you will be able to explain what happens to the sugar in a candy bar you eat, what reaction occurs in a battery when you start your car, what may be causing the "ozone hole" over Antarctica, and how we might prevent the hole's growth.
 
@@ -2087,9 +2089,13 @@ PbO(s) + C(s) → Pb(l) + CO(g)
 
 If 93.3 kg of PbO is heated with excess charcoal and 77.3 kg of pure lead is obtained, what is the percent yield?
 
-![Crystalline galena (a) and a sample of lead (b). Pure lead is soft enough to be shaped easily with a hammer, unlike the brittle mineral galena, the main ore of lead.](/images/section_07/df42ca4eaaeab46886659fbe39973e29.jpg)
+![Crystalline galena with cubic faces](/images/replacements/galena.jpg)
 
-**Crystalline galena (a) and a sample of lead (b).** Pure lead is soft enough to be shaped easily with a hammer, unlike the brittle mineral galena, the main ore of lead.
+![An ultrapure metallic lead bead](/images/replacements/lead-metal.jpg)
+
+**Galena and lead.** First photograph: crystalline galena (PbS), an important ore of lead. Second photograph: a bead of metallic lead. The ore and the metal have different compositions and physical properties.
+
+*Photograph credits:* [Galena (GeoDIL number - 1082).jpg](https://commons.wikimedia.org/wiki/File:Galena_(GeoDIL_number_-_1082).jpg), Nessa Eull ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)); [Lead-2.jpg](https://commons.wikimedia.org/wiki/File:Lead-2.jpg), Chemical Elements ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0)).
 
 **Answer:** 89.2%
 

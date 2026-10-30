@@ -824,9 +824,13 @@ Many ionic compounds occur as hydrates[^chem-25], compounds that contain specifi
 
 Figure 2.9 Loss of Water from a Hydrate with Heating
 
-![Figure 2.9 Loss of Water from a Hydrate with Heating](/images/section_06/8196e8857d2f40c382811a3f892784d6.jpg)
+![Blue copper(II) sulfate pentahydrate](/images/replacements/copper-sulfate-pentahydrate.jpg)
 
-When blue CuSO<sub>4</sub>·5H<sub>2</sub>O is heated, two molecules of water are lost at 30°C, two more at 110°C, and the last at 250°C to give white CuSO<sub>4</sub>.
+![White anhydrous copper(II) sulfate powder in a jar](/images/replacements/copper-sulfate-anhydrous.jpg)
+
+First photograph: blue CuSO<sub>4</sub>·5H<sub>2</sub>O. Second photograph: white anhydrous CuSO<sub>4</sub>. Heating the hydrate removes waters of hydration, changing the composition and color of the solid. The photographs show separate specimens.
+
+*Photograph credits:* [Copper(II)-sulfate-pentahydrate-sample.jpg](https://commons.wikimedia.org/wiki/File:Copper(II)-sulfate-pentahydrate-sample.jpg), Benjah-bmm27 ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self)); [Copper sulfate anhydrous.jpg](https://commons.wikimedia.org/wiki/File:Copper_sulfate_anhydrous.jpg), W. Oelen ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)).
 
 Compounds that differ only in the numbers of waters of hydration can have very different properties. For example, CaSO<sub>4</sub>·½H<sub>2</sub>O is plaster of Paris, which was often used to make sturdy casts for broken arms or legs, whereas CaSO<sub>4</sub>·2H<sub>2</sub>O is the less dense, flakier gypsum, a mineral used in drywall panels for home construction. When a cast would set, a mixture of plaster of Paris and water crystallized to give solid CaSO<sub>4</sub>·2H<sub>2</sub>O. Similar processes are used in the setting of cement and concrete.
 

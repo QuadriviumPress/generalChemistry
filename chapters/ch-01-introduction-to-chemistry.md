@@ -243,9 +243,11 @@ If the composition of a material is not completely uniform, then it is heterogen
 
 Figure 1.7 A Heterogeneous Mixture
 
-![Figure 1.7 A Heterogeneous Mixture](/images/section_05/937a8cabe266463c54be6b0d196c18ae.jpg)
+![Microscope view of cow's milk showing dispersed droplets](/images/replacements/milk-microscopy.png)
 
-Under a microscope, whole milk is actually a heterogeneous mixture composed of globules of fat and protein dispersed in water.
+A microscope view of cow's milk. The dispersed droplets illustrate why milk is a heterogeneous mixture even though it appears uniform to the unaided eye.
+
+*Photograph credits:* [Milk under the microscope.webm](https://commons.wikimedia.org/wiki/File:Milk_under_the_microscope.webm), Miguel Angel Omaña Rojas ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0)); still at 3 s, extracted without cropping or retouching.
 
 Homogeneous mixtures (solutions) can be separated into their component substances by physical processes that rely on differences in some physical property, such as differences in their boiling points. Two of these separation methods are distillation and crystallization. Distillation[^chem-22] makes use of differences in *volatility*, a measure of how easily a substance is converted to a gas at a given temperature. [Figure 1.8 \"The Distillation of a Solution of Table Salt in Water\"](/chapters/ch-01-introduction-to-chemistry.md#src-averill-1-0-ch01-s03-s01-f02) shows a simple distillation apparatus for separating a mixture of substances, at least one of which is a liquid. The most volatile component boils first and is condensed back to a liquid in the water-cooled condenser, from which it flows into the receiving flask. If a solution of salt and water is distilled, for example, the more volatile component, pure water, collects in the receiving flask, while the salt remains in the distillation flask.
 
@@ -265,9 +267,11 @@ Crystallization[^chem-23] separates mixtures based on differences in *solubility
 
 Figure 1.9 The Crystallization of Sodium Acetate from a Concentrated Solution of Sodium Acetate in Water
 
-![Figure 1.9 The Crystallization of Sodium Acetate from a Concentrated Solution of Sodium Acetate in Water](/images/section_05/93cb34875c2688e5da7e2512ab634e5b.jpg)
+![White sodium acetate crystals in four shallow dishes](/images/replacements/sodium-acetate-crystallization.jpg)
 
-The addition of a small "seed" crystal (a) causes the compound to form white crystals, which grow and eventually occupy most of the flask (b).
+Crystalline sodium acetate in shallow dishes. Crystallization converts dissolved sodium acetate into solid crystals.
+
+*Photograph credits:* [Kristalizacija.jpg](https://commons.wikimedia.org/wiki/File:Kristalizacija.jpg), Taki Jo ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)).
 
 Most mixtures can be separated into pure substances, which may be either elements or compounds. An element[^chem-24], such as gray, metallic sodium, is a substance that cannot be broken down into simpler ones by chemical changes; a compound[^chem-25], such as white, crystalline sodium chloride, contains two or more elements and has chemical and physical properties that are usually different from those of the elements of which it is composed. With only a few exceptions, a particular compound has the same elemental composition (the same elements in the same proportions) regardless of its source or history. The chemical composition of a substance is altered in a process called a chemical change[^chem-26]. The conversion of two or more elements, such as sodium and chlorine, to a chemical compound, sodium chloride, is an example of a chemical change, often called a chemical reaction. Currently, about 115 elements are known, but millions of chemical compounds have been prepared from these 115 elements. The known elements are listed in the periodic table (see [Chapter 32 \"Appendix H: Periodic Table of Elements\"](/appendices/appendix-h-periodic-table-of-e.md#src-averill-1-0-ch96apph)).
 

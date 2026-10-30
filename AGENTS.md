@@ -26,6 +26,7 @@ npm run check
 - Source numbering is preserved literally, so MyST automatic numbering is disabled.
 - The npm license describes content. Template code retains its MIT notice in `LICENSE-CODE`.
 - `scripts/verify_rendered.py` runs after builds and checks rendered table, figure, and math coverage, including detection of prose accidentally parsed as code.
+- `figure-replacements.json` tracks the photograph replacement queue, provenance, approved Markdown blocks, and component licenses. `scripts/figure_replacements.py` validates replacements and reapplies installed blocks after source imports. Original source files and checksums remain intact. Regression checks run with `python3 -m unittest discover -s tests`.
 - PWA support uses the starter's setup script. Deployment calls bindery's reusable workflow and verifies before building.
 
 ## Presentation gap

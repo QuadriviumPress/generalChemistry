@@ -1217,9 +1217,13 @@ A bag of concentrated sodium acetate solution can be carried until heat is neede
 
 Figure 5.12 An Instant Hot Pack Based on the Crystallization of Sodium Acetate
 
-![Figure 5.12 An Instant Hot Pack Based on the Crystallization of Sodium Acetate](/images/section_09/944d043955571574441251087eb6db69.jpg)
+![Sodium acetate heat pack before activation, with its metal disc visible](/images/replacements/heat-pack-before.png)
 
-The hot pack is at room temperature prior to agitation (left). Because the sodium acetate is in solution, you can see the metal disc inside the pack. After the hot pack has been agitated, the sodium acetate crystallizes (right) to release heat. Because of the mass of white sodium acetate that has crystallized, the metal disc is no longer visible.
+![The same heat pack after activation, filled with white crystals](/images/replacements/heat-pack-after.png)
+
+First photograph: before activation, the metal disc is visible through the liquid contents of the pack. Second photograph: after activation, white sodium acetate crystals have spread through the pack and obscure the disc. Crystallization releases heat.
+
+*Photograph credits:* [Hand warmer activation.webm](https://commons.wikimedia.org/wiki/File:Hand_warmer_activation.webm), Teren ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); still at 0.5 s, extracted without cropping or retouching; [Hand warmer activation.webm](https://commons.wikimedia.org/wiki/File:Hand_warmer_activation.webm), Teren ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); still at 15 s, extracted without cropping or retouching.
 
 The amount of heat released or absorbed when a substance is dissolved is not a constant; it depends on the final concentration of the solute. The Δ*H*<sub>soln</sub> values given previously and in [Table 5.2 \"Enthalpies of Solution at 25°C of Selected Ionic Compounds in Water (in kJ/mol)\"](/chapters/ch-05-energy-changes-in-chemical-rea.md#src-averill-1-0-ch05-s02-s05-t01), for example, were obtained by measuring the enthalpy changes at various concentrations and extrapolating the data to infinite dilution.
 
