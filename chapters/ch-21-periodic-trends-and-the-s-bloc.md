@@ -874,9 +874,11 @@ Although lithium reacts rather slowly with water, sodium reacts quite vigorously
 
 Figure 21.10 Reacting Sodium with Water
 
-![Figure 21.10 Reacting Sodium with Water](/images/section_25/c8fe0e74ddd63ab09ca130dac41bc21d.jpg)
+![A vigorous sodium-water reaction with flames and a breaking glass vessel](/images/replacements/sodium-water.jpg)
 
-Like most elements in groups 1 and 2, sodium reacts violently with water. The products are the Na<sup>+</sup>(aq) ion and hydrogen gas, which is potentially explosive when mixed with air.
+Sodium reacts vigorously with water, producing sodium hydroxide and hydrogen gas. This frame records a demonstration in which the reaction breaks the glass vessel.
+
+*Photograph credits:* [Naatriumi reaktsioon veega purustab klaasist anuma.jpg](https://commons.wikimedia.org/wiki/File:Naatriumi_reaktsioon_veega_purustab_klaasist_anuma.jpg), Tavoromann ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)).
 
 Alkali metal cations are found in a wide variety of ionic compounds. In general, any alkali metal salt can be prepared by reacting the alkali metal hydroxide with an acid and then evaporating the water:
 
@@ -934,9 +936,11 @@ Solutions of alkali metals in liquid ammonia are intensely colored and good cond
 
 Figure 21.11 Alkali Metal--Liquid Ammonia Solutions
 
-![Figure 21.11 Alkali Metal--Liquid Ammonia Solutions](/images/section_25/72251b28649c2113d6385c2031bdef61.jpg)
+![Lithium dissolved in liquid ammonia: a dark blue solution above and a bronze metallic-looking phase below](/images/replacements/lithium-ammonia.jpg)
 
-Most metals are insoluble in virtually all solvents, but the alkali metals (and the heavier alkaline earth metals) dissolve readily in liquid ammonia to form solvated metal cations and solvated electrons, which give the solution a deep blue color.
+Lithium dissolved in liquid ammonia. The upper photograph shows a blue solution; the lower photograph shows a bronze, metallic-looking phase. Solvated electrons account for the characteristic blue color of dilute alkali-metal solutions in liquid ammonia.
+
+*Photograph credits:* [Li-NH3.jpg](https://commons.wikimedia.org/wiki/File:Li-NH3.jpg), Joshua Judkins ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)).
 
 In addition to solvated electrons, solutions of alkali metals in liquid ammonia contain the metal cation (M<sup>+</sup>), the neutral metal atom (M), metal dimers (M<sub>2</sub>), and the metal anion (M<sup>−</sup>). The anion is formed by adding an electron to the singly occupied *ns* valence orbital of the metal atom. Even in the absence of a catalyst, these solutions are not very stable and eventually decompose to the thermodynamically favored products: M<sup>+</sup>NH<sub>2</sub><sup>−</sup> and hydrogen gas ([Equation 21.20](/chapters/ch-21-periodic-trends-and-the-s-bloc.md#src-averill-1-0-ch21-s03-s05-eq01)). Nonetheless, the solvated electron is a potent reductant that is often used in synthetic chemistry.
 

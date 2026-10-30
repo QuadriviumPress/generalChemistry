@@ -274,7 +274,7 @@
       "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
       "original_asset": "images/section_08/9bfa09cd7382e7aab0e9e90d0dc83e29.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P3",
       "notes": "Find a licensed image of red mercury(II) iodide precipitation; a clearly labeled reaction schematic is the fallback. Do not substitute a different red precipitate under the existing caption.",
       "original_markdown": "![The reaction of mercury(II) acetate with sodium iodide. When colorless aqueous solutions of each reactant are mixed, they produce a red precipitate, mercury(II) iodide, which is the result of an exchange reaction.](/images/section_08/9bfa09cd7382e7aab0e9e90d0dc83e29.jpg)\n\n**The reaction of mercury(II) acetate with sodium iodide.** When colorless aqueous solutions of each reactant are mixed, they produce a red precipitate, mercury(II) iodide, which is the result of an exchange reaction.",
@@ -285,10 +285,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Jodid_rtu%C5%A5nat%C3%BD_1.jpg?oldid=1240848390",
           "license_as_listed": "CC BY-SA 4.0",
           "creator_as_listed": "David Rouzek",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "Candidate shows mercury(II) iodide, but a documented precipitation photograph matching the reactants has not been established. Inspect and source the actual exchange-reaction scene before replacement."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "The chapter opener now shows a documented specimen of the same red product. Recast the caption as a product illustration; it no longer claims that the photograph records mixing mercury(II) acetate with sodium iodide.",
+        "assets": [
+          {
+            "title": "Jodid rtuťnatý 1.jpg",
+            "creator": "David Rouzek",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Jodid_rtu%C5%A5nat%C3%BD_1.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Jodid_rtu%C5%A5nat%C3%BD_1.jpg?oldid=1240848390",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Jodid_rtu%C5%A5nat%C3%BD_1.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "bbc1dce4f6251de7fd6511248ae6bed2d0283013",
+            "sha256": "a91db51cda70781398a6af18b87c6e5fec6cc352dc1317a39f95162ed99a32a0",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/mercury-iodide.jpg"
+          }
+        ],
+        "markdown": "![A vial containing bright red solid mercury(II) iodide](/images/replacements/mercury-iodide.jpg)\n\n**Mercury(II) iodide (HgI<sub>2</sub>).** Mercury(II) iodide can form as a red precipitate when solutions containing Hg<sup>2+</sup> and I<sup>−</sup> are mixed. This photograph shows the isolated solid.\n\n*Photograph credits:* [Jodid rtuťnatý 1.jpg](https://commons.wikimedia.org/wiki/File:Jodid_rtu%C5%A5nat%C3%BD_1.jpg), David Rouzek ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))."
+      }
     },
     {
       "id": "FR017",
@@ -296,7 +318,7 @@
       "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
       "original_asset": "images/section_08/0b97b78399c77122020b97a7372a12ae.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find an explicitly reusable barium-contrast radiograph illustrating the digestive tract. A synthetic radiograph would not provide observational evidence; an anatomical diagram would need a different caption.",
       "original_markdown": "    ![An x-ray of the digestive organs of a patient who has swallowed a \"barium milkshake.\" A barium milkshake is a suspension of very fine BaSO 4 particles in water; the high atomic mass of barium makes it opaque to x-rays.](/images/section_08/0b97b78399c77122020b97a7372a12ae.jpg)\n\n    **An x-ray of the digestive organs of a patient who has swallowed a \"barium milkshake.\"** A barium milkshake is a suspension of very fine BaSO<sub>4</sub> particles in water; the high atomic mass of barium makes it opaque to x-rays.",
@@ -307,10 +329,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Barium_swallow.png?oldid=817098407",
           "license_as_listed": "Public domain",
           "creator_as_listed": "Glitzy queen00 at English Wikipedia",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "Candidate is a documented esophageal barium-swallow radiograph, but only 120 x 360 pixels. Inspect it and seek a larger reusable radiograph; caption must describe the esophagus rather than all digestive organs."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the unavailable digestive-tract image with a documented public-domain esophageal barium-swallow radiograph. Caption names the actual anatomical structure. The original 120 by 360 pixel image is retained unmodified and is used only as a qualitative illustration.",
+        "assets": [
+          {
+            "title": "Barium swallow.png",
+            "creator": "Glitzy queen00 at English Wikipedia",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Barium_swallow.png",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Barium_swallow.png?oldid=817098407",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Barium_swallow.png",
+            "license": "Public domain",
+            "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+            "retrieved": "2026-10-30",
+            "source_sha1": "d71c1713e7d373a6608b4b1844d561c018d1b9e1",
+            "sha256": "7d0f8b2904120bf2b3a489d5700b573a496839d9496715fb816d22c1063cdc28",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/barium-swallow.png"
+          }
+        ],
+        "markdown": "    ![Barium-contrast radiograph showing the esophagus as a bright outlined passage](/images/replacements/barium-swallow.png)\n\n    **Barium-contrast radiograph of the esophagus.** Swallowed barium sulfate outlines the esophagus because barium strongly attenuates x-rays. The contrast material is a suspension of very fine BaSO<sub>4</sub> particles in water.\n\n    *Photograph credits:* [Barium swallow.png](https://commons.wikimedia.org/wiki/File:Barium_swallow.png), Glitzy queen00 at English Wikipedia ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self))."
+      }
     },
     {
       "id": "FR018",
@@ -329,10 +373,22 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Bromid_st%C5%99%C3%ADbrn%C3%BD.PNG?oldid=960698458",
           "license_as_listed": "Public domain",
           "creator_as_listed": "Ondřej Mangl",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "downloaded and visually reviewed; not adopted because the required comparison is absent"
         }
       ],
-      "next_step": "Inspect the public-domain AgBr image to see whether it actually documents light-induced darkening. A specimen-only photo cannot replace a before/after comparison without changing the teaching claim."
+      "next_step": "Downloaded and inspected the public-domain AgBr candidate. It shows a specimen in a vial and spoon, not light-induced darkening. Find a documented before/after exposure pair or obtain original photographs of that comparison.",
+      "download_review": {
+        "title": "Bromid stříbrný.PNG",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Bromid_st%C5%99%C3%ADbrn%C3%BD.PNG",
+        "source_revision_url": "https://commons.wikimedia.org/wiki/File:Bromid_st%C5%99%C3%ADbrn%C3%BD.PNG?oldid=960698458",
+        "creator": "Ondřej Mangl",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+        "retrieved": "2026-10-30",
+        "sha256": "3813006f7d09bddb4a9a9b861375dbc4acbe77ede1a5226a344f508af411de73",
+        "source_sha1": "def6daf8b7d37792604b341810429626dc6a635f",
+        "decision": "Not installed: the downloaded file does not supply the required comparison."
+      }
     },
     {
       "id": "FR024",
@@ -402,7 +458,7 @@
       "markdown_file": "chapters/ch-06-the-structure-of-atoms.md",
       "original_asset": "images/section_10/ca5fe25e5cb9f31033ecccc811fbebd4.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P3",
       "notes": "Find a licensed composite or consistent photographs of labeled He, Ne, Ar, Kr, and Xe discharge tubes. Do not assign tube colors or identities from appearance alone.",
       "original_markdown": "![The noble gases. Helium, neon, argon, krypton, and xenon, all monatomic elements, are five of the six known noble gases. When atoms of these gases are excited by the flow of electrons in the discharge tubes, they emit photons of visible light in their characteristic spectral colors. All noble gases have the maximum number of electrons possible in t](/images/section_10/ca5fe25e5cb9f31033ecccc811fbebd4.jpg)\n\n**The noble gases.** Helium, neon, argon, krypton, and xenon, all monatomic elements, are five of the six known noble gases. When atoms of these gases are excited by the flow of electrons in the discharge tubes, they emit photons of visible light in their characteristic spectral colors. All noble gases have the maximum number of electrons possible in their outer shell (2 for helium, 8 for all others), so they do not form chemical compounds easily.",
@@ -413,10 +469,33 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg?oldid=1274765876",
           "license_as_listed": "CC BY 3.0",
           "creator_as_listed": "New work Alchemist-hp (talk) www.pse-mendelejew.de); original single images: Jurii, http://images-of-elements.com.",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "A CC BY 3.0 composite has been identified. Download after Wikimedia cooldown, inspect gas ordering, and match the caption to the visible labeled vials."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the unavailable opener with a licensed composite of five identified noble-gas discharge photographs. Caption follows the visible labels and omits the original historical count of known noble gases and broad claims about chemical inertness.",
+        "assets": [
+          {
+            "title": "Glowing noble gases.jpg",
+            "creator": "Alchemist-hp (composite); Jurii / images-of-elements.com (original photographs)",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg?oldid=1274765876",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Glowing_noble_gases.jpg",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "a1f09b756942c82f4ca633539505144103a2d485",
+            "sha256": "5f7379c72d1d881ec61ad28e5b462f73c83a342d436ba220a8ffe569b9190a8d",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/noble-gas-discharge.jpg",
+            "creator_as_listed": "New work Alchemist-hp (talk) www.pse-mendelejew.de); original single images: Jurii, http://images-of-elements.com."
+          }
+        ],
+        "markdown": "![Labeled glowing vials of helium, neon, argon, krypton, and xenon, in that order](/images/replacements/noble-gas-discharge.jpg)\n\n**Noble gases emitting light.** From left to right: helium (He), neon (Ne), argon (Ar), krypton (Kr), and xenon (Xe). An electrical discharge excites the low-pressure gas in each vial; the emitted light has a characteristic color.\n\n*Photograph credits:* [Glowing noble gases.jpg](https://commons.wikimedia.org/wiki/File:Glowing_noble_gases.jpg), Alchemist-hp (composite); Jurii / images-of-elements.com (original photographs) ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0))."
+      }
     },
     {
       "id": "FR028",
@@ -468,21 +547,43 @@
       "markdown_file": "chapters/ch-09-molecular-geometry-and-covalen.md",
       "original_asset": "images/section_13/9b8578b15995ab1e71a7727998c81943.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P1",
       "notes": "Use a licensed photograph or higher-resolution source-video frame showing liquid oxygen held between magnetic poles. The identified Commons stills are only about 300 pixels wide; inspect legibility before selecting.",
       "original_markdown": "![Figure 9.27 Liquid O 2 Suspended between the Poles of a Magnet](/images/section_13/9b8578b15995ab1e71a7727998c81943.jpg)\n\nBecause the O<sub>2</sub> molecule has two unpaired electrons, it is paramagnetic. Consequently, it is attracted into a magnetic field, which allows it to remain suspended between the poles of a powerful magnet until it evaporates.",
       "candidates": [
         {
-          "title": "Liquid oxygen in a magnet.jpg",
-          "source_url": "https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet.jpg",
-          "source_revision_url": "https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet.jpg?oldid=1048439741",
+          "title": "Liquid oxygen in a magnet 2.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet_2.jpg",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet_2.jpg?oldid=1226995942",
           "license_as_listed": "CC BY 3.0",
           "creator_as_listed": "Bob Burk, work supported by the National Science Foundation under grant numbers: 1246120, 1525057, and 1413739",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "CC BY 3.0 subject match identified; download was rate-limited. The original is only 294 x 240 pixels, so assess legibility before adoption."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Used the second licensed frame, in which the two pole pieces and the liquid in their gap are more distinct than in the first candidate. The original 302 by 225 pixel still is retained without upscaling or retouching and serves as a qualitative illustration.",
+        "assets": [
+          {
+            "title": "Liquid oxygen in a magnet 2.jpg",
+            "creator": "Bob Burk, work supported by the National Science Foundation under grant numbers: 1246120, 1525057, and 1413739",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet_2.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet_2.jpg?oldid=1226995942",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Liquid_oxygen_in_a_magnet_2.jpg",
+            "license": "CC BY 3.0",
+            "license_url": "https://creativecommons.org/licenses/by/3.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "2350203acd98b5adaf6982fe93f123730d2bc1fc",
+            "sha256": "cd1b42e668af1e4d02a8e46a2d88a71d80dd77d9c856b3392db7213fa60c7d38",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/liquid-oxygen-magnet-alt.jpg"
+          }
+        ],
+        "markdown": "![Liquid oxygen held in the gap between two facing magnetic pole pieces](/images/replacements/liquid-oxygen-magnet-alt.jpg)\n\nLiquid O<sub>2</sub> is attracted into the gap between the poles of a magnet. The two unpaired electrons in each O<sub>2</sub> molecule make molecular oxygen paramagnetic.\n\n*Photograph credits:* [Liquid oxygen in a magnet 2.jpg](https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet_2.jpg), Bob Burk, work supported by the National Science Foundation under grant numbers: 1246120, 1525057, and 1413739 ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0))."
+      }
     },
     {
       "id": "FR034",
@@ -490,7 +591,7 @@
       "markdown_file": "chapters/ch-11-liquids.md",
       "original_asset": "images/section_15/50ac78ae92d9fca7f0d29c68e7b5b67c.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find licensed photographs of a supported paper clip and a water strider, preserving the two examples. ",
       "original_markdown": "![Figure 11.10 The Effects of the High Surface Tension of Liquid Water](/images/section_15/50ac78ae92d9fca7f0d29c68e7b5b67c.jpg)\n\n\\(a\\) A paper clip can \"float\" on water because of surface tension. (b) Surface tension also allows insects such as this water strider to \"walk on water.\"",
@@ -501,7 +602,7 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Surface_Tension_01.jpg?oldid=1082767802",
           "license_as_listed": "CC BY-SA 3.0",
           "creator_as_listed": "Kuebi Armin Kübelbeck",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         },
         {
           "title": "Water strider.jpg",
@@ -509,10 +610,46 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Water_strider.jpg?oldid=1128115270",
           "license_as_listed": "Public domain",
           "creator_as_listed": "TimVickers",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "Licensed paper-clip and water-strider photographs identified. Download after Wikimedia cooldown and verify the two observed surface-tension examples."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the missing pair with separately credited photographs of the same two surface-tension examples. Used first/second rather than panel letters that are absent from the replacement files.",
+        "assets": [
+          {
+            "title": "Surface Tension 01.jpg",
+            "creator": "Kuebi Armin Kübelbeck",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Surface_Tension_01.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Surface_Tension_01.jpg?oldid=1082767802",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Surface_Tension_01.jpg",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "92ceec862061b4635af654b521baff5256a551bc",
+            "sha256": "daa4f336dd50019b3be7c4b506be7477bb42acd70212ae195e2c7f7ad1f3ea95",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/surface-tension-paperclip.jpg"
+          },
+          {
+            "title": "Water strider.jpg",
+            "creator": "TimVickers",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Water_strider.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Water_strider.jpg?oldid=1128115270",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Water_strider.jpg",
+            "license": "Public domain",
+            "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+            "retrieved": "2026-10-30",
+            "source_sha1": "dd7ca6cca669517dc2f3f03bf945bcb133323242",
+            "sha256": "7a81ad9bd39f150a20127ab3526c2a9e7cee2a4901bb7f5875b03b356720b717",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/water-strider.jpg"
+          }
+        ],
+        "markdown": "![A metal paper clip supported at the surface of water](/images/replacements/surface-tension-paperclip.jpg)\n\n![A water strider standing on the water surface](/images/replacements/water-strider.jpg)\n\nFirst photograph: surface tension helps support a metal paper clip at the surface of water. Second photograph: a water strider supported at the water surface. These examples illustrate the effects of water's high surface tension.\n\n*Photograph credits:* [Surface Tension 01.jpg](https://commons.wikimedia.org/wiki/File:Surface_Tension_01.jpg), Kuebi Armin Kübelbeck ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)); [Water strider.jpg](https://commons.wikimedia.org/wiki/File:Water_strider.jpg), TimVickers ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self))."
+      }
     },
     {
       "id": "FR037",
@@ -520,7 +657,7 @@
       "markdown_file": "chapters/ch-11-liquids.md",
       "original_asset": "images/section_15/ea0a635ef344c37541dd1041a8649e19.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find a licensed photograph showing iodine vapor and deposition of iodine crystals on a cold surface. Do not replace iodine with a different subliming substance under this caption.",
       "original_markdown": "![Figure 11.18 The Sublimation of Solid Iodine](/images/section_15/ea0a635ef344c37541dd1041a8649e19.jpg)\n\nWhen solid iodine is heated at ordinary atmospheric pressure, it sublimes. When the I<sub>2</sub> vapor comes in contact with a cold surface, it deposits I<sub>2</sub> crystals.",
@@ -531,7 +668,7 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Iodine_sublimation-_sublimation_in_process.jpg?oldid=1183121898",
           "license_as_listed": "CC0",
           "creator_as_listed": "Kate7234",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         },
         {
           "title": "Iodine sublimation-resublimated Iodine.jpg",
@@ -539,10 +676,46 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Iodine_sublimation-resublimated_Iodine.jpg?oldid=1183121841",
           "license_as_listed": "CC0",
           "creator_as_listed": "Kate7234",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "CC0 process and deposition photographs identified. Download after Wikimedia cooldown and confirm that the phase change and cold-surface deposit are visible."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the missing image with two documented photographs of iodine sublimation and the resulting deposited crystals. Caption identifies the visible apparatus and distinguishes sublimation from deposition.",
+        "assets": [
+          {
+            "title": "Iodine sublimation- sublimation in process.jpg",
+            "creator": "Kate7234",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Iodine_sublimation-_sublimation_in_process.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Iodine_sublimation-_sublimation_in_process.jpg?oldid=1183121898",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Iodine_sublimation-_sublimation_in_process.jpg",
+            "license": "CC0",
+            "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "retrieved": "2026-10-30",
+            "source_sha1": "997d53d36323d80c18737fdfb95efa0edbac7ebd",
+            "sha256": "4e49a0728abf9f209c5294b23bea01a4907845ac60325782bcc10cbb552c51ac",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/iodine-sublimation.jpg"
+          },
+          {
+            "title": "Iodine sublimation-resublimated Iodine.jpg",
+            "creator": "Kate7234",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Iodine_sublimation-resublimated_Iodine.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Iodine_sublimation-resublimated_Iodine.jpg?oldid=1183121841",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Iodine_sublimation-resublimated_Iodine.jpg",
+            "license": "CC0",
+            "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "retrieved": "2026-10-30",
+            "source_sha1": "5b843ba007c77151f2c834e7180e5b4358e6f64d",
+            "sha256": "0248cdda05cde187ece20863e1ca8dace80181a593e09c6cfa00c2cc76355fdf",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/iodine-deposition.jpg"
+          }
+        ],
+        "markdown": "![Violet iodine vapor rising in a beaker below an ice-cooled round-bottomed flask](/images/replacements/iodine-sublimation.jpg)\n\n![Dark needle-like iodine crystals deposited on the cooled flask surface](/images/replacements/iodine-deposition.jpg)\n\nFirst photograph: heated solid iodine produces violet iodine vapor in a beaker beneath an ice-cooled flask. Second photograph: iodine crystals deposited on the cold surface. The changes from solid to gas and from gas to solid are sublimation and deposition, respectively.\n\n*Photograph credits:* [Iodine sublimation- sublimation in process.jpg](https://commons.wikimedia.org/wiki/File:Iodine_sublimation-_sublimation_in_process.jpg), Kate7234 ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)); [Iodine sublimation-resublimated Iodine.jpg](https://commons.wikimedia.org/wiki/File:Iodine_sublimation-resublimated_Iodine.jpg), Kate7234 ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en))."
+      }
     },
     {
       "id": "FR038",
@@ -561,7 +734,7 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Cholesteryl_benzo%C3%A1t.jpg?oldid=1123887775",
           "license_as_listed": "CC BY-SA 4.0",
           "creator_as_listed": "Milda 444",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "source description checked; solid specimen does not supply the required phase comparison"
         }
       ],
       "next_step": "Only a solid specimen and molecular diagrams were found, not the named isotropic/cholesteric phase comparison. A matched phase pair with documented temperatures is still needed."
@@ -572,7 +745,7 @@
       "markdown_file": "chapters/ch-14-chemical-kinetics.md",
       "original_asset": "images/section_18/65faa2f875a51b122536441d9c6a90d2.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find a licensed sequence contrasting dilute acid with the concentrated sulfuric-acid/sucrose reaction and its black carbonaceous product. Verify the caption description of the product as graphite before labeling a replacement.",
       "original_markdown": "![Figure 14.1 The Effect of Concentration on Reaction Rates](/images/section_18/65faa2f875a51b122536441d9c6a90d2.jpg)\n\nMixing sucrose with *dilute* sulfuric acid in a beaker (a, right) produces a simple solution. Mixing the same amount of sucrose with *concentrated* sulfuric acid (a, left) results in a dramatic reaction (b) that eventually produces a column of black porous graphite (c) and an intense smell of burning sugar.",
@@ -583,10 +756,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Dehydration_of_sugar_by_sulfuric_acid.png?oldid=958397344",
           "license_as_listed": "CC BY-SA 3.0",
           "creator_as_listed": "Capaccio",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "Licensed sugar-dehydration sequence identified. Download and inspect it; revise the caption to the actual sequence rather than claim a dilute-acid control that may not be present. Describe the carbonaceous product without an unverified graphite classification."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the missing concentration-comparison panels with a licensed seven-stage photograph of the concentrated-acid reaction. Removed the absent dilute-acid panel references and the unverified description of the product as graphite.",
+        "assets": [
+          {
+            "title": "Dehydration of sugar by sulfuric acid.png",
+            "creator": "Capaccio",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Dehydration_of_sugar_by_sulfuric_acid.png",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Dehydration_of_sugar_by_sulfuric_acid.png?oldid=958397344",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dehydration_of_sugar_by_sulfuric_acid.png",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "7288f6d2c95bdfeb04d2acf6d1dca6a71ceb24c9",
+            "sha256": "59ae6871bd5683ba52e4bdefb47053c2b22d2cf6fd0fd06521a98e2b8e817c79",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/sugar-dehydration.png"
+          }
+        ],
+        "markdown": "![Seven-stage sequence showing sulfuric acid reacting with table sugar to produce an expanding black solid](/images/replacements/sugar-dehydration.png)\n\nFrom left to right, concentrated sulfuric acid dehydrates table sugar, producing a dark carbonaceous material that expands into a porous mass. This sequence shows the concentrated-acid reaction; it does not show a dilute-acid control.\n\n*Photograph credits:* [Dehydration of sugar by sulfuric acid.png](https://commons.wikimedia.org/wiki/File:Dehydration_of_sugar_by_sulfuric_acid.png), Capaccio ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0))."
+      }
     },
     {
       "id": "FR043",
@@ -607,7 +802,7 @@
       "markdown_file": "chapters/ch-16-aqueous-acid-base-equilibriums.md",
       "original_asset": "images/section_20/8bb58172a9f150882cc423ff9c9dbfe9.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Use a licensed cabbage-juice pH series; preserve only pH values actually documented by the photographer. The candidates do not establish the original exact pH=2 to pH=11 sequence or the pH=7 tube. Revise the caption rather than assigning unsupported values.",
       "original_markdown": "![Figure 16.22 Naturally Occurring pH Indicators in Red Cabbage Juice](/images/section_20/8bb58172a9f150882cc423ff9c9dbfe9.jpg)\n\nRed cabbage juice contains a mixture of substances whose color depends on the pH. Each test tube contains a solution of red cabbage juice in water, but the pH of the solutions varies from pH = 2.0 (far left) to pH = 11.0 (far right). At pH = 7.0, the solution is blue.",
@@ -618,10 +813,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Red_cabbage_indicator.jpg?oldid=1128515551",
           "license_as_listed": "CC BY-SA 3.0",
           "creator_as_listed": "Epaenurk",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "Licensed pH-series photograph identified. Download after Wikimedia cooldown and inspect; use increasing pH rather than assign the original exact numerical pH values."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "The replacement shows seven flasks in order of increasing pH. Removed the unsupported original exact pH endpoints, pH=7 color assignment, and references to test tubes.",
+        "assets": [
+          {
+            "title": "Red cabbage indicator.jpg",
+            "creator": "Epaenurk",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Red_cabbage_indicator.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Red_cabbage_indicator.jpg?oldid=1128515551",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Red_cabbage_indicator.jpg",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "d67b06708270d8cf3d3b9eae8d37f3af89ad1187",
+            "sha256": "8599d81a63ccb5e9727261232bac2cfdd0b55fc23ed326555f1c5f62b6dbb5a4",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/red-cabbage-indicator.jpg"
+          }
+        ],
+        "markdown": "![Seven red-cabbage indicator solutions changing from red through purple and green to yellow as pH increases from left to right](/images/replacements/red-cabbage-indicator.jpg)\n\nRed-cabbage juice contains pigments whose color depends on pH. In this series, pH increases from left to right and the color changes from red through purple and green to yellow. Exact pH values are not specified for the photographed samples.\n\n*Photograph credits:* [Red cabbage indicator.jpg](https://commons.wikimedia.org/wiki/File:Red_cabbage_indicator.jpg), Epaenurk ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0))."
+      }
     },
     {
       "id": "FR051",
@@ -629,7 +846,7 @@
       "markdown_file": "chapters/ch-16-aqueous-acid-base-equilibriums.md",
       "original_asset": "images/section_20/412beaf5d8ff4a408473faed470c9611.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find a licensed photograph of indicator strips with their matching reference chart. Do not combine a strip with an unrelated manufacturer color chart.",
       "original_markdown": "![Figure 16.25 pH Paper](/images/section_20/412beaf5d8ff4a408473faed470c9611.jpg)\n\npH paper contains a set of indicators that change color at different pH values. The approximate pH of a solution can be determined by simply dipping a paper strip into the solution and comparing the color to the standards provided.",
@@ -640,10 +857,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:PH_indicator_paper.jpg?oldid=1139490382",
           "license_as_listed": "CC BY-SA 3.0",
           "creator_as_listed": "Michael Krahe",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "Licensed indicator-paper photograph identified. Download after Wikimedia cooldown; ensure the strips and their own reference chart are both visible."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "The replacement shows a multi-pad indicator strip and its own reference chart. Caption describes the visible comparison without assigning an unverified sample pH.",
+        "assets": [
+          {
+            "title": "PH indicator paper.jpg",
+            "creator": "Michael Krahe",
+            "source_url": "https://commons.wikimedia.org/wiki/File:PH_indicator_paper.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:PH_indicator_paper.jpg?oldid=1139490382",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/PH_indicator_paper.jpg",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+            "retrieved": "2026-10-30",
+            "source_sha1": "d56f6c4d445267ba0dde1bf831e534e39d627bc2",
+            "sha256": "085672a74160e85ef30f320dc15dec365cdf3e3c98074abad2f0399ff88215af",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/ph-indicator-paper.jpg"
+          }
+        ],
+        "markdown": "![An indicator strip with four colored pads compared with the matching printed pH reference chart](/images/replacements/ph-indicator-paper.jpg)\n\nAn indicator strip is compared with its matching pH reference chart. The combination of colors on the strip is used to estimate the pH of a solution.\n\n*Photograph credits:* [PH indicator paper.jpg](https://commons.wikimedia.org/wiki/File:PH_indicator_paper.jpg), Michael Krahe ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/))."
+      }
     },
     {
       "id": "FR052",
@@ -651,7 +890,7 @@
       "markdown_file": "chapters/ch-17-solubility-and-complexation-eq.md",
       "original_asset": "images/section_21/38b95b99c4da58ec075f48384b69e6d0.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Use a licensed calcite-rhomb photograph showing a doubled underlying image or line. Check whether the selected subject is text or a line and adapt the caption accordingly.",
       "original_markdown": "![A crystal of calcite (CaCO 3 ), illustrating the phenomenon of double refraction. When a transparent crystal of calcite is placed over a page, we see two images of the letters.](/images/section_21/38b95b99c4da58ec075f48384b69e6d0.jpg)\n\n**A crystal of calcite (CaCO**<sub>**3**</sub>**), illustrating the phenomenon of double refraction.** When a transparent crystal of calcite is placed over a page, we see *two* images of the letters.",
@@ -662,10 +901,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Calcite_and_double_refraction_(GeoDIL_number_-_670).jpg?oldid=1263158307",
           "license_as_listed": "CC0",
           "creator_as_listed": "Twyla Baker",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "CC0 calcite double-refraction photograph identified. Download after Wikimedia cooldown and describe the actual doubled subject, without assuming it is lettering."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the missing calcite photograph with a CC0 image that visibly shows two offset images of the printed letter A. Caption and alternative text match the observed doubled subject.",
+        "assets": [
+          {
+            "title": "Calcite and double refraction (GeoDIL number - 670).jpg",
+            "creator": "Twyla Baker",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Calcite_and_double_refraction_(GeoDIL_number_-_670).jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Calcite_and_double_refraction_(GeoDIL_number_-_670).jpg?oldid=1263158307",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Calcite_and_double_refraction_%28GeoDIL_number_-_670%29.jpg",
+            "license": "CC0",
+            "license_url": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "retrieved": "2026-10-30",
+            "source_sha1": "775e2f6c4d8dbd9a4c552370a1e885362f9d9d90",
+            "sha256": "6969de4a04495fab4a117bdadb4233a2462f8ba80a20c36a2b18de6dfd2710e1",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/calcite-double-refraction.jpg"
+          }
+        ],
+        "markdown": "![A transparent calcite crystal placed over a printed letter A, producing two offset images of the letter](/images/replacements/calcite-double-refraction.jpg)\n\n**Double refraction in calcite (CaCO<sub>3</sub>).** A transparent calcite crystal placed over a printed letter produces two offset images of that letter.\n\n*Photograph credits:* [Calcite and double refraction (GeoDIL number - 670).jpg](https://commons.wikimedia.org/wiki/File:Calcite_and_double_refraction_(GeoDIL_number_-_670).jpg), Twyla Baker ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en))."
+      }
     },
     {
       "id": "FR061",
@@ -673,12 +934,43 @@
       "markdown_file": "chapters/ch-21-periodic-trends-and-the-s-bloc.md",
       "original_asset": "images/section_25/c8fe0e74ddd63ab09ca130dac41bc21d.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find an openly licensed photograph or video frame of sodium reacting with water, showing the actual reaction rather than a specimen only. ",
       "original_markdown": "![Figure 21.10 Reacting Sodium with Water](/images/section_25/c8fe0e74ddd63ab09ca130dac41bc21d.jpg)\n\nLike most elements in groups 1 and 2, sodium reacts violently with water. The products are the Na<sup>+</sup>(aq) ion and hydrogen gas, which is potentially explosive when mixed with air.",
-      "candidates": [],
-      "next_step": "Initial search did not identify an adequate sodium-water reaction photograph. Continue searching for the actual reaction; a sodium specimen alone is insufficient."
+      "candidates": [
+        {
+          "title": "Naatriumi reaktsioon veega purustab klaasist anuma.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Naatriumi_reaktsioon_veega_purustab_klaasist_anuma.jpg",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:Naatriumi_reaktsioon_veega_purustab_klaasist_anuma.jpg?oldid=975603464",
+          "license_as_listed": "CC BY-SA 3.0",
+          "creator_as_listed": "Tavoromann",
+          "status": "installed"
+        }
+      ],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the missing reaction photograph with a licensed still of an identified sodium-water demonstration. Caption describes the event actually documented by the source without assigning the flame to an unverified emitting species.",
+        "assets": [
+          {
+            "title": "Naatriumi reaktsioon veega purustab klaasist anuma.jpg",
+            "creator": "Tavoromann",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Naatriumi_reaktsioon_veega_purustab_klaasist_anuma.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Naatriumi_reaktsioon_veega_purustab_klaasist_anuma.jpg?oldid=975603464",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Naatriumi_reaktsioon_veega_purustab_klaasist_anuma.jpg",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "642ea516c70d9108dc2653cefb25bd11ff2bb80e",
+            "sha256": "e01106f84ab0f652c465070444f3bcd9ed87a72e170f546cde0dccbd9895c1a9",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/sodium-water.jpg"
+          }
+        ],
+        "markdown": "![A vigorous sodium-water reaction with flames and a breaking glass vessel](/images/replacements/sodium-water.jpg)\n\nSodium reacts vigorously with water, producing sodium hydroxide and hydrogen gas. This frame records a demonstration in which the reaction breaks the glass vessel.\n\n*Photograph credits:* [Naatriumi reaktsioon veega purustab klaasist anuma.jpg](https://commons.wikimedia.org/wiki/File:Naatriumi_reaktsioon_veega_purustab_klaasist_anuma.jpg), Tavoromann ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0))."
+      }
     },
     {
       "id": "FR062",
@@ -686,7 +978,7 @@
       "markdown_file": "chapters/ch-21-periodic-trends-and-the-s-bloc.md",
       "original_asset": "images/section_25/72251b28649c2113d6385c2031bdef61.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find a licensed photograph of a documented dilute alkali-metal/ammonia solution with its blue solvated-electron color. Do not use aqueous copper or another unrelated blue solution; concentration changes the appearance.",
       "original_markdown": "![Figure 21.11 Alkali Metal--Liquid Ammonia Solutions](/images/section_25/72251b28649c2113d6385c2031bdef61.jpg)\n\nMost metals are insoluble in virtually all solvents, but the alkali metals (and the heavier alkaline earth metals) dissolve readily in liquid ammonia to form solvated metal cations and solvated electrons, which give the solution a deep blue color.",
@@ -697,10 +989,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Li-NH3.jpg?oldid=999941090",
           "license_as_listed": "CC BY-SA 4.0",
           "creator_as_listed": "Joshua Judkins",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "A CC BY-SA 4.0 lithium/liquid-ammonia photograph has been identified. Download after Wikimedia cooldown and verify credit to Joshua Judkins and the documented blue/bronze states before adapting the caption."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "The replacement is a documented lithium-ammonia pair showing blue and bronze appearances, credited to Joshua Judkins. Caption identifies the actual metal and both photographed states without inventing measured concentrations.",
+        "assets": [
+          {
+            "title": "Li-NH3.jpg",
+            "creator": "Joshua Judkins",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Li-NH3.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Li-NH3.jpg?oldid=999941090",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Li-NH3.jpg",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "333955e514cbf6fd0b01f5dd0658eb26921e4d83",
+            "sha256": "fadcc5a4d6f467e91a586897ba1729341c9067f245adc158ff11d2a07f4f4a20",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/lithium-ammonia.jpg"
+          }
+        ],
+        "markdown": "![Lithium dissolved in liquid ammonia: a dark blue solution above and a bronze metallic-looking phase below](/images/replacements/lithium-ammonia.jpg)\n\nLithium dissolved in liquid ammonia. The upper photograph shows a blue solution; the lower photograph shows a bronze, metallic-looking phase. Solvated electrons account for the characteristic blue color of dilute alkali-metal solutions in liquid ammonia.\n\n*Photograph credits:* [Li-NH3.jpg](https://commons.wikimedia.org/wiki/File:Li-NH3.jpg), Joshua Judkins ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))."
+      }
     },
     {
       "id": "FR063",
@@ -708,7 +1022,7 @@
       "markdown_file": "chapters/ch-22-the-p-block-elements.md",
       "original_asset": "images/section_26/0c737af5451bf15c9d4ace03184592f1.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find a licensed purple fluorite specimen photograph with mineral identity and provenance. A differently colored specimen requires caption revision; do not claim the selected specimen demonstrates ozone release without evidence.",
       "original_markdown": "![A crystal of the mineral fluorite (CaF 2 ). The purple color of some fluorite crystals is due to small inclusions of highly oxidizing impurities, which generate detectable amounts of ozone when the crystals are crushed.](/images/section_26/0c737af5451bf15c9d4ace03184592f1.jpg)\n\n**A crystal of the mineral fluorite (CaF**<sub>**2**</sub>**).** The purple color of some fluorite crystals is due to small inclusions of highly oxidizing impurities, which generate detectable amounts of ozone when the crystals are crushed.",
@@ -719,10 +1033,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Fluorite_crystal_specimen.jpg?oldid=1161904668",
           "license_as_listed": "CC BY 2.0",
           "creator_as_listed": "Arenamontanus",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "A CC BY 2.0 fluorite specimen photograph has been identified. Download after Wikimedia cooldown and verify its visible color. Avoid inferring ozone release from the appearance of a specimen."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the missing specimen image with a licensed purple fluorite photograph. Caption identifies the mineral and observed color without claiming that this specimen demonstrates a particular color mechanism or ozone release.",
+        "assets": [
+          {
+            "title": "Fluorite crystal specimen.jpg",
+            "creator": "Arenamontanus",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Fluorite_crystal_specimen.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Fluorite_crystal_specimen.jpg?oldid=1161904668",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Fluorite_crystal_specimen.jpg",
+            "license": "CC BY 2.0",
+            "license_url": "https://creativecommons.org/licenses/by/2.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "5d6d16addbc7cd8f65f4ff74b014c5d974d6c14e",
+            "sha256": "d5018a2dcb9dbee3b1461fb4bffd2a8521130538b69b28c257d871c6c01ee7cf",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/fluorite.jpg"
+          }
+        ],
+        "markdown": "![A transparent purple fluorite crystal with well-defined faces](/images/replacements/fluorite.jpg)\n\n**Fluorite (CaF<sub>2</sub>).** A purple crystal of the mineral fluorite.\n\n*Photograph credits:* [Fluorite crystal specimen.jpg](https://commons.wikimedia.org/wiki/File:Fluorite_crystal_specimen.jpg), Arenamontanus ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0))."
+      }
     },
     {
       "id": "FR064",
@@ -730,7 +1066,7 @@
       "markdown_file": "chapters/ch-23-the-d-block-elements.md",
       "original_asset": "images/section_27/c21e25a2d4be77abc47e545ccf92446c.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P1",
       "notes": "Use the public-domain four-state photograph, inspect the tube order, and add species/oxidation-state labels for V(II), V(III), V(IV), and V(V). Verify the ordering and solution conditions before labeling individual tubes.",
       "original_markdown": "![Figure 23.4 Aqueous Solutions of Vanadium Ions in Oxidation States of +2 to +5](/images/section_27/c21e25a2d4be77abc47e545ccf92446c.jpg)\n\nBecause vanadium ions with different oxidation states have different numbers of *d* electrons, aqueous solutions of the ions have different colors: in acid V(V) forms the pale yellow \\[VO<sub>2</sub>\\]<sup>+</sup> ion; V(IV) is the blue vanadyl ion \\[VO\\]<sup>2+</sup>; and V(III) and V(II) exist as the hydrated V<sup>3+</sup> (blue-green) and V<sup>2+</sup> (violet) ions, respectively.",
@@ -741,10 +1077,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Vanadiumoxidationstates.jpg?oldid=1114821518",
           "license_as_listed": "Public domain",
           "creator_as_listed": "Steffen Kristensen",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "installed"
         }
       ],
-      "next_step": "Public-domain four-state vanadium photograph identified. Download after Wikimedia cooldown, inspect tube order, and match species labels to the photographed solutions."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Replaced the missing four-state comparison with a public-domain photograph. Caption now follows the verified left-to-right order +2, +3, +4, +5 and the colors actually visible in the image.",
+        "assets": [
+          {
+            "title": "Vanadiumoxidationstates.jpg",
+            "creator": "Steffen Kristensen",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Vanadiumoxidationstates.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Vanadiumoxidationstates.jpg?oldid=1114821518",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Vanadiumoxidationstates.jpg",
+            "license": "Public domain",
+            "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+            "retrieved": "2026-10-30",
+            "source_sha1": "d32e43e70de5a491d02d7830abcc490c25301672",
+            "sha256": "212445939bb6bb7363e53e4f4074b94cf8a6afc2b88655403ffd15d9e861385a",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/vanadium-oxidation-states.jpg"
+          }
+        ],
+        "markdown": "![Four vanadium solutions, from left to right violet V(II), green V(III), blue V(IV), and yellow V(V)](/images/replacements/vanadium-oxidation-states.jpg)\n\nFrom left to right, the solutions contain vanadium in oxidation states +2, +3, +4, and +5. In acidic solution these correspond to hydrated V<sup>2+</sup> (violet), hydrated V<sup>3+</sup> (green), the vanadyl ion [VO]<sup>2+</sup> (blue), and [VO<sub>2</sub>]<sup>+</sup> (yellow). Different oxidation states give different electronic structures and characteristic solution colors.\n\n*Photograph credits:* [Vanadiumoxidationstates.jpg](https://commons.wikimedia.org/wiki/File:Vanadiumoxidationstates.jpg), Steffen Kristensen ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self))."
+      }
     },
     {
       "id": "FR065",
@@ -763,10 +1121,22 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganate.jpg?oldid=1179013687",
           "license_as_listed": "Public domain",
           "creator_as_listed": "Choij (talk)",
-          "status": "metadata checked; download or visual/scientific review pending"
+          "status": "downloaded and visually reviewed; not adopted because the required comparison is absent"
         }
       ],
-      "next_step": "A public-domain manganate photograph supplies only Mn(VI). The full original comparison still needs documented Mn(II), Mn(III), Mn(IV), and Mn(VII) specimens, or a deliberate revision of figure scope."
+      "next_step": "Downloaded and inspected the public-domain manganate photograph; it supplies only the green Mn(VI) solution. The original five-state comparison still needs documented Mn(II), Mn(III), Mn(IV), and Mn(VII) specimens, or a deliberate revision of figure scope.",
+      "download_review": {
+        "title": "Manganate.jpg",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Manganate.jpg",
+        "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganate.jpg?oldid=1179013687",
+        "creator": "Choij (talk)",
+        "license": "Public domain",
+        "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+        "retrieved": "2026-10-30",
+        "sha256": "3882433e4ba9e315ecec3f9127209a637ee1e562877cf1ecf0ede84e99753247",
+        "source_sha1": "d7e8a283f6abb3194556ded5dcbb80828aae6044",
+        "decision": "Not installed: the downloaded file does not supply the required comparison."
+      }
     }
   ]
 }

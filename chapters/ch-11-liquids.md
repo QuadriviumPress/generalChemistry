@@ -564,9 +564,13 @@ The same phenomenon holds molecules together at the surface of a bulk sample of 
 
 Figure 11.10 The Effects of the High Surface Tension of Liquid Water
 
-![Figure 11.10 The Effects of the High Surface Tension of Liquid Water](/images/section_15/50ac78ae92d9fca7f0d29c68e7b5b67c.jpg)
+![A metal paper clip supported at the surface of water](/images/replacements/surface-tension-paperclip.jpg)
 
-\(a\) A paper clip can "float" on water because of surface tension. (b) Surface tension also allows insects such as this water strider to "walk on water."
+![A water strider standing on the water surface](/images/replacements/water-strider.jpg)
+
+First photograph: surface tension helps support a metal paper clip at the surface of water. Second photograph: a water strider supported at the water surface. These examples illustrate the effects of water's high surface tension.
+
+*Photograph credits:* [Surface Tension 01.jpg](https://commons.wikimedia.org/wiki/File:Surface_Tension_01.jpg), Kuebi Armin Kübelbeck ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)); [Water strider.jpg](https://commons.wikimedia.org/wiki/File:Water_strider.jpg), TimVickers ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self)).
 
 Such phenomena are manifestations of surface tension[^chem-9], which is defined as the energy required to increase the surface area of a liquid by a specific amount. Surface tension is therefore measured as energy per unit area, such as joules per square meter (J/m<sup>2</sup>) or dyne per centimeter (dyn/cm), where 1 dyn = 1 × 10<sup>−5</sup> N. The values of the surface tension of some representative liquids are listed in [Table 11.4 \"Surface Tension, Viscosity, Vapor Pressure (at 25°C Unless Otherwise Indicated), and Normal Boiling Points of Common Liquids\"](/chapters/ch-11-liquids.md#src-averill-1-0-ch11-s03-s01-t01). Note the correlation between the surface tension of a liquid and the strength of the intermolecular forces: the stronger the intermolecular forces, the higher the surface tension. For example, water, with its strong intermolecular hydrogen bonding, has one of the highest surface tension values of any liquid, whereas low-boiling-point organic molecules, which have relatively weak intermolecular forces, have much lower surface tensions. Mercury is an apparent anomaly, but its very high surface tension is due to the presence of strong metallic bonding, which we will discuss in more detail in [Chapter 12 \"Solids\"](/chapters/ch-12-solids.md#src-averill-1-0-ch12).
 
@@ -1382,9 +1386,13 @@ Equation 11.3
 
 Figure 11.18 The Sublimation of Solid Iodine
 
-![Figure 11.18 The Sublimation of Solid Iodine](/images/section_15/ea0a635ef344c37541dd1041a8649e19.jpg)
+![Violet iodine vapor rising in a beaker below an ice-cooled round-bottomed flask](/images/replacements/iodine-sublimation.jpg)
 
-When solid iodine is heated at ordinary atmospheric pressure, it sublimes. When the I<sub>2</sub> vapor comes in contact with a cold surface, it deposits I<sub>2</sub> crystals.
+![Dark needle-like iodine crystals deposited on the cooled flask surface](/images/replacements/iodine-deposition.jpg)
+
+First photograph: heated solid iodine produces violet iodine vapor in a beaker beneath an ice-cooled flask. Second photograph: iodine crystals deposited on the cold surface. The changes from solid to gas and from gas to solid are sublimation and deposition, respectively.
+
+*Photograph credits:* [Iodine sublimation- sublimation in process.jpg](https://commons.wikimedia.org/wiki/File:Iodine_sublimation-_sublimation_in_process.jpg), Kate7234 ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)); [Iodine sublimation-resublimated Iodine.jpg](https://commons.wikimedia.org/wiki/File:Iodine_sublimation-resublimated_Iodine.jpg), Kate7234 ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)).
 
 Fusion, vaporization, and sublimation are endothermic processes; they occur only with the absorption of heat. Anyone who has ever stepped out of a swimming pool on a cool, breezy day has felt the heat loss that accompanies the evaporation of water from the skin. Our bodies use this same phenomenon to maintain a constant temperature: we perspire continuously, even when at rest, losing about 600 mL of water daily by evaporation from the skin. We also lose about 400 mL of water as water vapor in the air we exhale, which also contributes to cooling. Refrigerators and air-conditioners operate on a similar principle: heat is absorbed from the object or area to be cooled and used to vaporize a low-boiling-point liquid, such as ammonia or the chlorofluorocarbons (CFCs) and the hydrofluorocarbons (HCFCs) discussed in [Chapter 3 \"Chemical Reactions\"](/chapters/ch-03-chemical-reactions.md#src-averill-1-0-ch03) in connection with the ozone layer. The vapor is then transported to a different location and compressed, thus releasing and dissipating the heat. Likewise, ice cubes efficiently cool a drink not because of their low temperature but because heat is required to convert ice at 0°C to liquid water at 0°C, as demonstrated later in Example 8.
 

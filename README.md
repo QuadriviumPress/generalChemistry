@@ -44,4 +44,4 @@ Importing overwrites converted Markdown. Normal builds use committed Markdown an
 
 Approved photograph replacements and their matching captions are reapplied automatically after import from `figure-replacements.json`. The ledger records original and replacement checksums, creators, component licenses, source revisions, and the status of all 25 photograph locations identified in the audit. See [photograph replacement progress](docs/photograph-replacements.md). To reapply installed entries without importing, run `python3 scripts/figure_replacements.py`; conflicting edits stop with an error instead of being overwritten. Run `python3 -m unittest discover -s tests` to check this workflow.
 
-The conversion preserves the source's scientific statements and historical data. It is a format adaptation, not a scientific revision.
+The original conversion preserved the source's scientific statements and historical data. Subsequent photograph replacements and their caption adaptations are documented in [SOURCES.md](SOURCES.md).

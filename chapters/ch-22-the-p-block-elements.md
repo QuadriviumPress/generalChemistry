@@ -2204,9 +2204,11 @@ Chlorine was the first halogen to be obtained in pure form. In 1774, Carl Wilhel
 
 Because of the unique properties of its compounds, fluorine was believed to exist long before it was actually isolated. The mineral fluorspar (now called *fluorite* \[CaF<sub>2</sub>\]) had been used since the 16th century as a "flux," a low-melting-point substance that could dissolve other minerals and ores. In 1670, a German glass cutter discovered that heating fluorspar with strong acid produced a solution that could etch glass. The solution was later recognized to contain the acid of a new element, which was named fluorine in 1812. Elemental fluorine proved to be very difficult to isolate, however, because both HF and F<sub>2</sub> are extraordinarily reactive and toxic. After being poisoned three times while trying to isolate the element, the French chemist Henri Moissan succeeded in 1886 in electrolyzing a sample of KF in anhydrous HF to produce a pale green gas ([Figure 22.14 \"Isolation of Elemental Fluorine\"](/chapters/ch-22-the-p-block-elements.md#src-averill-1-0-ch22-s05-f01)). For this achievement, among others, Moissan narrowly defeated Mendeleev for the Nobel Prize in Chemistry in 1906. Large amounts of fluorine are now consumed in the production of *cryolite* (Na<sub>3</sub>AlF<sub>6</sub>), a key intermediate in the production of aluminum metal. Fluorine is also found in teeth as *fluoroapatite* \[Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>F\], which is formed by reacting hydroxyapatite \[Ca<sub>5</sub>(PO<sub>4</sub>)<sub>3</sub>OH\] in tooth enamel with fluoride ions in toothpastes, rinses, and drinking water.
 
-![A crystal of the mineral fluorite (CaF 2 ). The purple color of some fluorite crystals is due to small inclusions of highly oxidizing impurities, which generate detectable amounts of ozone when the crystals are crushed.](/images/section_26/0c737af5451bf15c9d4ace03184592f1.jpg)
+![A transparent purple fluorite crystal with well-defined faces](/images/replacements/fluorite.jpg)
 
-**A crystal of the mineral fluorite (CaF**<sub>**2**</sub>**).** The purple color of some fluorite crystals is due to small inclusions of highly oxidizing impurities, which generate detectable amounts of ozone when the crystals are crushed.
+**Fluorite (CaF<sub>2</sub>).** A purple crystal of the mineral fluorite.
+
+*Photograph credits:* [Fluorite crystal specimen.jpg](https://commons.wikimedia.org/wiki/File:Fluorite_crystal_specimen.jpg), Arenamontanus ([CC BY 2.0](https://creativecommons.org/licenses/by/2.0)).
 
 (src-averill-1-0-ch22-s05-f01)=
 

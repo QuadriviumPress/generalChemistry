@@ -4,9 +4,11 @@
 
 In [Chapter 3 \"Chemical Reactions\"](/chapters/ch-03-chemical-reactions.md#src-averill-1-0-ch03), we described chemical reactions in general and introduced some techniques that are used to characterize them quantitatively. For the sake of simplicity, we discussed situations in which the reactants and the products of a given reaction were the only chemical species present. In reality, however, virtually every chemical reaction that takes place within and around us, such as the oxidation of foods to generate energy or the treatment of an upset stomach with an antacid tablet, occur *in solution*. In fact, many reactions must be carried out in solution and do not take place at all if the solid reactants are simply mixed.
 
-![The reaction of mercury(II) acetate with sodium iodide. When colorless aqueous solutions of each reactant are mixed, they produce a red precipitate, mercury(II) iodide, which is the result of an exchange reaction.](/images/section_08/9bfa09cd7382e7aab0e9e90d0dc83e29.jpg)
+![A vial containing bright red solid mercury(II) iodide](/images/replacements/mercury-iodide.jpg)
 
-**The reaction of mercury(II) acetate with sodium iodide.** When colorless aqueous solutions of each reactant are mixed, they produce a red precipitate, mercury(II) iodide, which is the result of an exchange reaction.
+**Mercury(II) iodide (HgI<sub>2</sub>).** Mercury(II) iodide can form as a red precipitate when solutions containing Hg<sup>2+</sup> and I<sup>−</sup> are mixed. This photograph shows the isolated solid.
+
+*Photograph credits:* [Jodid rtuťnatý 1.jpg](https://commons.wikimedia.org/wiki/File:Jodid_rtu%C5%A5nat%C3%BD_1.jpg), David Rouzek ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)).
 
 As you learned in [Chapter 1 \"Introduction to Chemistry\"](/chapters/ch-01-introduction-to-chemistry.md#src-averill-1-0-ch01), a solution[^chem-1] is a homogeneous mixture in which substances present in lesser amounts, called solutes[^chem-2], are dispersed uniformly throughout the substance in the greater amount, the solvent[^chem-3]. An aqueous solution[^chem-4] is a solution in which the solvent is water, whereas in a *nonaqueous solution*, the solvent is a substance other than water. Familiar examples of nonaqueous solvents are ethyl acetate, used in nail polish removers, and turpentine, used to clean paint brushes. In this chapter, we focus on reactions that occur in aqueous solution.
 
@@ -1330,9 +1332,11 @@ Using the information in [Table 4.2 \"Guidelines for Predicting the Solubility o
 
     Although soluble barium salts are toxic, BaSO<sub>4</sub> is so insoluble that it can be used to diagnose stomach and intestinal problems without being absorbed into tissues. An outline of the digestive organs appears on x-rays of patients who have been given a "barium milkshake" or a "barium enema"---a suspension of very fine BaSO<sub>4</sub> particles in water.
 
-    ![An x-ray of the digestive organs of a patient who has swallowed a "barium milkshake." A barium milkshake is a suspension of very fine BaSO 4 particles in water; the high atomic mass of barium makes it opaque to x-rays.](/images/section_08/0b97b78399c77122020b97a7372a12ae.jpg)
+    ![Barium-contrast radiograph showing the esophagus as a bright outlined passage](/images/replacements/barium-swallow.png)
 
-    **An x-ray of the digestive organs of a patient who has swallowed a "barium milkshake."** A barium milkshake is a suspension of very fine BaSO<sub>4</sub> particles in water; the high atomic mass of barium makes it opaque to x-rays.
+    **Barium-contrast radiograph of the esophagus.** Swallowed barium sulfate outlines the esophagus because barium strongly attenuates x-rays. The contrast material is a suspension of very fine BaSO<sub>4</sub> particles in water.
+
+    *Photograph credits:* [Barium swallow.png](https://commons.wikimedia.org/wiki/File:Barium_swallow.png), Glitzy queen00 at English Wikipedia ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self)).
 
 2.  **A** Rubidium hydroxide and cobalt(II) chloride are strong electrolytes, so when aqueous solutions of these compounds are mixed, the resulting solution initially contains Rb<sup>+</sup>, OH<sup>−</sup>, Co<sup>2+</sup>, and Cl<sup>−</sup> ions. The possible products of an exchange reaction are rubidium chloride and cobalt(II) hydroxide):
 

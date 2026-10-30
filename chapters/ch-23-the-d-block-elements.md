@@ -531,9 +531,11 @@ As indicated in [Table 23.4 \"Some Properties of the Elements of Groups 3, 4, an
 
 Figure 23.4 Aqueous Solutions of Vanadium Ions in Oxidation States of +2 to +5
 
-![Figure 23.4 Aqueous Solutions of Vanadium Ions in Oxidation States of +2 to +5](/images/section_27/c21e25a2d4be77abc47e545ccf92446c.jpg)
+![Four vanadium solutions, from left to right violet V(II), green V(III), blue V(IV), and yellow V(V)](/images/replacements/vanadium-oxidation-states.jpg)
 
-Because vanadium ions with different oxidation states have different numbers of *d* electrons, aqueous solutions of the ions have different colors: in acid V(V) forms the pale yellow \[VO<sub>2</sub>\]<sup>+</sup> ion; V(IV) is the blue vanadyl ion \[VO\]<sup>2+</sup>; and V(III) and V(II) exist as the hydrated V<sup>3+</sup> (blue-green) and V<sup>2+</sup> (violet) ions, respectively.
+From left to right, the solutions contain vanadium in oxidation states +2, +3, +4, and +5. In acidic solution these correspond to hydrated V<sup>2+</sup> (violet), hydrated V<sup>3+</sup> (green), the vanadyl ion [VO]<sup>2+</sup> (blue), and [VO<sub>2</sub>]<sup>+</sup> (yellow). Different oxidation states give different electronic structures and characteristic solution colors.
+
+*Photograph credits:* [Vanadiumoxidationstates.jpg](https://commons.wikimedia.org/wiki/File:Vanadiumoxidationstates.jpg), Steffen Kristensen ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self)).
 
 Although group 5 metals react with the heavier chalcogens to form a complex set of binary chalcogenides, the most important are the dichalcogenides (MY<sub>2</sub>), whose layered structures are similar to those of the group 4 dichalcogenides. The elements of group 5 also form binary nitrides, carbides, borides, and hydrides, whose stoichiometries and properties are similar to those of the corresponding group 4 compounds. One such compound, tantalum carbide (TiC), has the highest melting point of any compound known (3738°C); it is used for the cutting edges of high-speed machine tools.
 

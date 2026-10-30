@@ -36,9 +36,11 @@ Two substances cannot possibly react with each other unless their constituent pa
 
 Figure 14.1 The Effect of Concentration on Reaction Rates
 
-![Figure 14.1 The Effect of Concentration on Reaction Rates](/images/section_18/65faa2f875a51b122536441d9c6a90d2.jpg)
+![Seven-stage sequence showing sulfuric acid reacting with table sugar to produce an expanding black solid](/images/replacements/sugar-dehydration.png)
 
-Mixing sucrose with *dilute* sulfuric acid in a beaker (a, right) produces a simple solution. Mixing the same amount of sucrose with *concentrated* sulfuric acid (a, left) results in a dramatic reaction (b) that eventually produces a column of black porous graphite (c) and an intense smell of burning sugar.
+From left to right, concentrated sulfuric acid dehydrates table sugar, producing a dark carbonaceous material that expands into a porous mass. This sequence shows the concentrated-acid reaction; it does not show a dilute-acid control.
+
+*Photograph credits:* [Dehydration of sugar by sulfuric acid.png](https://commons.wikimedia.org/wiki/File:Dehydration_of_sugar_by_sulfuric_acid.png), Capaccio ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)).
 
 ### Temperature Effects
 

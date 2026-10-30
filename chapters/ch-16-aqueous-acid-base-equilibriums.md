@@ -2963,9 +2963,11 @@ Many different substances can be used as indicators, depending on the particular
 
 Figure 16.22 Naturally Occurring pH Indicators in Red Cabbage Juice
 
-![Figure 16.22 Naturally Occurring pH Indicators in Red Cabbage Juice](/images/section_20/8bb58172a9f150882cc423ff9c9dbfe9.jpg)
+![Seven red-cabbage indicator solutions changing from red through purple and green to yellow as pH increases from left to right](/images/replacements/red-cabbage-indicator.jpg)
 
-Red cabbage juice contains a mixture of substances whose color depends on the pH. Each test tube contains a solution of red cabbage juice in water, but the pH of the solutions varies from pH = 2.0 (far left) to pH = 11.0 (far right). At pH = 7.0, the solution is blue.
+Red-cabbage juice contains pigments whose color depends on pH. In this series, pH increases from left to right and the color changes from red through purple and green to yellow. Exact pH values are not specified for the photographed samples.
+
+*Photograph credits:* [Red cabbage indicator.jpg](https://commons.wikimedia.org/wiki/File:Red_cabbage_indicator.jpg), Epaenurk ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)).
 
 Synthetic indicators have been developed that meet these criteria and cover virtually the entire pH range. [Figure 16.23 \"Some Common Acid--Base Indicators\"](/chapters/ch-16-aqueous-acid-base-equilibriums.md#src-averill-1-0-ch16-s05-s04-f02) shows the approximate pH range over which some common indicators change color and their change in color. In addition, some indicators (such as thymol blue) are polyprotic acids or bases, which change color twice at widely separated pH values.
 
@@ -2997,9 +2999,11 @@ The existence of many different indicators with different colors and p*K*<sub>in
 
 Figure 16.25 pH Paper
 
-![Figure 16.25 pH Paper](/images/section_20/412beaf5d8ff4a408473faed470c9611.jpg)
+![An indicator strip with four colored pads compared with the matching printed pH reference chart](/images/replacements/ph-indicator-paper.jpg)
 
-pH paper contains a set of indicators that change color at different pH values. The approximate pH of a solution can be determined by simply dipping a paper strip into the solution and comparing the color to the standards provided.
+An indicator strip is compared with its matching pH reference chart. The combination of colors on the strip is used to estimate the pH of a solution.
+
+*Photograph credits:* [PH indicator paper.jpg](https://commons.wikimedia.org/wiki/File:PH_indicator_paper.jpg), Michael Krahe ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)).
 
 ````````````{important} Summary
 

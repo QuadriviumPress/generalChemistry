@@ -1508,9 +1508,11 @@ None of the other bonding models can predict the presence of two unpaired electr
 
 Figure 9.27 Liquid O<sub>2</sub> Suspended between the Poles of a Magnet
 
-![Figure 9.27 Liquid O 2 Suspended between the Poles of a Magnet](/images/section_13/9b8578b15995ab1e71a7727998c81943.jpg)
+![Liquid oxygen held in the gap between two facing magnetic pole pieces](/images/replacements/liquid-oxygen-magnet-alt.jpg)
 
-Because the O<sub>2</sub> molecule has two unpaired electrons, it is paramagnetic. Consequently, it is attracted into a magnetic field, which allows it to remain suspended between the poles of a powerful magnet until it evaporates.
+Liquid O<sub>2</sub> is attracted into the gap between the poles of a magnet. The two unpaired electrons in each O<sub>2</sub> molecule make molecular oxygen paramagnetic.
+
+*Photograph credits:* [Liquid oxygen in a magnet 2.jpg](https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet_2.jpg), Bob Burk, work supported by the National Science Foundation under grant numbers: 1246120, 1525057, and 1413739 ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0)).
 
 The magnetic properties of O<sub>2</sub> are not just a laboratory curiosity; they are absolutely crucial to the existence of life. Because Earth's atmosphere contains 20% oxygen, all organic compounds, including those that compose our body tissues, should react rapidly with air to form H<sub>2</sub>O, CO<sub>2</sub>, and N<sub>2</sub> in an exothermic reaction. Fortunately for us, however, this reaction is very, very slow. The reason for the unexpected stability of organic compounds in an oxygen atmosphere is that virtually all organic compounds, as well as H<sub>2</sub>O, CO<sub>2</sub>, and N<sub>2</sub>, have only paired electrons, whereas oxygen has two unpaired electrons. Thus the reaction of O<sub>2</sub> with organic compounds to give H<sub>2</sub>O, CO<sub>2</sub>, and N<sub>2</sub> would require that at least one of the electrons on O<sub>2</sub> change its spin during the reaction. This would require a large input of energy, an obstacle that chemists call a *spin barrier*. Consequently, reactions of this type are usually exceedingly slow. If they were not so slow, all organic substances, including this book and you, would disappear in a puff of smoke!
 

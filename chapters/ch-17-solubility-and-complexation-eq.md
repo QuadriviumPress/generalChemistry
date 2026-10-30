@@ -295,9 +295,11 @@ The reaction of weakly basic anions with H<sub>2</sub>O tends to make the actual
 
 ````````````
 
-![A crystal of calcite (CaCO 3 ), illustrating the phenomenon of double refraction. When a transparent crystal of calcite is placed over a page, we see two images of the letters.](/images/section_21/38b95b99c4da58ec075f48384b69e6d0.jpg)
+![A transparent calcite crystal placed over a printed letter A, producing two offset images of the letter](/images/replacements/calcite-double-refraction.jpg)
 
-**A crystal of calcite (CaCO**<sub>**3**</sub>**), illustrating the phenomenon of double refraction.** When a transparent crystal of calcite is placed over a page, we see *two* images of the letters.
+**Double refraction in calcite (CaCO<sub>3</sub>).** A transparent calcite crystal placed over a printed letter produces two offset images of that letter.
+
+*Photograph credits:* [Calcite and double refraction (GeoDIL number - 670).jpg](https://commons.wikimedia.org/wiki/File:Calcite_and_double_refraction_(GeoDIL_number_-_670).jpg), Twyla Baker ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)).
 
 Calcite, a structural material for many organisms, is found in the teeth of sea urchins. The urchins create depressions in limestone that they can settle in by grinding the rock with their teeth. Limestone, however, also consists of calcite, so how can the urchins grind the rock without also grinding their teeth? Researchers have discovered that the teeth are shaped like needles and plates and contain magnesium. The concentration of magnesium increases toward the tip, which contributes to the hardness. Moreover, each tooth is composed of two blocks of the polycrystalline calcite matrix that are interleaved near the tip. This creates a corrugated surface that presumably increases grinding efficiency. Toolmakers are particularly interested in this approach to grinding.
 
