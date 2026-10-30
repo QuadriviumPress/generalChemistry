@@ -11,6 +11,7 @@ SOURCED_FIELDS = ('title', 'creator', 'source_url', 'source_revision_url', 'down
                   'license', 'license_url', 'retrieved', 'changes')
 SOURCED_URLS = ('source_url', 'source_revision_url', 'download_url', 'license_url')
 ORIGINAL_FIELDS = ('title', 'creator', 'license', 'license_url', 'created', 'basis')
+COMPOSITE_FIELDS = ('title', 'creator', 'license', 'license_url', 'created', 'changes', 'components')
 
 
 def read_ledger(root):
@@ -44,6 +45,24 @@ def apply_all(root):
         updated = apply_entry(text, entry)
         if text != updated:
             path.write_text(updated)
+
+
+def attribution_errors(record, where):
+    """Check credit fields: sourced files, original diagrams, or composites of sourced files."""
+    origin = record.get('origin')
+    # Original diagrams drawn for this edition have no download source to record.
+    fields, urls, date = {'original': (ORIGINAL_FIELDS, ('license_url',), 'created'),
+                          'composite': (COMPOSITE_FIELDS, ('license_url',), 'created')}.get(
+                              origin, (SOURCED_FIELDS, SOURCED_URLS, 'retrieved'))
+    errors = [f'Replacement attribution missing {field}: {where}' for field in fields if not record.get(field)]
+    errors += [f'Replacement attribution needs HTTPS {field}: {where}'
+               for field in urls if urlsplit(record.get(field, '')).scheme != 'https']
+    if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', record.get(date, '')):
+        errors.append(f'Invalid {date} date: {where}')
+    if origin == 'composite':
+        for component in record.get('components', []):
+            errors += attribution_errors(component, f'{where} component {component.get("title")}')
+    return errors
 
 
 def validate_ledger(root, manifest):
@@ -99,17 +118,7 @@ def validate_ledger(root, manifest):
                 errors.append(f'Missing or modified replacement asset: {path}')
             if asset['sha256'] == NOTICE_SHA256:
                 errors.append(f'Replacement is an unavailable-image notice: {entry["id"]}')
-            # Original diagrams drawn for this edition have no download source to record.
-            fields, urls, date = ((ORIGINAL_FIELDS, ('license_url',), 'created') if asset.get('origin') == 'original'
-                                  else (SOURCED_FIELDS, SOURCED_URLS, 'retrieved'))
-            for field in fields:
-                if not asset.get(field):
-                    errors.append(f'Replacement attribution missing {field}: {entry["id"]}: {path}')
-            for field in urls:
-                if urlsplit(asset.get(field, '')).scheme != 'https':
-                    errors.append(f'Replacement attribution needs HTTPS {field}: {entry["id"]}')
-            if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', asset.get(date, '')):
-                errors.append(f'Invalid {date} date: {entry["id"]}')
+            errors.extend(attribution_errors(asset, f'{entry["id"]}: {path}'))
     return ledger, errors
 
 

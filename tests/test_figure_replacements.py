@@ -101,6 +101,22 @@ class FigureReplacementTests(unittest.TestCase):
         self.assertTrue(any('attribution missing basis' in e for e in errors))
         self.assertTrue(any('Invalid created date' in e for e in errors))
 
+    def use_composite(self):
+        asset = self.entry['replacement']['assets'][0]
+        component = {k: asset.pop(k) for k in ('source_url', 'source_revision_url', 'download_url', 'retrieved')}
+        component.update({'title': asset['title'], 'creator': asset['creator'], 'license': asset['license'],
+                          'license_url': asset['license_url'], 'changes': 'Scaled'})
+        asset.update({'origin': 'composite', 'created': '2026-10-30', 'components': [component]})
+        return component
+
+    def test_composite_credits_each_component(self):
+        self.use_composite()
+        self.assertEqual(self.validate(), [])
+
+    def test_composite_component_needs_full_attribution(self):
+        del self.use_composite()['creator']
+        self.assertTrue(any('missing creator' in e and 'component' in e for e in self.validate()))
+
     def test_restored_notice_is_rejected(self):
         path = self.root / 'chapters/ch-01.md'
         path.write_text(self.entry['original_markdown'])

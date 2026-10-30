@@ -50,9 +50,11 @@ You learned in [Chapter 10 \"Gases\"](/chapters/ch-10-gases.md#src-averill-1-0-c
 
 Figure 14.2 The Effect of Temperature on Reaction Rates
 
-![Figure 14.2 The Effect of Temperature on Reaction Rates](/images/section_18/ab6a96bbd04d93a7b0d6aa1111147e20.jpg)
+![A green chemiluminescent light stick glowing against a black background](/images/replacements/glowstick-green.jpg)
 
-At high temperature, the reaction that produces light in a chemiluminescent light stick occurs more rapidly, producing more photons of light per unit time. Consequently, the light glows brighter in hot water (left) than in ice water (right).
+A chemiluminescent light stick. Its light comes from a chemical reaction, and at high temperature that reaction occurs more rapidly, producing more photons of light per unit time. Consequently, a light stick glows brighter in hot water than in ice water.
+
+*Photograph credit:* [Green glowstick on black background.JPG](https://commons.wikimedia.org/wiki/File:Green_glowstick_on_black_background.JPG), domdomegg ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0)).
 
 In systems where more than one reaction is possible, the same reactants can produce different products under different reaction conditions. For example, in the presence of dilute sulfuric acid and at temperatures around 100°C, ethanol is converted to diethyl ether:
 

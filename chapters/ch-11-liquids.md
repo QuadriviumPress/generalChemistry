@@ -1996,9 +1996,11 @@ The first documented example of a liquid crystal was reported by the Austrian Fr
 
 Figure 11.25 Cholesteryl Benzoate
 
-![Figure 11.25 Cholesteryl Benzoate](/images/section_15/86a2faf7e07481ad1ec76991a587233f.jpg)
+![A small vial of white cholesteryl benzoate powder on a laboratory balance pan](/images/replacements/cholesteryl-benzoate.jpg)
 
-\(a\) When the temperature is greater than 179°C, the substance is an isotropic liquid through which images can be seen. (b) When the temperature is between 145°C and 179°C, the substance is in the cholesteric liquid crystalline phase and is an opaque, milky liquid.
+A sample of cholesteryl benzoate, a white solid at room temperature. When it is heated above 145°C, it melts to the cholesteric liquid crystalline phase, an opaque, milky liquid. Above 179°C, it becomes an isotropic liquid through which images can be seen.
+
+*Photograph credit:* [Cholesteryl benzoát.jpg](https://commons.wikimedia.org/wiki/File:Cholesteryl_benzo%C3%A1t.jpg), Milda 444 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); scaled down, without cropping or retouching.
 
 In a normal liquid, the molecules possess enough thermal energy to overcome the intermolecular attractive forces and tumble freely. This arrangement of the molecules is described as isotropic[^chem-46], which means that it is equally disordered in all directions. Liquid crystals, in contrast, are anisotropic[^chem-47]: their properties depend on the direction in which they are viewed. Hence liquid crystals are not as disordered as a liquid because the molecules have some degree of alignment.
 

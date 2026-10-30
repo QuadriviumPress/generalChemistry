@@ -2,7 +2,7 @@
 
 Updated 2026-10-30. This covers the **40 diagram locations** in the [initial missing-figure audit](figure-replacement-audit.md): the 38 SVG routes and the 2 photo/diagram hybrids. The [machine-readable ledger](../figure-replacements.json) remains the source of truth.
 
-**All 40 are installed** as original SVG diagrams in `images/replacements/fig-*.svg`. The two hybrids (4.21 copper and silver nitrate, 6.9 hydrogen emission) use the audit's full-schematic fallback in place of a photograph, and their captions no longer refer to photographs. Together with the photographs, 61 of 65 locations are installed. The four pending locations are photographs; see [photograph replacement progress](photograph-replacements.md).
+**All 40 are installed** as original SVG diagrams in `images/replacements/fig-*.svg`. The two hybrids (4.21 copper and silver nitrate, 6.9 hydrogen emission) use the audit's full-schematic fallback in place of a photograph, and their captions no longer refer to photographs. Together with the 25 photographs (see [photograph replacement progress](photograph-replacements.md)), all 65 audited locations are installed.
 
 ## How the diagrams were made
 

@@ -692,7 +692,7 @@
       "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
       "original_asset": "images/section_08/8abcabb11802a0cc8cf6add2ec2c0160.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find a licensed before/after image of silver bromide exposed to light, or commission an original documented photograph. Match AgBr rather than silently substituting AgCl.",
       "original_markdown": "![Darkening of silver bromide crystals by exposure to light. The top image shows AgBr before exposure to light, and the bottom image after exposure.](/images/section_08/8abcabb11802a0cc8cf6add2ec2c0160.jpg)\n\n**Darkening of silver bromide crystals by exposure to light.** The top image shows AgBr before exposure to light, and the bottom image after exposure.",
@@ -704,9 +704,25 @@
           "license_as_listed": "Public domain",
           "creator_as_listed": "Ondřej Mangl",
           "status": "downloaded and visually reviewed; not adopted because the required comparison is absent"
+        },
+        {
+          "title": "AgBr Sample.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:AgBr_Sample.jpg",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:AgBr_Sample.jpg?oldid=786073727",
+          "license_as_listed": "CC BY-SA 4.0",
+          "creator_as_listed": "Leiem",
+          "status": "installed"
+        },
+        {
+          "title": "Silver chloride decomposes.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Silver_chloride_decomposes.JPG",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:Silver_chloride_decomposes.JPG?oldid=1282402409",
+          "license_as_listed": "CC BY-SA 3.0",
+          "creator_as_listed": "GOKLuLe 盧樂",
+          "status": "installed"
         }
       ],
-      "next_step": "Downloaded and inspected the public-domain AgBr candidate. It shows a specimen in a vial and spoon, not light-induced darkening. Find a documented before/after exposure pair or obtain original photographs of that comparison.",
+      "next_step": "Installed; included in verification and automatic re-import application.",
       "download_review": {
         "title": "Bromid stříbrný.PNG",
         "source_url": "https://commons.wikimedia.org/wiki/File:Bromid_st%C5%99%C3%ADbrn%C3%BD.PNG",
@@ -718,6 +734,42 @@
         "sha256": "3813006f7d09bddb4a9a9b861375dbc4acbe77ede1a5226a344f508af411de73",
         "source_sha1": "def6daf8b7d37792604b341810429626dc6a635f",
         "decision": "Not installed: the downloaded file does not supply the required comparison."
+      },
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "No licensed before-and-after photograph of silver bromide was found. Paired a documented AgBr specimen with a photograph of the same light-induced darkening in AgCl, and named AgCl explicitly in the caption instead of presenting it as AgBr.",
+        "assets": [
+          {
+            "title": "AgBr Sample.jpg",
+            "creator": "Leiem",
+            "source_url": "https://commons.wikimedia.org/wiki/File:AgBr_Sample.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:AgBr_Sample.jpg?oldid=786073727",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/AgBr_Sample.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "6bad6dd1121457e7fcb851b6fbf81700e3cd6dc5",
+            "sha256": "36bc86c2b3ff1631f2a59fea2654089b6c6b544b25df849b1b844146b54cb99e",
+            "changes": "Scaled from 1485 × 2365 to 264 × 420 pixels and re-encoded as JPEG; no cropping or retouching.",
+            "path": "images/replacements/silver-bromide.jpg"
+          },
+          {
+            "title": "Silver chloride decomposes.JPG",
+            "creator": "GOKLuLe 盧樂",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Silver_chloride_decomposes.JPG",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Silver_chloride_decomposes.JPG?oldid=1282402409",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Silver_chloride_decomposes.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "license": "CC BY-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "048e4e93386e1ce2adc4d2ebcf21c683f0b68eda",
+            "sha256": "ffd6f250640d0e72233a2c3352effaf98766ff7c1fd6d62831f17a59302f0e61",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/silver-chloride-light.jpg"
+          }
+        ],
+        "markdown": "![Pale yellow silver bromide powder in a capped glass vial](/images/replacements/silver-bromide.jpg)\n\n![Filter paper coated with silver chloride, darkened gray-black by light except for a pale circular patch, with a coin beside it](/images/replacements/silver-chloride-light.jpg)\n\n**Light-sensitive silver halides.** First photograph: silver bromide, the light-sensitive compound in photographic film, is a pale yellow solid. Second photograph: silver chloride, a closely related silver halide, on filter paper after exposure to light. The exposed solid has darkened, while a pale circular patch about the size of the coin shown remains lighter.\n\n*Photograph credits:* [AgBr Sample.jpg](https://commons.wikimedia.org/wiki/File:AgBr_Sample.jpg), Leiem ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); [Silver chloride decomposes.JPG](https://commons.wikimedia.org/wiki/File:Silver_chloride_decomposes.JPG), GOKLuLe 盧樂 ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)); scaled down, without cropping or retouching."
       }
     },
     {
@@ -1482,7 +1534,7 @@
       "markdown_file": "chapters/ch-11-liquids.md",
       "original_asset": "images/section_15/86a2faf7e07481ad1ec76991a587233f.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find a licensed matched pair for transparent isotropic liquid above 179 C and milky cholesteric phase at 145-179 C. Generic liquid-crystal photographs will not establish the named substance or temperature ranges; use a schematic with revised caption if no match is available.",
       "original_markdown": "![Figure 11.25 Cholesteryl Benzoate](/images/section_15/86a2faf7e07481ad1ec76991a587233f.jpg)\n\n\\(a\\) When the temperature is greater than 179°C, the substance is an isotropic liquid through which images can be seen. (b) When the temperature is between 145°C and 179°C, the substance is in the cholesteric liquid crystalline phase and is an opaque, milky liquid.",
@@ -1493,10 +1545,32 @@
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Cholesteryl_benzo%C3%A1t.jpg?oldid=1123887775",
           "license_as_listed": "CC BY-SA 4.0",
           "creator_as_listed": "Milda 444",
-          "status": "source description checked; solid specimen does not supply the required phase comparison"
+          "status": "installed"
         }
       ],
-      "next_step": "Only a solid specimen and molecular diagrams were found, not the named isotropic/cholesteric phase comparison. A matched phase pair with documented temperatures is still needed."
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "No licensed photographs of the two named liquid phases were found. The replacement shows the compound itself; the caption now states the two phase transitions in words instead of referring to panels (a) and (b).",
+        "assets": [
+          {
+            "title": "Cholesteryl benzoát.jpg",
+            "creator": "Milda 444",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Cholesteryl_benzo%C3%A1t.jpg",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Cholesteryl_benzo%C3%A1t.jpg?oldid=1123887775",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Cholesteryl_benzo%C3%A1t.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "5f6c58b51efb5636f1c1c67b997a34343573ed9c",
+            "sha256": "85d3e510eedecb1cd0db81f6f3b123934eb0cde3e20888b01f225c8439887367",
+            "changes": "Scaled from 6944 × 9280 to 479 × 640 pixels and re-encoded as JPEG; no cropping or retouching.",
+            "path": "images/replacements/cholesteryl-benzoate.jpg"
+          }
+        ],
+        "markdown": "![A small vial of white cholesteryl benzoate powder on a laboratory balance pan](/images/replacements/cholesteryl-benzoate.jpg)\n\nA sample of cholesteryl benzoate, a white solid at room temperature. When it is heated above 145°C, it melts to the cholesteric liquid crystalline phase, an opaque, milky liquid. Above 179°C, it becomes an isotropic liquid through which images can be seen.\n\n*Photograph credit:* [Cholesteryl benzoát.jpg](https://commons.wikimedia.org/wiki/File:Cholesteryl_benzo%C3%A1t.jpg), Milda 444 ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); scaled down, without cropping or retouching."
+      }
     },
     {
       "id": "FR039",
@@ -1647,12 +1721,43 @@
       "markdown_file": "chapters/ch-14-chemical-kinetics.md",
       "original_asset": "images/section_18/ab6a96bbd04d93a7b0d6aa1111147e20.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Find a matched photograph of identical chemiluminescent sticks in hot versus ice water, with explicit temperature-condition labels. Brightness depends on exposure as well as reaction rate; avoid fabricated quantitative brightness comparisons.",
       "original_markdown": "![Figure 14.2 The Effect of Temperature on Reaction Rates](/images/section_18/ab6a96bbd04d93a7b0d6aa1111147e20.jpg)\n\nAt high temperature, the reaction that produces light in a chemiluminescent light stick occurs more rapidly, producing more photons of light per unit time. Consequently, the light glows brighter in hot water (left) than in ice water (right).",
-      "candidates": [],
-      "next_step": "No matching licensed hot/cold glow-stick comparison identified. Continue a targeted search or obtain an original photograph with documented temperature conditions and a common exposure."
+      "candidates": [
+        {
+          "title": "Green glowstick on black background.JPG",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Green_glowstick_on_black_background.JPG",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:Green_glowstick_on_black_background.JPG?oldid=1284825501",
+          "license_as_listed": "CC BY 4.0",
+          "creator_as_listed": "domdomegg",
+          "status": "installed"
+        }
+      ],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "No licensed hot-versus-ice-water comparison was found. The replacement shows a single glowing light stick; the caption now states the temperature comparison in words instead of pointing to left and right panels.",
+        "assets": [
+          {
+            "title": "Green glowstick on black background.JPG",
+            "creator": "domdomegg",
+            "source_url": "https://commons.wikimedia.org/wiki/File:Green_glowstick_on_black_background.JPG",
+            "source_revision_url": "https://commons.wikimedia.org/wiki/File:Green_glowstick_on_black_background.JPG?oldid=1284825501",
+            "download_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Green_glowstick_on_black_background.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "license": "CC BY 4.0",
+            "license_url": "https://creativecommons.org/licenses/by/4.0",
+            "retrieved": "2026-10-30",
+            "source_sha1": "c46c0b92713e488206a562124653a102d6adc2e2",
+            "sha256": "2d2d34237cf76d4dcc2099d23255b875d8b56bf8534e0f2488b739484604830e",
+            "changes": "None; original file downloaded without modification.",
+            "path": "images/replacements/glowstick-green.jpg"
+          }
+        ],
+        "markdown": "![A green chemiluminescent light stick glowing against a black background](/images/replacements/glowstick-green.jpg)\n\nA chemiluminescent light stick. Its light comes from a chemical reaction, and at high temperature that reaction occurs more rapidly, producing more photons of light per unit time. Consequently, a light stick glows brighter in hot water than in ice water.\n\n*Photograph credit:* [Green glowstick on black background.JPG](https://commons.wikimedia.org/wiki/File:Green_glowstick_on_black_background.JPG), domdomegg ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0))."
+      }
     },
     {
       "id": "FR044",
@@ -2430,21 +2535,53 @@
       "markdown_file": "chapters/ch-23-the-d-block-elements.md",
       "original_asset": "images/section_27/355ce2892281bd83ab0834a68552d267.jpg",
       "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
-      "status": "pending",
+      "status": "installed",
       "priority": "P2",
       "notes": "Assemble documented photographs for Mn(II) solution, Mn(III) hydroxide, MnO2, manganate, and permanganate, or make a clearly schematic labeled specimen strip. The caption lists +2, +3, +4, +6, and +7, not a complete consecutive series; do not invent an Mn(V) sample.",
       "original_markdown": "![Figure 23.5 Compounds of Manganese in Oxidation States +2 to +7](/images/section_27/355ce2892281bd83ab0834a68552d267.jpg)\n\nLike vanadium, compounds of manganese in different oxidation states have different numbers of *d* electrons, which leads to compounds with different colors: the Mn<sup>2+</sup>(aq) ion is pale pink; Mn(OH)<sub>3</sub>, which contains Mn(III), is a dark brown solid; MnO<sub>2</sub>, which contains Mn(IV), is a black solid; and aqueous solutions of Mn(VI) and Mn(VII) contain the green manganate ion \\[MnO<sub>4</sub>\\]<sup>2−</sup> and the purple permanganate ion \\[MnO<sub>4</sub>\\]<sup>−</sup>, respectively.",
       "candidates": [
         {
+          "title": "Manganese(II) sulfate (sat).jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Manganese(II)_sulfate_(sat).jpg",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganese(II)_sulfate_(sat).jpg?oldid=1154924877",
+          "license_as_listed": "CC BY-SA 4.0",
+          "creator_as_listed": "Leiem",
+          "status": "installed"
+        },
+        {
+          "title": "Manganese(III) oxide.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Manganese(III)_oxide.jpg",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganese(III)_oxide.jpg?oldid=982099460",
+          "license_as_listed": "CC BY-SA 4.0",
+          "creator_as_listed": "Leiem",
+          "status": "installed"
+        },
+        {
+          "title": "Manganese-dioxide-sample.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Manganese-dioxide-sample.jpg",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganese-dioxide-sample.jpg?oldid=1103008367",
+          "license_as_listed": "Public domain",
+          "creator_as_listed": "Benjah-bmm27",
+          "status": "installed"
+        },
+        {
           "title": "Manganate.jpg",
           "source_url": "https://commons.wikimedia.org/wiki/File:Manganate.jpg",
           "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganate.jpg?oldid=1179013687",
           "license_as_listed": "Public domain",
-          "creator_as_listed": "Choij (talk)",
-          "status": "downloaded and visually reviewed; not adopted because the required comparison is absent"
+          "creator_as_listed": "Choij",
+          "status": "installed"
+        },
+        {
+          "title": "KMnO4 in H2O.jpg",
+          "source_url": "https://commons.wikimedia.org/wiki/File:KMnO4_in_H2O.jpg",
+          "source_revision_url": "https://commons.wikimedia.org/wiki/File:KMnO4_in_H2O.jpg?oldid=1240148093",
+          "license_as_listed": "CC BY-SA 2.5",
+          "creator_as_listed": "David Mülheims",
+          "status": "installed"
         }
       ],
-      "next_step": "Downloaded and inspected the public-domain manganate photograph; it supplies only the green Mn(VI) solution. The original five-state comparison still needs documented Mn(II), Mn(III), Mn(IV), and Mn(VII) specimens, or a deliberate revision of figure scope.",
+      "next_step": "Installed; included in verification and automatic re-import application.",
       "download_review": {
         "title": "Manganate.jpg",
         "source_url": "https://commons.wikimedia.org/wiki/File:Manganate.jpg",
@@ -2455,7 +2592,88 @@
         "retrieved": "2026-10-30",
         "sha256": "3882433e4ba9e315ecec3f9127209a637ee1e562877cf1ecf0ede84e99753247",
         "source_sha1": "d7e8a283f6abb3194556ded5dcbb80828aae6044",
-        "decision": "Not installed: the downloaded file does not supply the required comparison."
+        "decision": "Not installed alone because it shows only Mn(VI); later installed as one of five specimens."
+      },
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Subject, visible content, source description, and listed license checked. Caption and alt text matched to the replacement.",
+        "editorial_change": "Assembled five separately credited specimen photographs in the caption order. Mn<sub>2</sub>O<sub>3</sub> replaces the original Mn(OH)<sub>3</sub> as the Mn(III) example because no licensed photograph of Mn(OH)<sub>3</sub> was found. The five photographs were cropped into labeled panels of one composite image.",
+        "assets": [
+          {
+            "title": "Compounds of manganese in five oxidation states (composite)",
+            "creator": "General Chemistry (QuadriviumPress) contributors, from the credited photographs",
+            "origin": "composite",
+            "license": "CC BY-SA 4.0",
+            "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+            "created": "2026-10-30",
+            "changes": "Each photograph center-cropped to a 3:4 panel (the permanganate flask from the bottom edge), scaled to 320 × 420 pixels, and labeled with its oxidation state and species; no retouching. The recipe is in docs/photograph-replacements.md.",
+            "components": [
+              {
+                "title": "Manganese(II) sulfate (sat).jpg",
+                "creator": "Leiem",
+                "source_url": "https://commons.wikimedia.org/wiki/File:Manganese(II)_sulfate_(sat).jpg",
+                "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganese(II)_sulfate_(sat).jpg?oldid=1154924877",
+                "download_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Manganese%28II%29_sulfate_%28sat%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "license": "CC BY-SA 4.0",
+                "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+                "retrieved": "2026-10-30",
+                "source_sha1": "534422b0d8026ba3d11ddfe1bd33dfabb83764d7",
+                "changes": "Cropped and scaled into one labeled panel of the composite."
+              },
+              {
+                "title": "Manganese(III) oxide.jpg",
+                "creator": "Leiem",
+                "source_url": "https://commons.wikimedia.org/wiki/File:Manganese(III)_oxide.jpg",
+                "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganese(III)_oxide.jpg?oldid=982099460",
+                "download_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Manganese%28III%29_oxide.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "license": "CC BY-SA 4.0",
+                "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+                "retrieved": "2026-10-30",
+                "source_sha1": "0398cd1643a4068048906401903d54ccb52426f4",
+                "changes": "Cropped and scaled into one labeled panel of the composite."
+              },
+              {
+                "title": "Manganese-dioxide-sample.jpg",
+                "creator": "Benjah-bmm27",
+                "source_url": "https://commons.wikimedia.org/wiki/File:Manganese-dioxide-sample.jpg",
+                "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganese-dioxide-sample.jpg?oldid=1103008367",
+                "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Manganese-dioxide-sample.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "license": "Public domain",
+                "license_url": "https://commons.wikimedia.org/wiki/Template:PD-user",
+                "retrieved": "2026-10-30",
+                "source_sha1": "801bda881ae5b713d205dbb891e1931b80daeb44",
+                "changes": "Cropped and scaled into one labeled panel of the composite."
+              },
+              {
+                "title": "Manganate.jpg",
+                "creator": "Choij",
+                "source_url": "https://commons.wikimedia.org/wiki/File:Manganate.jpg",
+                "source_revision_url": "https://commons.wikimedia.org/wiki/File:Manganate.jpg?oldid=1179013687",
+                "download_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Manganate.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "license": "Public domain",
+                "license_url": "https://commons.wikimedia.org/wiki/Template:PD-self",
+                "retrieved": "2026-10-30",
+                "source_sha1": "d7e8a283f6abb3194556ded5dcbb80828aae6044",
+                "changes": "Cropped and scaled into one labeled panel of the composite."
+              },
+              {
+                "title": "KMnO4 in H2O.jpg",
+                "creator": "David Mülheims",
+                "source_url": "https://commons.wikimedia.org/wiki/File:KMnO4_in_H2O.jpg",
+                "source_revision_url": "https://commons.wikimedia.org/wiki/File:KMnO4_in_H2O.jpg?oldid=1240148093",
+                "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/KMnO4_in_H2O.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+                "license": "CC BY-SA 2.5",
+                "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+                "retrieved": "2026-10-30",
+                "source_sha1": "a1a4863e2a2857a68f62cb3ad83f424f4567e9f5",
+                "changes": "Cropped and scaled into one labeled panel of the composite."
+              }
+            ],
+            "sha256": "53dfa85d788b761d36f0adfa607a9db0360a57cd2ee458a4f7e0d9b7b9863807",
+            "path": "images/replacements/manganese-oxidation-states.jpg"
+          }
+        ],
+        "markdown": "![Five labeled photographs in a row: a flask of pale pink manganese(II) sulfate solution (+2), very dark brown Mn2O3 powder (+3), black MnO2 powder (+4), a beaker of green manganate solution (+6), and a flask of purple permanganate solution (+7)](/images/replacements/manganese-oxidation-states.jpg)\n\nLike vanadium, compounds of manganese in different oxidation states have different numbers of *d* electrons, which leads to compounds with different colors. From left to right: a saturated MnSO<sub>4</sub> solution, pale pink from the Mn<sup>2+</sup>(aq) ion; Mn<sub>2</sub>O<sub>3</sub>, which contains Mn(III), a very dark brown solid; MnO<sub>2</sub>, which contains Mn(IV), a black solid; and aqueous solutions of Mn(VI) and Mn(VII), which contain the green manganate ion \\[MnO<sub>4</sub>\\]<sup>2−</sup> and the purple permanganate ion \\[MnO<sub>4</sub>\\]<sup>−</sup>, respectively.\n\n*Photograph credits:* [Manganese(II) sulfate (sat).jpg](https://commons.wikimedia.org/wiki/File:Manganese(II)_sulfate_(sat).jpg), Leiem ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); [Manganese(III) oxide.jpg](https://commons.wikimedia.org/wiki/File:Manganese(III)_oxide.jpg), Leiem ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)); [Manganese-dioxide-sample.jpg](https://commons.wikimedia.org/wiki/File:Manganese-dioxide-sample.jpg), Benjah-bmm27 ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-user)); [Manganate.jpg](https://commons.wikimedia.org/wiki/File:Manganate.jpg), Choij ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self)); [KMnO4 in H2O.jpg](https://commons.wikimedia.org/wiki/File:KMnO4_in_H2O.jpg), David Mülheims ([CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5)). Cropped, scaled, and labeled into one composite for this edition ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))."
       }
     }
   ]
