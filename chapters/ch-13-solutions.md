@@ -385,9 +385,11 @@ Virtually all common organic liquids, whether polar or not, are miscible. The st
 
 Figure 13.5 Immiscible Liquids
 
-![Figure 13.5 Immiscible Liquids](/images/section_17/ebd84c04f48ea9ee55f8b7631557cac0.jpg)
+![Two test tubes. In the first, a violet layer of hexane containing iodine floats on colorless water. In the second, colorless water floats on a violet layer of carbon tetrachloride containing iodine. Densities are labeled: hexane 0.66, water 1.00, and carbon tetrachloride 1.59 grams per milliliter.](/images/replacements/fig-13-05-immiscible-liquids.svg)
 
-Water is immiscible with both CCl<sub>4</sub> and hexane. When all three liquids are mixed, they separate into three distinct layers. Because water is less dense than CCl<sub>4</sub>, the water layer floats on the CCl<sub>4</sub>. In contrast, hexane is less dense than water, so the hexane floats on the water layer. Because I<sub>2</sub> is intensely purple and quite soluble in both CCl<sub>4</sub> and hexane, but insoluble in water, a small amount of I<sub>2</sub> has been added to help identify the hexane and CCl<sub>4</sub> layers.
+Water is immiscible with both hexane and CCl<sub>4</sub>. (a) Hexane (density about 0.66 g/mL) is less dense than water, so the hexane floats on the water layer. (b) Because water is less dense than CCl<sub>4</sub> (about 1.59 g/mL), the water layer floats on the CCl<sub>4</sub>. Because I<sub>2</sub> is intensely purple and much more soluble in hexane and CCl<sub>4</sub> than in water, a small amount of I<sub>2</sub> has been added to identify the organic layer in each tube. Hexane and CCl<sub>4</sub> are miscible with each other, so they are shown in separate tubes.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 The solubilities of simple alcohols in water are given in [Table 13.4 \"Solubilities of Straight-Chain Organic Alcohols in Water at 20°C\"](/chapters/ch-13-solutions.md#src-averill-1-0-ch13-s02-s02-s01-t02). Only the three lightest alcohols (methanol, ethanol, and *n*-propanol) are completely miscible with water. As the molecular mass of the alcohol increases, so does the proportion of hydrocarbon in the molecule. Correspondingly, the importance of hydrogen bonding and dipole--dipole interactions in the pure alcohol decreases, while the importance of London dispersion forces increases, which leads to progressively fewer favorable electrostatic interactions with water. Organic liquids such as acetone, ethanol, and tetrahydrofuran are sufficiently polar to be completely miscible with water yet sufficiently nonpolar to be completely miscible with all organic solvents.
 
@@ -555,9 +557,11 @@ Figure 13.7 Crown Ethers and Cryptands
 
 Figure 13.8 Effect of a Crown Ether on the Solubility of KMnO<sub>4</sub> in Isopropanol (2-Propanol)
 
-![Figure 13.8 Effect of a Crown Ether on the Solubility of KMnO 4 in Isopropanol (2-Propanol)](/images/section_17/6733c1aba721845e2de9f3af715fa2de.jpg)
+![First tube: dark purple potassium permanganate crystals sit undissolved in colorless isopropanol. Second tube: with a little 18-crown-6 added, the liquid is reddish purple. An inset shows a potassium ion held at the center of the 18-membered crown ether ring by six oxygen atoms, beside a separate permanganate ion.](/images/replacements/fig-13-08-crown-ether.svg)
 
 \(a\) Normally KMnO<sub>4</sub>, which is intensely purple, is completely insoluble in isopropanol, which has a relatively low dielectric constant. (b) In the presence of a small amount of 18-crown-6, KMnO<sub>4</sub> dissolves in isopropanol, as shown by the reddish-purple color caused by permanganate ions in solution.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Cryptands[^chem-15] (from the Greek *kryptós*, meaning "hidden") are compounds that can completely surround a cation with lone pairs of electrons on oxygen and nitrogen atoms (part (b) in [Figure 13.7 \"Crown Ethers and Cryptands\"](/chapters/ch-13-solutions.md#src-averill-1-0-ch13-s02-s04-f02)). The number in the name of the cryptand is the number of oxygen atoms in each strand of the molecule. Like crown ethers, cryptands can be used to prepare solutions of ionic compounds in solvents that are otherwise too nonpolar to dissolve them.
 
@@ -2334,9 +2338,11 @@ Colloids share many properties with solutions. For example, the particles in bot
 
 Figure 13.22 Tyndall Effect, the Scattering of Light by Colloids
 
-![Figure 13.22 Tyndall Effect, the Scattering of Light by Colloids](/images/section_17/305b670de14e70a25dd291ae4e4e78ab.jpg)
+![A light beam crosses two cylinders of red food coloring in water. In the true solution on the left the beam cannot be seen from the side. In the cylinder on the right, which also contains gelatin, the beam is visible because the colloidal particles scatter light.](/images/replacements/fig-13-22-tyndall-effect.svg)
 
 Both cylinders contain a solution of red food coloring in water, but a small amount of gelatin has been added to the cylinder on the right to form a colloidal suspension of gelatin particles. The beam of light goes straight through the true solution on the left, but the light beam is scattered by the colloid on the right.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Although colloids and suspensions can have particles similar in size, the two differ in stability: the particles of a colloid remain dispersed indefinitely unless the temperature or chemical composition of the dispersing medium is changed. The chemical explanation for the stability of colloids depends on whether the colloidal particles are hydrophilic or hydrophobic.
 

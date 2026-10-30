@@ -496,9 +496,11 @@ Although objects at high temperature emit a continuous spectrum of electromagnet
 
 Figure 6.9 The Emission of Light by Hydrogen Atoms
 
-![Figure 6.9 The Emission of Light by Hydrogen Atoms](/images/section_10/dab881c4db4639afd5967d5ada40d4d1.jpg)
+![A hydrogen discharge tube glows red. Its light passes through a slit and a prism, which separates it into four lines on a 400 to 700 nanometer scale: violet at 410.2, violet at 434.0, blue-green at 486.1, and red at 656.3 nanometers, the most intense.](/images/replacements/fig-06-09-hydrogen-emission.svg)
 
-\(a\) A sample of excited hydrogen atoms emits a characteristic red light. (b) When the light emitted by a sample of excited hydrogen atoms is split into its component wavelengths by a prism, four characteristic violet, blue, green, and red emission lines can be observed, the most intense of which is at 656 nm.
+(a) A sample of excited hydrogen atoms in a discharge tube emits a characteristic red light. (b) When the light emitted by a sample of excited hydrogen atoms is split into its component wavelengths by a prism, four characteristic emission lines can be observed, at 410, 434, 486, and 656 nm (violet, violet-blue, blue-green, and red). The most intense is at 656 nm.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)); line wavelengths from the [NIST Atomic Spectra Database](https://www.nist.gov/pml/atomic-spectra-database).
 
 Such *emission spectra* were observed for many other elements in the late 19th century, which presented a major challenge because classical physics was unable to explain them. Part of the explanation is provided by Planck's equation ([Equation 6.5](/chapters/ch-06-the-structure-of-atoms.md#src-averill-1-0-ch06-s02-s01-eq01)): the observation of only a few values of λ (or ν) in the line spectrum meant that only a few values of *E* were possible. Thus *the energy levels of a hydrogen atom had to be quantized*; in other words, only states that had certain values of energy were possible, or *allowed*. If a hydrogen atom could have *any* value of energy, then a continuous spectrum would have been observed, similar to blackbody radiation.
 
@@ -646,9 +648,11 @@ Unfortunately, Bohr could not explain *why* the electron should be restricted to
 
 Figure 6.13 The Emission Spectra of Elements Compared with Hydrogen
 
-![Figure 6.13 The Emission Spectra of Elements Compared with Hydrogen](/images/section_10/64fc07d6d03bdacfe38b4eaa6c162251.jpg)
+![Three emission line spectra on a shared 400 to 700 nanometer scale. Hydrogen has four lines. Neon has many lines, mostly in the yellow, orange, and red. Mercury has violet lines near 405 and 436 nanometers, a green line at 546 nanometers, and a yellow pair near 577 and 579 nanometers.](/images/replacements/fig-06-13-emission-spectra.svg)
 
-These images show (a) hydrogen gas, which is atomized to hydrogen atoms in the discharge tube; (b) neon; and (c) mercury.
+Visible emission lines of (a) hydrogen, which is atomized to hydrogen atoms in the discharge tube; (b) neon; and (c) mercury, on a common wavelength scale. Only selected strong lines are shown; line brightness is not to scale.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)); line wavelengths from the [NIST Atomic Spectra Database](https://www.nist.gov/pml/atomic-spectra-database).
 
 Thus far we have explicitly considered only the emission of light by atoms in excited states, which produces an emission spectrum[^chem-19]. The converse, absorption of light by ground-state atoms to produce an excited state, can also occur, producing an absorption spectrum[^chem-20]. Because each element has characteristic emission and absorption spectra, scientists can use such spectra to analyze the composition of matter, as we describe in [Section 6.4 \"The Relationship between Energy and Mass\"](/chapters/ch-06-the-structure-of-atoms.md#src-averill-1-0-ch06-s04).
 

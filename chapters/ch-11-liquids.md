@@ -68,9 +68,11 @@ Molecules in liquids diffuse because they are in constant motion ([Figure 11.1 \
 
 Figure 11.1 Molecular Diffusion in a Liquid
 
-![Figure 11.1 Molecular Diffusion in a Liquid](/images/section_15/0a5dfa110a1aea4e3fd7ece29bb7a0c4.jpg)
+![Three beakers in sequence. First, a concentrated drop of blue dye has just entered still water. Next, the dye has spread into a larger, fainter cloud. Finally, the whole beaker is evenly pale blue.](/images/replacements/fig-11-01-dye-diffusion.svg)
 
 A drop of an aqueous solution containing a marker dye is added to a larger volume of water. As it diffuses, the color of the dye becomes fainter at the edges.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ### Fluidity
 
@@ -669,9 +671,11 @@ Intermolecular forces also cause a phenomenon called capillary action[^chem-11],
 
 Figure 11.11 The Phenomenon of Capillary Action
 
-![Figure 11.11 The Phenomenon of Capillary Action](/images/section_15/2fefe8a800e2a04221e7e902a97903e2.jpg)
+![Three vertical glass capillaries of decreasing width stand in water; the water rises highest in the narrowest tube. A tilted tube with the same width as the middle tube has its water surface at the same vertical height above the reservoir, marked h.](/images/replacements/fig-11-11-capillary-rise.svg)
 
 When a glass capillary is placed in liquid water, water rises up into the capillary. The smaller the diameter of the capillary, the higher the water rises. The height of the water does *not* depend on the angle at which the capillary is tilted.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Capillary action is the net result of two opposing sets of forces: cohesive forces[^chem-12], which are the intermolecular forces that hold a liquid together, and adhesive forces[^chem-13], which are the attractive forces between a liquid and the substance that composes the capillary. Water has both strong adhesion to glass, which contains polar SiOH groups, and strong intermolecular cohesion. When a glass capillary is put into water, the surface tension due to cohesive forces constricts the surface area of water within the tube, while adhesion between the water and the glass creates an upward force that maximizes the amount of glass surface in contact with the water. If the adhesive forces are stronger than the cohesive forces, as is the case for water, then the liquid in the capillary rises to the level where the downward force of gravity exactly balances this upward force. If, however, the cohesive forces are stronger than the adhesive forces, as is the case for mercury and glass, the liquid pulls itself down into the capillary below the surface of the bulk liquid to minimize contact with the glass (part (a) in [Figure 11.12 \"The Effects of Capillary Action\"](/chapters/ch-11-liquids.md#src-averill-1-0-ch11-s03-s02-f02)). The upper surface of a liquid in a tube is called the meniscus[^chem-14], and the shape of the meniscus depends on the relative strengths of the cohesive and adhesive forces. In liquids such as water, the meniscus is concave; in liquids such as mercury, however, which have very strong cohesive forces and weak adhesion to glass, the meniscus is convex (part (b) in [Figure 11.12 \"The Effects of Capillary Action\"](/chapters/ch-11-liquids.md#src-averill-1-0-ch11-s03-s02-f02)).
 
@@ -685,9 +689,11 @@ Polar substances are drawn up a glass capillary and generally have a concave men
 
 Figure 11.12 The Effects of Capillary Action
 
-![Figure 11.12 The Effects of Capillary Action](/images/section_15/c0a4fafd7a1af4f665e11be34e511338.jpg)
+![Left: a glass capillary in mercury, where the mercury inside the tube stands below the outside level and has a convex surface. Right: wide glass tubes showing that water forms a concave meniscus and mercury forms a convex meniscus.](/images/replacements/fig-11-12-menisci.svg)
 
 \(a\) This drawing illustrates the shape of the meniscus and the relative height of a mercury column when a glass capillary is put into liquid mercury. The meniscus is convex and the surface of the liquid inside the tube is *lower* than the level of the liquid outside the tube. (b) Because water adheres strongly to the polar surface of glass, it has a concave meniscus, whereas mercury, which does not adhere to the glass, has a convex meniscus.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Fluids and nutrients are transported up the stems of plants or the trunks of trees by capillary action. Plants contain tiny rigid tubes composed of cellulose, to which water has strong adhesion. Because of the strong adhesive forces, nutrients can be transported from the roots to the tops of trees that are more than 50 m tall. Cotton towels are also made of cellulose; they absorb water because the tiny tubes act like capillaries and "wick" the water away from your skin. The moisture is absorbed by the entire fabric, not just the layer in contact with your body.
 

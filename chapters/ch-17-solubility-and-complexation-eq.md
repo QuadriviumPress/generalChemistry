@@ -866,9 +866,11 @@ As an example of the formation of complex ions, consider the addition of ammonia
 
 Figure 17.4 The Formation of Complex Ions
 
-![Figure 17.4 The Formation of Complex Ions](/images/section_21/ba2fa3e1313774b53eef3e71096d9a2c.jpg)
+![A pale blue copper(II) sulfate solution turns deep blue-violet when aqueous ammonia is added. Below, the hexaaquacopper(II) ion has six water ligands, and in the ammine complex four ammonia molecules replace the four equatorial water ligands while two axial water ligands remain.](/images/replacements/fig-17-04-copper-ammonia.svg)
 
 An aqueous solution of CuSO<sub>4</sub> consists of hydrated Cu<sup>2+</sup> ions in the form of pale blue \[Cu(H<sub>2</sub>O)<sub>6</sub>\]<sup>2+</sup> (left). The addition of aqueous ammonia to the solution results in the formation of the intensely blue-violet \[Cu(NH<sub>3</sub>)<sub>4</sub>(H<sub>2</sub>O)<sub>2</sub>\]<sup>2+</sup> ions, usually written as \[Cu(NH<sub>3</sub>)<sub>4</sub>\]<sup>2+</sup> ion (right) because ammonia, a stronger base than H<sub>2</sub>O, replaces water molecules from the hydrated Cu<sup>2+</sup> ion.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ### The Formation Constant
 
@@ -1474,9 +1476,11 @@ There is a gradual transition from basic oxides to acidic oxides from the lower 
 
 Figure 17.9 Chromium(III) Hydroxide \[Cr(OH)<sub>3</sub> or Cr<sub>2</sub>O<sub>3</sub>·3H<sub>2</sub>O\] Is an Example of an Amphoteric Oxide
 
-![Figure 17.9 Chromium(III) Hydroxide \[Cr(OH) 3 or Cr 2 O 3 ·3H 2 O\] Is an Example of an Amphoteric Oxide](/images/section_21/b317dc13b726db4c180b3936738dacff.jpg)
+![A center beaker holds a brownish purple suspension of chromium(III) hydroxide. Adding sulfuric acid gives a violet solution of hexaaquachromium(III) ions, and adding sodium hydroxide gives a green solution of tetrahydroxochromate(III) ions.](/images/replacements/fig-17-09-chromium-hydroxide.svg)
 
 All three beakers originally contained a suspension of brownish purple Cr(OH)<sub>3</sub>(s) (center). When concentrated acid (6 M H<sub>2</sub>SO<sub>4</sub>) was added to the beaker on the left, Cr(OH)<sub>3</sub> dissolved to produce violet \[Cr(H<sub>2</sub>O)<sub>6</sub>\]<sup>3+</sup> ions and water. The addition of concentrated base (6 M NaOH) to the beaker on the right caused Cr(OH)<sub>3</sub> to dissolve, producing green \[Cr(OH)<sub>4</sub>\]<sup>−</sup>ions.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ### Example 8
 
@@ -1769,9 +1773,11 @@ Hg<sub>2</sub>Cl<sub>2</sub>(s) + 2NH<sub>3</sub>(aq) → Hg(l) + Hg(NH<sub>2</s
 
 Figure 17.11 The Separation of Metal Ions from Group 1 Using Qualitative Analysis
 
-![Figure 17.11 The Separation of Metal Ions from Group 1 Using Qualitative Analysis](/images/section_21/811fa4e9ba09bd16335da299bb692da8.jpg)
+![Flowchart. Adding 6 M HCl to a solution containing silver, lead, and mercury(I) ions gives a white precipitate of AgCl, PbCl2, and Hg2Cl2 (a). Hot water dissolves PbCl2, and sodium chromate then gives yellow PbCrO4 (b). Aqueous ammonia added to a second portion of the precipitate leaves a black solid of mercury and Hg(NH2)Cl and dissolves silver as the diammine complex (c). Adding HCl to the decanted solution reprecipitates white AgCl (d).](/images/replacements/fig-17-11-qualitative-analysis.svg)
 
 In (a), the cations of group 1 precipitate when HCl(aq) is added to a solution containing a mixture of cations. (b) When a small amount of Na<sub>2</sub>CrO<sub>4</sub> solution is added to a sample containing Pb<sup>2+</sup> ions in water, a bright yellow precipitate of PbCrO<sub>4</sub> forms. (c) Adding aqueous ammonia to a second portion of the solid sample produces a black solid that is a mixture of finely divided metallic mercury, an insoluble mercury(II) compound \[Hg(NH<sub>2</sub>)Cl\], and a stable \[Ag(NH<sub>3</sub>)<sub>2</sub>\]<sup>+</sup>(aq) complex. (d) The presence of Ag<sup>+</sup> is detected by decanting the solution from the precipitated mercury and mercury complex and adding hydrochloric acid to the decanted solution, which causes AgCl to precipitate.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Any silver ion in the solution is then detected by adding HCl, which reverses the reaction and gives a precipitate of white AgCl that slowly darkens when exposed to light:
 

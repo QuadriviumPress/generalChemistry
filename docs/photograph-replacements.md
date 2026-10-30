@@ -1,6 +1,6 @@
 # Photograph replacement progress
 
-Updated 2026-10-30. This is the implementation queue for the **25 photographs** in the [initial missing-figure audit](figure-replacement-audit.md). The audit remains a dated discovery snapshot. The [machine-readable ledger](../figure-replacements.json) is the current source of truth for installed figures and their provenance.
+Updated 2026-10-30. This is the implementation queue for the **25 photographs** in the [initial missing-figure audit](figure-replacement-audit.md). The audit remains a dated discovery snapshot. The [machine-readable ledger](../figure-replacements.json) is the current source of truth for installed figures and their provenance. The audit's 40 diagram locations are tracked separately in [diagram replacements](diagram-replacements.md). With those installed, only the four pending photographs below still show the unavailable-image notice.
 
 **21 locations installed; 4 remain pending.** Original source images and checksums are preserved. Installed photographs have been visually inspected; captions and alternative text describe the selected images, and component credits appear both beside the figures and in `SOURCES.md`.
 

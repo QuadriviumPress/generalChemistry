@@ -74,9 +74,11 @@ We can cause this reaction to occur by inserting a zinc rod into an aqueous solu
 
 Figure 19.2 The Reaction of Metallic Zinc with Aqueous Copper(II) Ions in a Single Compartment
 
-![Figure 19.2 The Reaction of Metallic Zinc with Aqueous Copper(II) Ions in a Single Compartment](/images/section_23/586c5f0ee11634b4f9b18bf570cd4f10.jpg)
+![A zinc strip stands in blue copper(II) sulfate solution in one beaker and becomes coated with fine black copper particles. A particle view shows zinc atoms leaving as zinc ions while copper(II) ions gain electrons directly at the zinc surface and deposit as copper.](/images/replacements/fig-19-02-zinc-copper-sulfate.svg)
 
 When a zinc rod is inserted into a beaker that contains an aqueous solution of copper(II) sulfate, a spontaneous redox reaction occurs: the zinc electrode dissolves to give Zn<sup>2+</sup>(aq) ions, while Cu<sup>2+</sup>(aq) ions are simultaneously reduced to metallic copper. The reaction occurs so rapidly that the copper is deposited as very fine particles that appear black, rather than the usual reddish color of copper.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 This same reaction can be carried out using the galvanic cell illustrated in part (a) in [Figure 19.3 \"The Reaction of Metallic Zinc with Aqueous Copper(II) Ions in a Galvanic Cell\"](/chapters/ch-19-electrochemistry.md#src-averill-1-0-ch19-s01-s01-f02). To assemble the cell, a copper strip is inserted into a beaker that contains a 1 M solution of Cu<sup>2+</sup> ions, and a zinc strip is inserted into a different beaker that contains a 1 M solution of Zn<sup>2+</sup> ions. The two metal strips, which serve as electrodes, are connected by a wire, and the compartments are connected by a salt bridge[^chem-12], a U-shaped tube inserted into both solutions that contains a concentrated liquid or gelled electrolyte. The ions in the salt bridge are selected so that they do not interfere with the electrochemical reaction by being oxidized or reduced themselves or by forming a precipitate or complex; commonly used cations and anions are Na<sup>+</sup> or K<sup>+</sup> and NO<sub>3</sub><sup>−</sup> or SO<sub>4</sub><sup>2−</sup>, respectively. (The ions in the salt bridge do *not* have to be the same as those in the redox couple in either compartment.) When the circuit is closed, a spontaneous reaction occurs: zinc metal is oxidized to Zn<sup>2+</sup> ions at the zinc electrode (the anode), and Cu<sup>2+</sup> ions are reduced to Cu metal at the copper electrode (the cathode). As the reaction progresses, the zinc strip dissolves, and the concentration of Zn<sup>2+</sup> ions in the Zn<sup>2+</sup> solution increases; simultaneously, the copper strip gains mass, and the concentration of Cu<sup>2+</sup> ions in the Cu<sup>2+</sup> solution decreases (part (b) in [Figure 19.3 \"The Reaction of Metallic Zinc with Aqueous Copper(II) Ions in a Galvanic Cell\"](/chapters/ch-19-electrochemistry.md#src-averill-1-0-ch19-s01-s01-f02)). Thus we have carried out the same reaction as we did using a single beaker, but this time the oxidative and reductive half-reactions are physically separated from each other. The electrons that are released at the anode flow through the wire, producing an electric current. Galvanic cells therefore transform chemical energy into electrical energy that can then be used to do work.
 
@@ -90,9 +92,11 @@ Figure 19.3 The Reaction of Metallic Zinc with Aqueous Copper(II) Ions in a Galv
 
 The electrolyte in the salt bridge serves two purposes: it completes the circuit by carrying electrical charge and maintains electrical neutrality in both solutions by allowing ions to migrate between them. The identity of the salt in a salt bridge is unimportant, as long as the component ions do not react or undergo a redox reaction under the operating conditions of the cell. Without such a connection, the total positive charge in the Zn<sup>2+</sup> solution would increase as the zinc metal dissolves, and the total positive charge in the Cu<sup>2+</sup> solution would decrease. The salt bridge allows charges to be neutralized by a flow of anions into the Zn<sup>2+</sup> solution and a flow of cations into the Cu<sup>2+</sup> solution. In the absence of a salt bridge or some other similar connection, the reaction would rapidly cease because electrical neutrality could not be maintained.
 
-![A galvanic cell. This galvanic cell illustrates the use of a salt bridge to connect two solutions.](/images/section_23/f74ab898aa10ef1f61a85a3a01a6ca35.jpg)
+![A zinc electrode in zinc ion solution and a copper electrode in copper(II) ion solution are joined by a wire through a voltmeter and by a salt bridge. Electrons flow through the wire from zinc to copper; in the salt bridge, anions move toward the zinc compartment and cations toward the copper compartment.](/images/replacements/fig-19-galvanic-cell.svg)
 
 **A galvanic cell.** This galvanic cell illustrates the use of a salt bridge to connect two solutions.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 A *voltmeter* can be used to measure the difference in electrical potential between the two compartments. Opening the switch that connects the wires to the anode and the cathode prevents a current from flowing, so no chemical reaction occurs. With the switch closed, however, the external circuit is closed, and an electric current can flow from the anode to the cathode. The potential (*E*<sub>cell</sub>)[^chem-13] of the cell, measured in volts, is the difference in electrical potential between the two half-reactions and is related to the energy needed to move a charged particle in an electric field. In the cell we have described, the voltmeter indicates a potential of 1.10 V (part (a) in [Figure 19.3 \"The Reaction of Metallic Zinc with Aqueous Copper(II) Ions in a Galvanic Cell\"](/chapters/ch-19-electrochemistry.md#src-averill-1-0-ch19-s01-s01-f02)). Because electrons from the oxidation half-reaction are released at the anode, the anode in a galvanic cell is negatively charged. The cathode, which attracts electrons, is positively charged.
 
@@ -651,9 +655,11 @@ Equation 19.39
 
 Figure 19.8 The Reaction of Dichromate with Iodide
 
-![Figure 19.8 The Reaction of Dichromate with Iodide](/images/section_23/938ee4792697f3670a59b9b49614f3b2.jpg)
+![A yellow sodium dichromate solution and a colorless sodium iodide solution are combined under acidic conditions to give a deep amber mixture containing green chromium(III) and brown iodine. Iodide is oxidized to iodine and chromium is reduced from +6 to +3.](/images/replacements/fig-19-08-dichromate-iodide.svg)
 
-The reaction of a yellow solution of sodium dichromate with a colorless solution of sodium iodide produces a deep amber solution that contains a green Cr<sup>3+</sup>(aq) complex and brown I<sub>2</sub>(aq) ions.
+The reaction of a yellow solution of sodium dichromate with a colorless solution of sodium iodide produces a deep amber solution that contains a green Cr<sup>3+</sup>(aq) complex and brown I<sub>2</sub>(aq).
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ### Example 3
 

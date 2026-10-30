@@ -28,17 +28,19 @@ Chemical equilibrium is a dynamic process that consists of a forward reaction, i
 
 Equation 15.1
 
-$$\left. \underset{\text{colorless}}{\text{N}_{2}\text{O(g)}}\rightleftharpoons\underset{\text{red-brown}}{\text{2NO}_{2}\text{(g)}} \right.$$
+$$\left. \underset{\text{colorless}}{\text{N}_{2}\text{O}_{4}\text{(g)}}\rightleftharpoons\underset{\text{red-brown}}{\text{2NO}_{2}\text{(g)}} \right.$$
 
 The double arrow indicates that both the forward and reverse reactions are occurring simultaneously; it is read "is in equilibrium with."
 
 (src-averill-1-0-ch15-s01-f01)=
 
-Figure 15.1 The $\left. \text{N}_{2}\text{O(g)}\rightleftharpoons 2\text{NO}_{2}\text{(g)} \right.$ System at Different Temperatures
+Figure 15.1 The $\left. \text{N}_{2}\text{O}_{4}\text{(g)}\rightleftharpoons 2\text{NO}_{2}\text{(g)} \right.$ System at Different Temperatures
 
-![Figure 15.1 The N 2 O(g) ⇌ 2 NO 2 (g) System at Different Temperatures](/images/section_19/3090659b4d8ee427ec0d7a79a3932a5c.jpg)
+![Three views of one sealed tube. In dry ice it holds colorless solid N2O4. As it warms above minus 9.3 degrees Celsius, the N2O4 melts and evaporates and the gas turns pale brown. At room temperature it holds a red-brown equilibrium mixture of N2O4 and NO2 gas.](/images/replacements/fig-15-01-n2o4-temperature.svg)
 
 (left) At dry ice temperature (−78.4°C), the system contains essentially pure solid N<sub>2</sub>O<sub>4</sub>, which is colorless. (center) As the system is warmed above the melting point of N<sub>2</sub>O<sub>4</sub> (−9.3°C), the N<sub>2</sub>O<sub>4</sub> melts and then evaporates, and some of the vapor dissociates to red-brown NO<sub>2</sub>. (right) Eventually the sample reaches room temperature, and a mixture of gaseous N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub> is present. The composition of the mixture and hence the color do not change further with time: the system has reached equilibrium at the new temperature.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 [Figure 15.2 \"The Composition of N\"](/chapters/ch-15-chemical-equilibrium.md#src-averill-1-0-ch15-s01-f02) shows how the composition of this system would vary as a function of time at a constant temperature. If the initial concentration of NO<sub>2</sub> were zero, then it increases as the concentration of N<sub>2</sub>O<sub>4</sub> decreases. Eventually the composition of the system stops changing with time, and chemical equilibrium is achieved. Conversely, if we start with a sample that contains no N<sub>2</sub>O<sub>4</sub> but an initial NO<sub>2</sub> concentration twice the initial concentration of N<sub>2</sub>O<sub>4</sub> in part (a) in [Figure 15.2 \"The Composition of N\"](/chapters/ch-15-chemical-equilibrium.md#src-averill-1-0-ch15-s01-f02), in accordance with the stoichiometry of the reaction, we reach exactly the same equilibrium composition, as shown in part (b) in [Figure 15.2 \"The Composition of N\"](/chapters/ch-15-chemical-equilibrium.md#src-averill-1-0-ch15-s01-f02). Thus equilibrium can be approached from *either direction* in a chemical reaction.
 
@@ -2287,9 +2289,11 @@ Because *Q* is now greater than *K*, the system is no longer at equilibrium. The
 
 Figure 15.12 The Effect of Changing the Volume (and Thus the Pressure) of an Equilibrium Mixture of N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub> at Constant Temperature
 
-![Figure 15.12 The Effect of Changing the Volume (and Thus the Pressure) of an Equilibrium Mixture of N 2 O 4 and NO 2 at Constant Temperature](/images/section_19/840137e860cd5c5a652e62fc2085161a.jpg)
+![Three syringes. (a) 15 milliliters of a red-brown equilibrium mixture. (b) Immediately after compression to 7.5 milliliters the gas is darker. (c) After the system re-establishes equilibrium, it is lighter than in (b) but still darker than in (a).](/images/replacements/fig-15-12-compression.svg)
 
 \(a\) The syringe with a total volume of 15 mL contains an equilibrium mixture of N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub>; the red-brown color is proportional to the NO<sub>2</sub> concentration. (b) If the volume is rapidly decreased by a factor of 2 to 7.5 mL, the initial effect is to double the concentrations of all species present, including NO<sub>2</sub>. Hence the color becomes more intense. (c) With time, the system adjusts its composition in response to the stress as predicted by Le Châtelier's principle, forming colorless N<sub>2</sub>O<sub>4</sub> at the expense of red-brown NO<sub>2</sub>, which decreases the intensity of the color of the mixture.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ````````````{important} Note the Pattern
 
@@ -2371,9 +2375,11 @@ Increasing the temperature (adding heat to the system) is a stress that will dri
 
 Figure 15.13 The Effect of Temperature on the Equilibrium between Gaseous N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub>
 
-![Figure 15.13 The Effect of Temperature on the Equilibrium between Gaseous N 2 O 4 and NO 2](/images/section_19/97a1ee4b716e488b072fde27fd16c129.jpg)
+![One sealed tube of N2O4 and NO2 shown in ice water, at room temperature, and in boiling water. The gas is pale in ice water, red-brown at room temperature, and darkest in boiling water.](/images/replacements/fig-15-13-temperature-shift.svg)
 
 (center) A tube containing a mixture of N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub> in the same proportion at room temperature is red-brown due to the NO<sub>2</sub> present. (left) Immersing the tube in ice water causes the mixture to become lighter in color due to a shift in the equilibrium composition toward colorless N<sub>2</sub>O<sub>4</sub>. (right) In contrast, immersing the same tube in boiling water causes the mixture to become darker due to a shift in the equilibrium composition toward the highly colored NO<sub>2</sub>.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 The effect of increasing the temperature on a system at equilibrium can be summarized as follows: *increasing the temperature increases the magnitude of the equilibrium constant for an endothermic reaction, decreases the equilibrium constant for an exothermic reaction, and has no effect on the equilibrium constant for a thermally neutral reaction*. [Table 15.3 \"Temperature Dependence of \"](/chapters/ch-15-chemical-equilibrium.md#src-averill-1-0-ch15-s05-s03-t01) shows the temperature dependence of the equilibrium constants for the synthesis of ammonia from hydrogen and nitrogen, which is an exothermic reaction with Δ*H*° = −91.8 kJ/mol. The values of both *K* and *K*<sub>p</sub> decrease dramatically with increasing temperature, as predicted for an exothermic reaction.
 

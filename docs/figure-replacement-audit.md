@@ -2,7 +2,7 @@
 
 Audit date: 2026-10-30. Scope: exploration and replacement planning; no textbook figures, captions, source snapshots, or verification rules were changed.
 
-Implementation has since begun. See [photograph replacement progress](photograph-replacements.md) and the [replacement ledger](../figure-replacements.json) for current installation status; the findings below describe the original discovery snapshot.
+Implementation has since begun. See [photograph replacement progress](photograph-replacements.md), [diagram replacements](diagram-replacements.md), and the [replacement ledger](../figure-replacements.json) for current installation status; the findings below describe the original discovery snapshot.
 
 ## Findings
 

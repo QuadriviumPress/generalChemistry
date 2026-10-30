@@ -88,9 +88,11 @@ Solutions that contain ions conduct electricity.
 
 Figure 4.4 The Effect of Ions on the Electrical Conductivity of Water
 
-![Figure 4.4 The Effect of Ions on the Electrical Conductivity of Water](/images/section_08/bc324cdbb2e1ce3fea89e8988424a85c.jpg)
+![Three identical circuits each contain a battery, a light bulb, and two electrodes in a beaker. With a nonelectrolyte the beaker holds only neutral molecules and the bulb is off. With a weak electrolyte it holds mostly molecules and one ion pair, and the bulb glows dimly. With a strong electrolyte it holds only ions, and the bulb shines brightly.](/images/replacements/fig-04-04-electrolyte-conductivity.svg)
 
 An electrical current will flow and light the bulb only if the solution contains ions. (a) Pure water or an aqueous solution of a nonelectrolyte allows almost no current to flow, and the bulb does not light. (b) A weak electrolyte produces a few ions, allowing some current to flow and the bulb to glow dimly. (c) A strong electrolyte produces many ions, allowing more current to flow and the bulb to shine brightly.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 An electrolyte[^chem-7] is any compound that can form ions when it dissolves in water. When strong electrolytes[^chem-8] dissolve, the constituent ions dissociate completely due to strong electrostatic interactions with the solvent, producing aqueous solutions that conduct electricity very well ([Figure 4.4 \"The Effect of Ions on the Electrical Conductivity of Water\"](/chapters/ch-04-reactions-in-aqueous-solution.md#src-averill-1-0-ch04-s01-s02-f01)). Examples include ionic compounds such as barium chloride (BaCl<sub>2</sub>) and sodium hydroxide (NaOH), which are both strong electrolytes and dissociate as follows:
 
@@ -943,9 +945,11 @@ $$\text{3CH}_{\text{3}}\text{CH}_{\text{2}}\text{OH(aq)} + \underset{\text{yello
 
 When a measured volume (52.5 mL) of a suspect's breath is bubbled through a solution of excess potassium dichromate in dilute sulfuric acid, the ethanol is rapidly absorbed and oxidized to acetic acid by the dichromate ions. In the process, the chromium atoms in some of the Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup> ions are reduced from Cr<sup>6+</sup> to Cr<sup>3+</sup>. In the presence of Ag<sup>+</sup> ions that act as a catalyst, the reaction is complete in less than a minute. Because the Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup> ion (the reactant) is yellow-orange and the Cr<sup>3+</sup> ion (the product) forms a green solution, the amount of ethanol in the person's breath (the limiting reactant) can be determined quite accurately by comparing the color of the final solution with the colors of standard solutions prepared with known amounts of ethanol.
 
-![A Breathalyzer ampul before (a) and after (b) ethanol is added. When a measured volume of a suspect's breath is bubbled through the solution, the ethanol is oxidized to acetic acid, and the solution changes color from yellow-orange to green. The intensity of the green color indicates the amount of ethanol in the sample.](/images/section_08/d3dad089cedd88ff9be9162a362d19aa.jpg)
+![Two sealed ampuls. Before, the dichromate solution is yellow-orange. After breath containing ethanol is bubbled through it, ethanol is oxidized to acetic acid, chromium(VI) is reduced to chromium(III), and the solution is green.](/images/replacements/fig-04-ex08-breathalyzer.svg)
 
-**A Breathalyzer ampul before (a) and after (b) ethanol is added.** When a measured volume of a suspect's breath is bubbled through the solution, the ethanol is oxidized to acetic acid, and the solution changes color from yellow-orange to green. The intensity of the green color indicates the amount of ethanol in the sample.
+**A Breathalyzer ampul before (a) and after (b) ethanol is added (schematic).** When a measured volume of a suspect's breath is bubbled through the solution, the ethanol is oxidized to acetic acid, and the solution changes color from yellow-orange to green. The intensity of the green color indicates the amount of ethanol in the sample.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 A typical Breathalyzer ampul contains 3.0 mL of a 0.25 mg/mL solution of K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> in 50% H<sub>2</sub>SO<sub>4</sub> as well as a fixed concentration of AgNO<sub>3</sub> (typically 0.25 mg/mL is used for this purpose). How many grams of ethanol must be present in 52.5 mL of a person's breath to convert all the Cr<sup>6+</sup> to Cr<sup>3+</sup>?
 
@@ -1039,9 +1043,11 @@ $$\text{mass~of~Ag}_{\text{2}}\text{Cr}_{\text{2}}\text{O}_{\text{7}} = \text{~0
 
 Figure 4.11 What Happens at the Molecular Level When Solutions of AgNO<sub>3</sub> and K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub> Are Mixed
 
-![Figure 4.11 What Happens at the Molecular Level When Solutions of AgNO 3 and K 2 Cr 2 O 7 Are Mixed](/images/section_08/e3a4de298f27a32e79315c2d483c8ad7.jpg)
+![A beaker of silver and nitrate ions is mixed with a beaker of potassium and dichromate ions. In the product beaker, four silver ions and two dichromate ions form a red solid at the bottom, while four potassium ions and four nitrate ions remain dissolved.](/images/replacements/fig-04-11-silver-dichromate.svg)
 
 The Ag<sup>+</sup> and Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup> ions form a red precipitate of solid Ag<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, while the K<sup>+</sup> and NO<sub>3</sub><sup>−</sup> ions remain in solution. (Water molecules are omitted from molecular views of the solutions for clarity.)
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Exercise
 
@@ -1837,9 +1843,11 @@ $$\begin{matrix}
 
 Figure 4.14 The Reaction of Dilute Aqueous HNO<sub>3</sub> with a Solution of Na<sub>2</sub>CO<sub>3</sub>
 
-![Figure 4.14 The Reaction of Dilute Aqueous HNO 3 with a Solution of Na 2 CO 3](/images/section_08/ccdfbcd32b3db47404cc1cd56090709f.jpg)
+![Dilute nitric acid is dropped into a beaker of sodium carbonate solution. Many bubbles form in the solution, and arrows show carbon dioxide gas escaping.](/images/replacements/fig-04-14-acid-carbonate.svg)
 
 Note the vigorous formation of gaseous CO<sub>2</sub>.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 The reactions in [Equation 4.37](/chapters/ch-04-reactions-in-aqueous-solution.md#src-averill-1-0-ch04-s06-s05-eq09) are responsible for the rotten egg smell that is produced when metal sulfides come in contact with acids.
 
@@ -2048,9 +2056,11 @@ Tools have been developed that make the measurement of pH simple and convenient 
 
 Figure 4.16 Two Ways of Measuring the pH of a Solution: pH Paper and a pH Meter
 
-![Figure 4.16 Two Ways of Measuring the pH of a Solution: pH Paper and a pH Meter](/images/section_08/efe8ecdbc54cb927755e19127dbacd6e.jpg)
+![Left: a pH test strip compared with a reference chart of five schematic colors numbered 1 to 5; the strip matches the color near pH 2. Right: a pH meter whose probe is in a sample beaker displays a reading of 1.70.](/images/replacements/fig-04-16-ph-paper-meter.svg)
 
-Note that both show that the pH is 1.7, but the pH meter gives a more precise value.
+The color of the pH paper, compared with its reference chart, shows that the pH is about 2; the pH meter gives a more precise value, 1.70.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ````````````{important} Key Equations
 
@@ -2733,9 +2743,11 @@ The reaction in [Equation 4.66](/chapters/ch-04-reactions-in-aqueous-solution.md
 
 Figure 4.21 The Single-Displacement Reaction of Metallic Copper with a Solution of Silver Nitrate
 
-![Figure 4.21 The Single-Displacement Reaction of Metallic Copper with a Solution of Silver Nitrate](/images/section_08/a40d8c5e56d6c0533e28d4d9d08d2427.jpg)
+![A copper coil in colorless silver nitrate solution becomes coated with silver crystals as the solution turns blue. A particle view shows silver ions gaining electrons to deposit as silver atoms on the copper surface while copper atoms leave as copper(II) ions.](/images/replacements/fig-04-21-copper-silver-nitrate.svg)
 
-When a copper coil is placed in a solution of silver nitrate, silver ions are reduced to metallic silver on the copper surface, and some of the copper metal dissolves. Note the formation of a metallic silver precipitate on the copper coil and a blue color in the surrounding solution due to the presence of aqueous Cu<sup>2+</sup> ions. (Water molecules and nitrate ions have been omitted from molecular views of the solution for clarity.)
+When a copper coil is placed in a solution of silver nitrate, silver ions are reduced to metallic silver on the copper surface, and some of the copper metal dissolves. Silver crystals form on the coil, and the surrounding solution turns blue because of aqueous Cu<sup>2+</sup> ions. (Water molecules and nitrate ions have been omitted from the particle view for clarity.)
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 #### The Activity Series
 
@@ -2945,9 +2957,11 @@ Suppose you stirred a 10.0 g sample of canned rhubarb with enough dilute H<sub>2
 
 Figure 4.23 The Titration of Oxalic Acid with Permanganate
 
-![Figure 4.23 The Titration of Oxalic Acid with Permanganate](/images/section_08/5aaa7037c105e944b629104406b6a3f9.jpg)
+![Two titration setups with purple permanganate solution in a buret. Before the endpoint, a purple plume appears where the drop enters the nearly colorless oxalic acid solution and then fades. At the endpoint, the whole solution is faintly purple.](/images/replacements/fig-04-23-permanganate-titration.svg)
 
 As small volumes of permanganate solution are added to the oxalate solution, a transient purple color appears and then disappears as the permanganate is consumed (a). As more permanganate is added, eventually all the oxalate is oxidized, and a faint purple color from the presence of excess permanganate appears, marking the endpoint (b).
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 **Given:** equation, mass of sample, volume of solution, and molarity and volume of titrant
 
@@ -3041,9 +3055,11 @@ Suppose a tablet advertised as containing 500 mg of vitamin C is dissolved in 10
 
 Figure 4.24 The Titration of Ascorbic Acid with a Solution of NaOH
 
-![Figure 4.24 The Titration of Ascorbic Acid with a Solution of NaOH](/images/section_08/2f41d723fa49d6dcb9c5fbec7ae5106d.jpg)
+![Three stages of titrating ascorbic acid with sodium hydroxide from a buret, using bromothymol blue. The solution is yellow at the start, green at the endpoint, and blue after excess base is added.](/images/replacements/fig-04-24-ascorbic-acid-titration.svg)
 
-The solution, containing bromothymol blue as an indicator, is initially yellow (a). The addition of a trace excess of NaOH causes the solution to turn green at the endpoint (b) and then blue.
+The solution, containing bromothymol blue as an indicator, is initially yellow (a). The addition of a trace excess of NaOH causes the solution to turn green at the endpoint (b) and then blue (c).
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 **Given:** reactant, volume of sample solution, and volume and molarity of titrant
 

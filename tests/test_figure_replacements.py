@@ -81,6 +81,26 @@ class FigureReplacementTests(unittest.TestCase):
         del self.entry['replacement']['assets'][0]['creator']
         self.assertTrue(any('attribution missing creator' in e for e in self.validate()))
 
+    def use_original_diagram(self):
+        asset = self.entry['replacement']['assets'][0]
+        for field in ('source_url', 'source_revision_url', 'download_url', 'retrieved', 'changes'):
+            del asset[field]
+        asset.update({'origin': 'original', 'created': '2026-10-30', 'basis': 'Caption and surrounding text',
+                      'license': 'CC BY-NC-SA 3.0', 'license_url': 'https://creativecommons.org/licenses/by-nc-sa/3.0/'})
+        return asset
+
+    def test_original_diagram_needs_no_download_source(self):
+        self.use_original_diagram()
+        self.assertEqual(self.validate(), [])
+
+    def test_original_diagram_needs_its_basis_and_date(self):
+        asset = self.use_original_diagram()
+        del asset['basis']
+        asset['created'] = 'today'
+        errors = self.validate()
+        self.assertTrue(any('attribution missing basis' in e for e in errors))
+        self.assertTrue(any('Invalid created date' in e for e in errors))
+
     def test_restored_notice_is_rejected(self):
         path = self.root / 'chapters/ch-01.md'
         path.write_text(self.entry['original_markdown'])

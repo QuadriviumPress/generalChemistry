@@ -611,9 +611,11 @@ For many years, chemists and physicists tried to identify a single measurable qu
 
 Figure 18.6 An Endothermic Reaction
 
-![Figure 18.6 An Endothermic Reaction](/images/section_22/e114d8b906636e9d35e46b12b2d9118b.jpg)
+![A flask of barium hydroxide and ammonium thiocyanate sits on a wet wooden block. Arrows show heat flowing from the surroundings into the flask, the mixture becomes a slush, and the water under the flask freezes it to the wood.](/images/replacements/fig-18-06-endothermic.svg)
 
-The reaction of barium hydroxide with ammonium thiocyanate is spontaneous but highly endothermic, so water, one product of the reaction, quickly freezes into slush. When water is placed on a block of wood under the flask, the highly endothermic reaction that takes place in the flask freezes water that has been placed under the beaker, so the flask becomes frozen to the wood.
+The reaction of barium hydroxide with ammonium thiocyanate is spontaneous but highly endothermic, so water, one product of the reaction, quickly freezes into slush. When the flask stands on a block of wood with water placed under it, heat flows from that water into the flask, the water freezes, and the flask becomes frozen to the wood.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Thus enthalpy is not the only factor that determines whether a process is spontaneous. For example, after a cube of sugar has dissolved in a glass of water so that the sucrose molecules are uniformly dispersed in a dilute solution, they never spontaneously come back together in solution to form a sugar cube. Moreover, the molecules of a gas remain evenly distributed throughout the entire volume of a glass bulb and never spontaneously assemble in only one portion of the available volume. To help explain why these phenomena proceed spontaneously in only one direction requires an additional state function called entropy (*S*)[^chem-7], a thermodynamic property of all substances that is proportional to their degree of disorder. In [Chapter 13 \"Solutions\"](/chapters/ch-13-solutions.md#src-averill-1-0-ch13), we introduced the concept of entropy in relation to solution formation. Here we further explore the nature of this state function and define it mathematically.
 
@@ -629,9 +631,11 @@ We can illustrate the concepts of microstates and entropy using a deck of playin
 
 Figure 18.7 Illustrating Low- and High-Entropy States with a Deck of Playing Cards
 
-![Figure 18.7 Illustrating Low- and High-Entropy States with a Deck of Playing Cards](/images/section_22/ca50eebb29059147760ce6b89af6fe50.jpg)
+![Top: a new deck in suit order, ace through king of spades followed by hearts. This one arrangement is a single microstate. Bottom: three different random sequences, each one of 52 factorial, about 8 times 10 to the 67th, possible orders.](/images/replacements/fig-18-07-playing-cards.svg)
 
-An new, unshuffled deck (top) has only a single arrangement, so there is only one microstate. In contrast, a randomly shuffled deck (bottom) can have any one of approximately 10<sup>68</sup> different arrangements, which correspond to 10<sup>68</sup> different microstates.
+A new, unshuffled deck (top) is in one particular order, which corresponds to a single microstate. A randomly shuffled deck (bottom) could be in any one of 52! ≈ 8 × 10<sup>67</sup> (about 10<sup>68</sup>) possible orders. Each specific order is one microstate, so the shuffled condition corresponds to an enormous number of microstates.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 We can see how to calculate these kinds of probabilities for a chemical system by considering the possible arrangements of a sample of four gas molecules in a two-bulb container ([Figure 18.8 \"The Possible Microstates for a Sample of Four Gas Molecules in Two Bulbs of Equal Volume\"](/chapters/ch-18-chemical-thermodynamics.md#src-averill-1-0-ch18-s03-s01-f02)). There are five possible arrangements: all four molecules in the left bulb (I); three molecules in the left bulb and one in the right bulb (II); two molecules in each bulb (III); one molecule in the left bulb and three molecules in the right bulb (IV); and four molecules in the right bulb (V). If we assign a different color to each molecule to keep track of it for this discussion (remember, however, that in reality the molecules are indistinguishable from one another), we can see that there are 16 different ways the four molecules can be distributed in the bulbs, each corresponding to a particular microstate. As shown in [Figure 18.8 \"The Possible Microstates for a Sample of Four Gas Molecules in Two Bulbs of Equal Volume\"](/chapters/ch-18-chemical-thermodynamics.md#src-averill-1-0-ch18-s03-s01-f02), arrangement I is associated with a single microstate, as is arrangement V, so each arrangement has a probability of 1/16. Arrangements II and IV each have a probability of 4/16 because each can exist in four microstates. Similarly, six different microstates can occur as arrangement III, making the probability of this arrangement 6/16. Thus the arrangement that we would expect to encounter, with half the gas molecules in each bulb, is the *most probable* arrangement. The others are not impossible but simply less likely.
 

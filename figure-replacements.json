@@ -1,7 +1,40 @@
 {
   "version": 1,
-  "scope": "The 25 photograph replacements identified in the 2026-10-30 audit. Original source files and checksums are retained.",
+  "scope": "The 65 unavailable-image locations identified in the 2026-10-30 audit: 25 photographs and 40 diagrams. Original source files and checksums are retained.",
   "entries": [
+    {
+      "id": "FR001",
+      "figure": "1.6 States of matter",
+      "markdown_file": "chapters/ch-01-introduction-to-chemistry.md",
+      "original_asset": "images/section_05/89cdde65815df68ebdfa394629f237fb.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Three panels showing fixed solid shape, liquid taking the vessel shape, and gas filling different vessel volumes. Label properties; add particle insets.",
+      "original_markdown": "![Figure 1.6 The Three States of Matter](/images/section_05/89cdde65815df68ebdfa394629f237fb.jpg)\n\nSolids have a defined shape and volume. Liquids have a fixed volume but flow to assume the shape of their containers. Gases completely fill their containers, regardless of volume.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew the three states with particle insets; source caption retained.",
+        "assets": [
+          {
+            "title": "The three states of matter",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "d7018bd64e8c1dac7ae1c0c52f2ae8dfeddd10c9e5b8c1eec55d62a144b21011",
+            "path": "images/replacements/fig-01-06-states-of-matter.svg"
+          }
+        ],
+        "markdown": "![A solid block keeps its shape; the same liquid volume takes the shape of a beaker or a flask; a gas fills a small and a large closed container. Insets show particles packed in place, close together, and far apart.](/images/replacements/fig-01-06-states-of-matter.svg)\n\nSolids have a defined shape and volume. Liquids have a fixed volume but flow to assume the shape of their containers. Gases completely fill their containers, regardless of volume.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
     {
       "id": "FR002",
       "figure": "1.7 Milk as a heterogeneous mixture",
@@ -49,6 +82,39 @@
       "next_step": "Installed; included in verification and automatic re-import application."
     },
     {
+      "id": "FR003",
+      "figure": "1.8 Salt-water distillation",
+      "markdown_file": "chapters/ch-01-introduction-to-chemistry.md",
+      "original_asset": "images/section_05/d300e454dda0947c3a36bcd4a8ad38a3.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Adapt an open SVG or draw a boiling flask, condenser with coolant inlet/outlet, and receiving flask. Mark water vapor and distillate, with nonvolatile salt remaining behind.",
+      "original_markdown": "![Figure 1.8 The Distillation of a Solution of Table Salt in Water](/images/section_05/d300e454dda0947c3a36bcd4a8ad38a3.jpg)\n\nThe solution of salt in water is heated in the distilling flask until it boils. The resulting vapor is enriched in the more volatile component (water), which condenses to a liquid in the cold condenser and is then collected in the receiving flask.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew a simple distillation apparatus with countercurrent condenser cooling; source caption retained.",
+        "assets": [
+          {
+            "title": "Distillation of salt water",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption; standard simple-distillation apparatus.",
+            "sha256": "77334f6812a5fc1c664860f920589976792dbdbcca893167124ae1bc46dac18f",
+            "path": "images/replacements/fig-01-08-distillation.svg"
+          }
+        ],
+        "markdown": "![A burner heats salt water in a distilling flask with a thermometer. Water vapor passes into a sloping condenser cooled by water that enters at the lower end and leaves at the upper end. Condensed water drips into a receiving flask while the salt stays behind.](/images/replacements/fig-01-08-distillation.svg)\n\nThe solution of salt in water is heated in the distilling flask until it boils. The resulting vapor is enriched in the more volatile component (water), which condenses to a liquid in the cold condenser and is then collected in the receiving flask.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
       "id": "FR004",
       "figure": "1.9 Sodium acetate crystallization",
       "markdown_file": "chapters/ch-01-introduction-to-chemistry.md",
@@ -91,6 +157,39 @@
         "markdown": "![White sodium acetate crystals in four shallow dishes](/images/replacements/sodium-acetate-crystallization.jpg)\n\nCrystalline sodium acetate in shallow dishes. Crystallization converts dissolved sodium acetate into solid crystals.\n\n*Photograph credits:* [Kristalizacija.jpg](https://commons.wikimedia.org/wiki/File:Kristalizacija.jpg), Taki Jo ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))."
       },
       "next_step": "Installed; included in verification and automatic re-import application."
+    },
+    {
+      "id": "FR005",
+      "figure": "1.16 Gas discharge tube",
+      "markdown_file": "chapters/ch-01-introduction-to-chemistry.md",
+      "original_asset": "images/section_05/ecacdde50f1e3d75944b451d9cbb58ab.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw a low-pressure tube, labeled cathode/anode, high-voltage supply, and light emission. Distinguish electron travel from emitted light.",
+      "original_markdown": "![Figure 1.16 A Gas Discharge Tube Producing Cathode Rays](/images/section_05/ecacdde50f1e3d75944b451d9cbb58ab.jpg)\n\nWhen a high voltage is applied to a gas contained at low pressure in a gas discharge tube, electricity flows through the gas, and energy is emitted in the form of light.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew a labeled low-pressure discharge tube; source caption retained.",
+        "assets": [
+          {
+            "title": "Gas discharge tube",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption and surrounding text.",
+            "sha256": "caa978cbe1d11f1b8eb1853e73cf644843f763314ac3cc82a5fef06fcb3c3ba9",
+            "path": "images/replacements/fig-01-16-gas-discharge-tube.svg"
+          }
+        ],
+        "markdown": "![A sealed glass tube of low-pressure gas has a cathode at the left and an anode at the right, both wired to a high-voltage supply. Arrows inside show electrons moving from cathode to anode, and arrows outside show light emitted by the glowing gas.](/images/replacements/fig-01-16-gas-discharge-tube.svg)\n\nWhen a high voltage is applied to a gas contained at low pressure in a gas discharge tube, electricity flows through the gas, and energy is emitted in the form of light.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
     },
     {
       "id": "FR006",
@@ -203,6 +302,105 @@
       "next_step": "Installed; included in verification and automatic re-import application."
     },
     {
+      "id": "FR008",
+      "figure": "3.1 One-mole samples",
+      "markdown_file": "chapters/ch-03-chemical-reactions.md",
+      "original_asset": "images/section_07/22512721ca0ad7f4ee979d01b755f5d5.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Make a labeled panel of representative substances with one-mole masses and particle types: atoms, molecules, or formula units.",
+      "original_markdown": "![Figure 3.1 Samples of 1 Mol of Some Common Substances](/images/section_07/22512721ca0ad7f4ee979d01b755f5d5.jpg)",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "The lost photograph had no recoverable caption or specimen list. Selected five documented examples, showed molar masses and particle types, and added a caption.",
+        "assets": [
+          {
+            "title": "One mole of five substances",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Standard atomic weights; molar masses rounded to 0.01 g/mol.",
+            "sha256": "d46981d9fe2fa540b620f450e97569b19a49c274259baf2ac8012cfbc476c31f",
+            "path": "images/replacements/fig-03-01-one-mole-samples.svg"
+          }
+        ],
+        "markdown": "![Five cards give the mass of one mole: carbon 12.01 g and copper 63.55 g of atoms, water 18.02 g and sucrose 342.30 g of molecules, and sodium chloride 58.44 g of formula units. Each mole contains 6.022 × 10^23 particles.](/images/replacements/fig-03-01-one-mole-samples.svg)\n\nOne mole of each of five representative substances. Each sample contains 6.022 × 10<sup>23</sup> particles (atoms of carbon and copper, molecules of water and sucrose, and formula units of sodium chloride), but the masses differ. Sample volumes are not shown.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR009",
+      "figure": "3.7 Ammonium dichromate reaction",
+      "markdown_file": "chapters/ch-03-chemical-reactions.md",
+      "original_asset": "images/section_07/f984737a56da2c1fe4653baf3a49802b.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show orange ammonium dichromate becoming green chromium(III) oxide, N2, and water vapor; include the balanced equation and atom counts.",
+      "original_markdown": "![Figure 3.7 An Ammonium Dichromate Volcano: Change during a Chemical Reaction](/images/section_07/f984737a56da2c1fe4653baf3a49802b.jpg)\n\nThe starting material (left) is solid ammonium dichromate. A chemical reaction (right) transforms it to solid chromium(III) oxide, depicted showing a portion of its chained structure, nitrogen gas, and water vapor. (In addition, energy in the form of heat and light is released.) During the reaction, the distribution of atoms changes, but the *number* of atoms of each element does not change. Because the numbers of each type of atom are the same in the reactants and the products, the chemical equation is balanced.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Replaced the reference to a depicted chain structure of the oxide with the atom inventory actually shown.",
+        "assets": [
+          {
+            "title": "Ammonium dichromate decomposition",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Balanced equation in the surrounding text.",
+            "sha256": "6d3fcbb0b43d869cb64a56a36c938c01c6f366bad6ee042893925ed112b553ee",
+            "path": "images/replacements/fig-03-07-ammonium-dichromate.svg"
+          }
+        ],
+        "markdown": "![An orange pile of ammonium dichromate is heated and becomes a larger green pile of chromium(III) oxide while nitrogen gas and water vapor escape. Below, the balanced equation and a table show 2 N, 8 H, 2 Cr, and 7 O atoms on each side.](/images/replacements/fig-03-07-ammonium-dichromate.svg)\n\nThe starting material (left) is solid orange ammonium dichromate. A chemical reaction (right) transforms it to solid green chromium(III) oxide, nitrogen gas, and water vapor. (In addition, energy in the form of heat and light is released.) During the reaction, the distribution of atoms changes, but the *number* of atoms of each element does not change, as the atom inventory shows. Because the numbers of each type of atom are the same in the reactants and the products, the chemical equation is balanced.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR010",
+      "figure": "3.9 Candle combustion",
+      "markdown_file": "chapters/ch-03-chemical-reactions.md",
+      "original_asset": "images/section_07/c270bcd05256872401de2a06c72b8377.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P2",
+      "route": "SVG",
+      "notes": "Show a burning candle inside a flask, water droplets on cooler glass, and carbon dioxide/water products.",
+      "original_markdown": "![Figure 3.9 An Example of a Combustion Reaction](/images/section_07/c270bcd05256872401de2a06c72b8377.jpg)\n\nThe wax in a candle is a high-molecular-mass hydrocarbon, which produces gaseous carbon dioxide and water vapor in a combustion reaction. When the candle is allowed to burn inside a flask, drops of water, one of the products of combustion, condense at the top of the inner surface of the flask.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew the candle-in-flask observation; source caption retained.",
+        "assets": [
+          {
+            "title": "Candle burning in a flask",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "f929cf7990e881274176b6c66bb806efcb4f0cb5ac3794eef04d38380a314949",
+            "path": "images/replacements/fig-03-09-candle-combustion.svg"
+          }
+        ],
+        "markdown": "![A lit candle stands inside a large flask. Arrows show hot carbon dioxide and water vapor rising, and water droplets have condensed on the cooler upper glass.](/images/replacements/fig-03-09-candle-combustion.svg)\n\nThe wax in a candle is a high-molecular-mass hydrocarbon, which produces gaseous carbon dioxide and water vapor in a combustion reaction. When the candle is allowed to burn inside a flask, drops of water, one of the products of combustion, condense at the top of the inner surface of the flask.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
       "id": "FR011",
       "figure": "Example 13: galena and lead",
       "markdown_file": "chapters/ch-03-chemical-reactions.md",
@@ -269,6 +467,39 @@
       "next_step": "Installed; included in verification and automatic re-import application."
     },
     {
+      "id": "FR012",
+      "figure": "Example 15: AgCl precipitation",
+      "markdown_file": "chapters/ch-03-chemical-reactions.md",
+      "original_asset": "images/section_07/76e86358b7aa0733b7417501f2b34b7f.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw AgNO3 and NaCl solutions forming white AgCl solid, with Na+ and nitrate remaining in solution; conserve ions.",
+      "original_markdown": "    ![AgCl(s) precipitates when solutions of AgNO 3 (aq) and NaCl(aq) are mixed. NaNO 3 (aq) is in solution as Na + and NO 3 − ions.](/images/section_07/76e86358b7aa0733b7417501f2b34b7f.jpg)\n\n    **AgCl(s) precipitates when solutions of AgNO**<sub>**3**</sub>**(aq) and NaCl(aq) are mixed.** NaNO<sub>3</sub> (aq) is in solution as Na<sup>+</sup> and NO<sub>3</sub><sup>−</sup> ions.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew a particle view that conserves four of each ion; source caption retained.",
+        "assets": [
+          {
+            "title": "Silver chloride precipitation",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "392453a942593e93472d0049324c0107aee18b49a26f888974cb8690d9670bee",
+            "path": "images/replacements/fig-03-ex15-silver-chloride.svg"
+          }
+        ],
+        "markdown": "    ![A beaker of silver and nitrate ions and a beaker of sodium and chloride ions are mixed. In the product beaker, four silver ions and four chloride ions form white solid AgCl at the bottom, while four sodium ions and four nitrate ions remain dissolved.](/images/replacements/fig-03-ex15-silver-chloride.svg)\n\n    **AgCl(s) precipitates when solutions of AgNO**<sub>**3**</sub>**(aq) and NaCl(aq) are mixed.** NaNO<sub>3</sub> (aq) is in solution as Na<sup>+</sup> and NO<sub>3</sub><sup>−</sup> ions.\n\n    *Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
       "id": "FR013",
       "figure": "Ch. 4 opener: HgI2 precipitation",
       "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
@@ -310,6 +541,105 @@
           }
         ],
         "markdown": "![A vial containing bright red solid mercury(II) iodide](/images/replacements/mercury-iodide.jpg)\n\n**Mercury(II) iodide (HgI<sub>2</sub>).** Mercury(II) iodide can form as a red precipitate when solutions containing Hg<sup>2+</sup> and I<sup>−</sup> are mixed. This photograph shows the isolated solid.\n\n*Photograph credits:* [Jodid rtuťnatý 1.jpg](https://commons.wikimedia.org/wiki/File:Jodid_rtu%C5%A5nat%C3%BD_1.jpg), David Rouzek ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0))."
+      }
+    },
+    {
+      "id": "FR014",
+      "figure": "4.4 Electrolyte conductivity",
+      "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
+      "original_asset": "images/section_08/bc324cdbb2e1ce3fea89e8988424a85c.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw the same circuit in three panels: nonelectrolyte, weak electrolyte, strong electrolyte. Show particle speciation and off/dim/bright lamp states.",
+      "original_markdown": "![Figure 4.4 The Effect of Ions on the Electrical Conductivity of Water](/images/section_08/bc324cdbb2e1ce3fea89e8988424a85c.jpg)\n\nAn electrical current will flow and light the bulb only if the solution contains ions. (a) Pure water or an aqueous solution of a nonelectrolyte allows almost no current to flow, and the bulb does not light. (b) A weak electrolyte produces a few ions, allowing some current to flow and the bulb to glow dimly. (c) A strong electrolyte produces many ions, allowing more current to flow and the bulb to shine brightly.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew identical circuits with molecules, mostly molecules, and ions; source caption retained.",
+        "assets": [
+          {
+            "title": "Electrolytes and conductivity",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption and surrounding text.",
+            "sha256": "a5ac67ba1b84c41ccd743c7475e4f2fbc7fdaf6b7e8e23cb463b8a42764e1570",
+            "path": "images/replacements/fig-04-04-electrolyte-conductivity.svg"
+          }
+        ],
+        "markdown": "![Three identical circuits each contain a battery, a light bulb, and two electrodes in a beaker. With a nonelectrolyte the beaker holds only neutral molecules and the bulb is off. With a weak electrolyte it holds mostly molecules and one ion pair, and the bulb glows dimly. With a strong electrolyte it holds only ions, and the bulb shines brightly.](/images/replacements/fig-04-04-electrolyte-conductivity.svg)\n\nAn electrical current will flow and light the bulb only if the solution contains ions. (a) Pure water or an aqueous solution of a nonelectrolyte allows almost no current to flow, and the bulb does not light. (b) A weak electrolyte produces a few ions, allowing some current to flow and the bulb to glow dimly. (c) A strong electrolyte produces many ions, allowing more current to flow and the bulb to shine brightly.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR015",
+      "figure": "Example 8: Breathalyzer color change",
+      "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
+      "original_asset": "images/section_08/d3dad089cedd88ff9be9162a362d19aa.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P2",
+      "route": "SVG",
+      "notes": "Show the dichromate-based test before/after ethanol oxidation, with orange/yellow and green solutions and a labeled reaction arrow.",
+      "original_markdown": "![A Breathalyzer ampul before (a) and after (b) ethanol is added. When a measured volume of a suspect's breath is bubbled through the solution, the ethanol is oxidized to acetic acid, and the solution changes color from yellow-orange to green. The intensity of the green color indicates the amount of ethanol in the sample.](/images/section_08/d3dad089cedd88ff9be9162a362d19aa.jpg)\n\n**A Breathalyzer ampul before (a) and after (b) ethanol is added.** When a measured volume of a suspect's breath is bubbled through the solution, the ethanol is oxidized to acetic acid, and the solution changes color from yellow-orange to green. The intensity of the green color indicates the amount of ethanol in the sample.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Identified the replacement as a schematic of the historical test.",
+        "assets": [
+          {
+            "title": "Breathalyzer color change",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption and surrounding text.",
+            "sha256": "ad7cb0d0966431b37a4d70881dd1b2b5d3d81463a730c316452d78d9e41f75f8",
+            "path": "images/replacements/fig-04-ex08-breathalyzer.svg"
+          }
+        ],
+        "markdown": "![Two sealed ampuls. Before, the dichromate solution is yellow-orange. After breath containing ethanol is bubbled through it, ethanol is oxidized to acetic acid, chromium(VI) is reduced to chromium(III), and the solution is green.](/images/replacements/fig-04-ex08-breathalyzer.svg)\n\n**A Breathalyzer ampul before (a) and after (b) ethanol is added (schematic).** When a measured volume of a suspect's breath is bubbled through the solution, the ethanol is oxidized to acetic acid, and the solution changes color from yellow-orange to green. The intensity of the green color indicates the amount of ethanol in the sample.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR016",
+      "figure": "4.11 Silver dichromate precipitation",
+      "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
+      "original_asset": "images/section_08/e3a4de298f27a32e79315c2d483c8ad7.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show molecular-level mixing of AgNO3 and K2Cr2O7, red Ag2Cr2O7 solid, and spectator K+/NO3-; preserve intact polyatomic ions and stoichiometry.",
+      "original_markdown": "![Figure 4.11 What Happens at the Molecular Level When Solutions of AgNO 3 and K 2 Cr 2 O 7 Are Mixed](/images/section_08/e3a4de298f27a32e79315c2d483c8ad7.jpg)\n\nThe Ag<sup>+</sup> and Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup> ions form a red precipitate of solid Ag<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, while the K<sup>+</sup> and NO<sub>3</sub><sup>−</sup> ions remain in solution. (Water molecules are omitted from molecular views of the solutions for clarity.)",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew a particle view with intact dichromate ions and conserved stoichiometry; source caption retained.",
+        "assets": [
+          {
+            "title": "Silver dichromate precipitation",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "d0d63696967bb2d9c2ef79650bb84cc370a24b9cf099f1ca93b88ac61d924a57",
+            "path": "images/replacements/fig-04-11-silver-dichromate.svg"
+          }
+        ],
+        "markdown": "![A beaker of silver and nitrate ions is mixed with a beaker of potassium and dichromate ions. In the product beaker, four silver ions and two dichromate ions form a red solid at the bottom, while four potassium ions and four nitrate ions remain dissolved.](/images/replacements/fig-04-11-silver-dichromate.svg)\n\nThe Ag<sup>+</sup> and Cr<sub>2</sub>O<sub>7</sub><sup>2−</sup> ions form a red precipitate of solid Ag<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, while the K<sup>+</sup> and NO<sub>3</sub><sup>−</sup> ions remain in solution. (Water molecules are omitted from molecular views of the solutions for clarity.)\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
       }
     },
     {
@@ -388,6 +718,171 @@
         "sha256": "3813006f7d09bddb4a9a9b861375dbc4acbe77ede1a5226a344f508af411de73",
         "source_sha1": "def6daf8b7d37792604b341810429626dc6a635f",
         "decision": "Not installed: the downloaded file does not supply the required comparison."
+      }
+    },
+    {
+      "id": "FR019",
+      "figure": "4.14 Acid-carbonate gas formation",
+      "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
+      "original_asset": "images/section_08/ccdfbcd32b3db47404cc1cd56090709f.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P2",
+      "route": "SVG",
+      "notes": "Draw dilute nitric acid added to sodium carbonate solution with CO2 bubbles and the corresponding reaction labels.",
+      "original_markdown": "![Figure 4.14 The Reaction of Dilute Aqueous HNO 3 with a Solution of Na 2 CO 3](/images/section_08/ccdfbcd32b3db47404cc1cd56090709f.jpg)\n\nNote the vigorous formation of gaseous CO<sub>2</sub>.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew acid being added to carbonate solution with escaping CO<sub>2</sub>; source caption retained.",
+        "assets": [
+          {
+            "title": "Nitric acid and sodium carbonate",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption; standard balanced equation.",
+            "sha256": "a5540b1adcfebc1941a04ea5bb2863837099ebbd6c2fc5649ba82076582507f6",
+            "path": "images/replacements/fig-04-14-acid-carbonate.svg"
+          }
+        ],
+        "markdown": "![Dilute nitric acid is dropped into a beaker of sodium carbonate solution. Many bubbles form in the solution, and arrows show carbon dioxide gas escaping.](/images/replacements/fig-04-14-acid-carbonate.svg)\n\nNote the vigorous formation of gaseous CO<sub>2</sub>.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR020",
+      "figure": "4.16 pH paper versus pH meter",
+      "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
+      "original_asset": "images/section_08/efe8ecdbc54cb927755e19127dbacd6e.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Compare an indicator-strip color match with a digital meter reading 1.7, using clear labels about approximate versus finer numerical readings.",
+      "original_markdown": "![Figure 4.16 Two Ways of Measuring the pH of a Solution: pH Paper and a pH Meter](/images/section_08/efe8ecdbc54cb927755e19127dbacd6e.jpg)\n\nNote that both show that the pH is 1.7, but the pH meter gives a more precise value.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "The source claimed both methods read exactly 1.7. Revised the caption: color comparison gives an approximate whole-unit value. The chart colors are schematic, not a commercial calibration.",
+        "assets": [
+          {
+            "title": "pH paper and a pH meter",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption and surrounding text.",
+            "sha256": "22e91c67384dd201eddbb605b598e64a12fd066a276a22f8d101987071956f9f",
+            "path": "images/replacements/fig-04-16-ph-paper-meter.svg"
+          }
+        ],
+        "markdown": "![Left: a pH test strip compared with a reference chart of five schematic colors numbered 1 to 5; the strip matches the color near pH 2. Right: a pH meter whose probe is in a sample beaker displays a reading of 1.70.](/images/replacements/fig-04-16-ph-paper-meter.svg)\n\nThe color of the pH paper, compared with its reference chart, shows that the pH is about 2; the pH meter gives a more precise value, 1.70.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR021",
+      "figure": "4.21 Copper displacing silver",
+      "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
+      "original_asset": "images/section_08/a40d8c5e56d6c0533e28d4d9d08d2427.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "Hybrid",
+      "notes": "Combine a licensed copper/silver-nitrate reaction photograph with a new particle diagram showing Ag deposition and Cu2+ formation. A full schematic can replace the photograph if needed.",
+      "original_markdown": "![Figure 4.21 The Single-Displacement Reaction of Metallic Copper with a Solution of Silver Nitrate](/images/section_08/a40d8c5e56d6c0533e28d4d9d08d2427.jpg)\n\nWhen a copper coil is placed in a solution of silver nitrate, silver ions are reduced to metallic silver on the copper surface, and some of the copper metal dissolves. Note the formation of a metallic silver precipitate on the copper coil and a blue color in the surrounding solution due to the presence of aqueous Cu<sup>2+</sup> ions. (Water molecules and nitrate ions have been omitted from molecular views of the solution for clarity.)",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Used a full schematic in place of the planned photograph-plus-diagram pairing; caption no longer refers to a photograph.",
+        "assets": [
+          {
+            "title": "Copper displacing silver",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption and surrounding text.",
+            "sha256": "76c190f9ce085d6e965318d68d7e47fd216bef9a8cda34f798892e4821d778a5",
+            "path": "images/replacements/fig-04-21-copper-silver-nitrate.svg"
+          }
+        ],
+        "markdown": "![A copper coil in colorless silver nitrate solution becomes coated with silver crystals as the solution turns blue. A particle view shows silver ions gaining electrons to deposit as silver atoms on the copper surface while copper atoms leave as copper(II) ions.](/images/replacements/fig-04-21-copper-silver-nitrate.svg)\n\nWhen a copper coil is placed in a solution of silver nitrate, silver ions are reduced to metallic silver on the copper surface, and some of the copper metal dissolves. Silver crystals form on the coil, and the surrounding solution turns blue because of aqueous Cu<sup>2+</sup> ions. (Water molecules and nitrate ions have been omitted from the particle view for clarity.)\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR022",
+      "figure": "4.23 Permanganate-oxalate titration",
+      "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
+      "original_asset": "images/section_08/5aaa7037c105e944b629104406b6a3f9.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show transient purple titrant color disappearing before the endpoint, and persistent faint color at the endpoint; include a buret and panel labels.",
+      "original_markdown": "![Figure 4.23 The Titration of Oxalic Acid with Permanganate](/images/section_08/5aaa7037c105e944b629104406b6a3f9.jpg)\n\nAs small volumes of permanganate solution are added to the oxalate solution, a transient purple color appears and then disappears as the permanganate is consumed (a). As more permanganate is added, eventually all the oxalate is oxidized, and a faint purple color from the presence of excess permanganate appears, marking the endpoint (b).",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew a transient local plume before the endpoint and a uniformly faint color at the endpoint; source caption retained.",
+        "assets": [
+          {
+            "title": "Permanganate titration of oxalic acid",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "42aadb05975921782c186d93a736e8d2a9471b0b1b36af2ec8ead6ce8fb0228f",
+            "path": "images/replacements/fig-04-23-permanganate-titration.svg"
+          }
+        ],
+        "markdown": "![Two titration setups with purple permanganate solution in a buret. Before the endpoint, a purple plume appears where the drop enters the nearly colorless oxalic acid solution and then fades. At the endpoint, the whole solution is faintly purple.](/images/replacements/fig-04-23-permanganate-titration.svg)\n\nAs small volumes of permanganate solution are added to the oxalate solution, a transient purple color appears and then disappears as the permanganate is consumed (a). As more permanganate is added, eventually all the oxalate is oxidized, and a faint purple color from the presence of excess permanganate appears, marking the endpoint (b).\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR023",
+      "figure": "4.24 Ascorbic-acid titration",
+      "markdown_file": "chapters/ch-04-reactions-in-aqueous-solution.md",
+      "original_asset": "images/section_08/2f41d723fa49d6dcb9c5fbec7ae5106d.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show bromothymol blue changing from yellow through green at the endpoint to blue with excess NaOH, with buret and solution labels.",
+      "original_markdown": "![Figure 4.24 The Titration of Ascorbic Acid with a Solution of NaOH](/images/section_08/2f41d723fa49d6dcb9c5fbec7ae5106d.jpg)\n\nThe solution, containing bromothymol blue as an indicator, is initially yellow (a). The addition of a trace excess of NaOH causes the solution to turn green at the endpoint (b) and then blue.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Added a third panel label for the blue solution named in the source caption.",
+        "assets": [
+          {
+            "title": "Ascorbic acid titration",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "a3c37bdefabb048976d5f1be141dbf8915a3d53612d1dee94d7634fb0e11fe03",
+            "path": "images/replacements/fig-04-24-ascorbic-acid-titration.svg"
+          }
+        ],
+        "markdown": "![Three stages of titrating ascorbic acid with sodium hydroxide from a buret, using bromothymol blue. The solution is yellow at the start, green at the endpoint, and blue after excess base is added.](/images/replacements/fig-04-24-ascorbic-acid-titration.svg)\n\nThe solution, containing bromothymol blue as an indicator, is initially yellow (a). The addition of a trace excess of NaOH causes the solution to turn green at the endpoint (b) and then blue (c).\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
       }
     },
     {
@@ -498,6 +993,72 @@
       }
     },
     {
+      "id": "FR026",
+      "figure": "6.9 Hydrogen emission",
+      "markdown_file": "chapters/ch-06-the-structure-of-atoms.md",
+      "original_asset": "images/section_10/dab881c4db4639afd5967d5ada40d4d1.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "Hybrid",
+      "notes": "Pair a licensed hydrogen discharge-tube photograph with an accurately positioned Balmer-line SVG. A labeled apparatus schematic is a fallback for the photograph.",
+      "original_markdown": "![Figure 6.9 The Emission of Light by Hydrogen Atoms](/images/section_10/dab881c4db4639afd5967d5ada40d4d1.jpg)\n\n\\(a\\) A sample of excited hydrogen atoms emits a characteristic red light. (b) When the light emitted by a sample of excited hydrogen atoms is split into its component wavelengths by a prism, four characteristic violet, blue, green, and red emission lines can be observed, the most intense of which is at 656 nm.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Used a schematic discharge tube in place of the planned photograph. Line positions use NIST air wavelengths; the source color names were made specific to those wavelengths.",
+        "assets": [
+          {
+            "title": "Hydrogen emission spectrum",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "NIST Atomic Spectra Database, hydrogen Balmer lines.",
+            "sha256": "946f5ba1b6002fb3a4be611430b5032c5b58d144286882c9b28c94a4dc4a0952",
+            "path": "images/replacements/fig-06-09-hydrogen-emission.svg"
+          }
+        ],
+        "markdown": "![A hydrogen discharge tube glows red. Its light passes through a slit and a prism, which separates it into four lines on a 400 to 700 nanometer scale: violet at 410.2, violet at 434.0, blue-green at 486.1, and red at 656.3 nanometers, the most intense.](/images/replacements/fig-06-09-hydrogen-emission.svg)\n\n(a) A sample of excited hydrogen atoms in a discharge tube emits a characteristic red light. (b) When the light emitted by a sample of excited hydrogen atoms is split into its component wavelengths by a prism, four characteristic emission lines can be observed, at 410, 434, 486, and 656 nm (violet, violet-blue, blue-green, and red). The most intense is at 656 nm.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)); line wavelengths from the [NIST Atomic Spectra Database](https://www.nist.gov/pml/atomic-spectra-database)."
+      }
+    },
+    {
+      "id": "FR027",
+      "figure": "6.13 H/Ne/Hg emission comparison",
+      "markdown_file": "chapters/ch-06-the-structure-of-atoms.md",
+      "original_asset": "images/section_10/64fc07d6d03bdacfe38b4eaa6c162251.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw emission-line strips for hydrogen, neon, and mercury on a shared wavelength scale, based on documented atomic spectral data.",
+      "original_markdown": "![Figure 6.13 The Emission Spectra of Elements Compared with Hydrogen](/images/section_10/64fc07d6d03bdacfe38b4eaa6c162251.jpg)\n\nThese images show (a) hydrogen gas, which is atomized to hydrogen atoms in the discharge tube; (b) neon; and (c) mercury.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Replaced photographed spectra with line positions from atomic data; caption states the line selection.",
+        "assets": [
+          {
+            "title": "Hydrogen, neon, and mercury spectra",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "NIST Atomic Spectra Database, selected strong visible lines of H, Ne, and Hg.",
+            "sha256": "2f281a3fe34cee0999aa8cd20f121a3135d2f11fddde094a5959398f0e01c258",
+            "path": "images/replacements/fig-06-13-emission-spectra.svg"
+          }
+        ],
+        "markdown": "![Three emission line spectra on a shared 400 to 700 nanometer scale. Hydrogen has four lines. Neon has many lines, mostly in the yellow, orange, and red. Mercury has violet lines near 405 and 436 nanometers, a green line at 546 nanometers, and a yellow pair near 577 and 579 nanometers.](/images/replacements/fig-06-13-emission-spectra.svg)\n\nVisible emission lines of (a) hydrogen, which is atomized to hydrogen atoms in the discharge tube; (b) neon; and (c) mercury, on a common wavelength scale. Only selected strong lines are shown; line brightness is not to scale.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)); line wavelengths from the [NIST Atomic Spectra Database](https://www.nist.gov/pml/atomic-spectra-database)."
+      }
+    },
+    {
       "id": "FR028",
       "figure": "Group 1: potassium burning on water",
       "markdown_file": "chapters/ch-07-the-periodic-table-and-periodi.md",
@@ -542,6 +1103,39 @@
       "next_step": "Installed; included in verification and automatic re-import application."
     },
     {
+      "id": "FR029",
+      "figure": "Ch. 8 opener: CO2 versus SiO2",
+      "markdown_file": "chapters/ch-08-ionic-versus-covalent-bonding.md",
+      "original_asset": "images/section_12/80da542c0161cf76ede8d0a6137cbd5a.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P2",
+      "route": "SVG",
+      "notes": "Contrast discrete CO2 molecules in dry ice with an extended SiO2 covalent network, labeled with their different physical properties.",
+      "original_markdown": "![Carbon and silicon bonding. Both the group 14 elements carbon and silicon form bonds with oxygen, but how they form those bonds results in a vast difference in physical properties. Because of its simple molecular bond, carbon dioxide is a gas that exists as a volatile molecular solid, known as \"dry ice,\" at temperatures of −78°C and below. Silicon ](/images/section_12/80da542c0161cf76ede8d0a6137cbd5a.jpg)\n\n**Carbon and silicon bonding.** Both the group 14 elements carbon and silicon form bonds with oxygen, but how they form those bonds results in a vast difference in physical properties. Because of its simple molecular bond, carbon dioxide is a gas that exists as a volatile molecular solid, known as \"dry ice,\" at temperatures of −78°C and below. Silicon dioxide is a giant covalent structure, whose strong bonds in three dimensions make it a hard, high-melting-point solid, such as quartz.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew discrete CO<sub>2</sub> molecules and a flattened SiO<sub>2</sub> network, distinguishing intramolecular bonds from intermolecular forces; source caption retained.",
+        "assets": [
+          {
+            "title": "Carbon dioxide and silicon dioxide",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "4c2853a4c231f91fc9a64391090d6fb7c9ea75b1cb996d01d00ee62060495dc2",
+            "path": "images/replacements/fig-08-opener-co2-sio2.svg"
+          }
+        ],
+        "markdown": "![Left: dry ice drawn as separate linear O=C=O molecules joined to each other only by weak intermolecular forces; it sublimes at minus 78 degrees Celsius. Right: quartz drawn as a continuous network in which every silicon atom is bonded to oxygen atoms that bridge to other silicon atoms; it is hard and high melting.](/images/replacements/fig-08-opener-co2-sio2.svg)\n\n**Carbon and silicon bonding.** Both the group 14 elements carbon and silicon form bonds with oxygen, but how they form those bonds results in a vast difference in physical properties. Because of its simple molecular bond, carbon dioxide is a gas that exists as a volatile molecular solid, known as \"dry ice,\" at temperatures of −78°C and below. Silicon dioxide is a giant covalent structure, whose strong bonds in three dimensions make it a hard, high-melting-point solid, such as quartz.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
       "id": "FR030",
       "figure": "9.27 Liquid oxygen in a magnet",
       "markdown_file": "chapters/ch-09-molecular-geometry-and-covalen.md",
@@ -583,6 +1177,105 @@
           }
         ],
         "markdown": "![Liquid oxygen held in the gap between two facing magnetic pole pieces](/images/replacements/liquid-oxygen-magnet-alt.jpg)\n\nLiquid O<sub>2</sub> is attracted into the gap between the poles of a magnet. The two unpaired electrons in each O<sub>2</sub> molecule make molecular oxygen paramagnetic.\n\n*Photograph credits:* [Liquid oxygen in a magnet 2.jpg](https://commons.wikimedia.org/wiki/File:Liquid_oxygen_in_a_magnet_2.jpg), Bob Burk, work supported by the National Science Foundation under grant numbers: 1246120, 1525057, and 1413739 ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0))."
+      }
+    },
+    {
+      "id": "FR031",
+      "figure": "10.15 NH3/HCl gas diffusion",
+      "markdown_file": "chapters/ch-10-gases.md",
+      "original_asset": "images/section_14/9e557a2a52e50656c97d0aa3210d9064.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show separate open ammonia and hydrochloric-acid containers, diffusion paths, and a white NH4Cl aerosol where gases meet.",
+      "original_markdown": "![Figure 10.15 The Diffusion of Gaseous Molecules](/images/section_14/9e557a2a52e50656c97d0aa3210d9064.jpg)\n\nWhen open containers of aqueous NH<sub>3</sub> and HCl are placed near each other in a draft-free environment, molecules of the two substances diffuse, collide, and react to produce white fumes of solid ammonium chloride (NH<sub>4</sub>Cl).",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew the two sources, gas diffusion, and solid NH<sub>4</sub>Cl fumes; source caption retained.",
+        "assets": [
+          {
+            "title": "Ammonia and hydrogen chloride diffusion",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "c81e65dd66a3d3aa7845e596f6074dc3541afa0b920630ecb6c92e588d4a2430",
+            "path": "images/replacements/fig-10-15-nh3-hcl-diffusion.svg"
+          }
+        ],
+        "markdown": "![Open containers of aqueous ammonia on the left and hydrochloric acid on the right release gas molecules that diffuse toward each other. Where they meet, closer to the hydrochloric acid, they form a white cloud of solid ammonium chloride.](/images/replacements/fig-10-15-nh3-hcl-diffusion.svg)\n\nWhen open containers of aqueous NH<sub>3</sub> and HCl are placed near each other in a draft-free environment, molecules of the two substances diffuse, collide, and react to produce white fumes of solid ammonium chloride (NH<sub>4</sub>Cl).\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR032",
+      "figure": "10.16 Quantitative gas diffusion",
+      "markdown_file": "chapters/ch-10-gases.md",
+      "original_asset": "images/section_14/464fa85be435efd19cfab994e25f0b71.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw cotton sources and a ruler with source positions at 3.3 and 28.0 cm and the observed cloud edge at 18.8 cm; label 15.5 cm, 9.2 cm, and observed ratio about 1.7.",
+      "original_markdown": "![Figure 10.16 A Simple Experiment to Measure the Relative Rates of the Diffusion of Two Gases](/images/section_14/464fa85be435efd19cfab994e25f0b71.jpg)\n\nCotton balls containing aqueous NH<sub>3</sub> (left) and HCl (right) are placed a measured distance apart in a draft-free environment, and the position at which white fumes of NH<sub>4</sub>Cl first appear is noted. The puff of white NH<sub>4</sub>Cl forms much closer to the HCl-containing ball than to the NH<sub>3</sub>-containing ball. The left edge of the white puff marks where the reaction was first observed. The position of the white puff (18.8 − 3.3 = 15.5 cm from the NH<sub>3</sub>, 28.0 − 18.8 = 9.2 cm from the HCl, giving a ratio of distances of 15.5/9.2 = 1.7) is approximately the location predicted by Graham's law based on the square root of the inverse ratio of the molar masses of the reactants (1.47).",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew the tube and ruler at the measured 3.3, 18.8, and 28.0 cm positions, keeping the observed 1.7 ratio separate from the predicted 1.47; source caption retained. The product is labeled as solid.",
+        "assets": [
+          {
+            "title": "Measuring relative diffusion rates",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption measurements.",
+            "sha256": "f2560f8a2d92d078292118e5435cff10df36151baa5f29d0d3e9ebb907918183",
+            "path": "images/replacements/fig-10-16-graham-diffusion.svg"
+          }
+        ],
+        "markdown": "![A tube has cotton soaked in aqueous ammonia at 3.3 centimeters and cotton soaked in hydrochloric acid at 28.0 centimeters on a ruler. White ammonium chloride first appears with its left edge at 18.8 centimeters, 15.5 centimeters from the ammonia and 9.2 centimeters from the acid. The observed ratio is 1.7, compared with 1.47 predicted by Graham’s law.](/images/replacements/fig-10-16-graham-diffusion.svg)\n\nCotton balls containing aqueous NH<sub>3</sub> (left) and HCl (right) are placed a measured distance apart in a draft-free environment, and the position at which white fumes of NH<sub>4</sub>Cl first appear is noted. The puff of white NH<sub>4</sub>Cl forms much closer to the HCl-containing ball than to the NH<sub>3</sub>-containing ball. The left edge of the white puff marks where the reaction was first observed. The position of the white puff (18.8 − 3.3 = 15.5 cm from the NH<sub>3</sub>, 28.0 − 18.8 = 9.2 cm from the HCl, giving a ratio of distances of 15.5/9.2 = 1.7) is approximately the location predicted by Graham's law based on the square root of the inverse ratio of the molar masses of the reactants (1.47).\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR033",
+      "figure": "11.1 Dye diffusion in water",
+      "markdown_file": "chapters/ch-11-liquids.md",
+      "original_asset": "images/section_15/0a5dfa110a1aea4e3fd7ece29bb7a0c4.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P2",
+      "route": "SVG",
+      "notes": "Draw a clearly identified qualitative time sequence showing a dye drop dispersing through water, with no imposed current or stirring.",
+      "original_markdown": "![Figure 11.1 Molecular Diffusion in a Liquid](/images/section_15/0a5dfa110a1aea4e3fd7ece29bb7a0c4.jpg)\n\nA drop of an aqueous solution containing a marker dye is added to a larger volume of water. As it diffuses, the color of the dye becomes fainter at the edges.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew a qualitative three-stage sequence; source caption retained.",
+        "assets": [
+          {
+            "title": "Dye diffusing in water",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "0a088927b64b87b525c0cfca23c94871a5a7c6931e5d546ace5f9dd8dc404d00",
+            "path": "images/replacements/fig-11-01-dye-diffusion.svg"
+          }
+        ],
+        "markdown": "![Three beakers in sequence. First, a concentrated drop of blue dye has just entered still water. Next, the dye has spread into a larger, fainter cloud. Finally, the whole beaker is evenly pale blue.](/images/replacements/fig-11-01-dye-diffusion.svg)\n\nA drop of an aqueous solution containing a marker dye is added to a larger volume of water. As it diffuses, the color of the dye becomes fainter at the edges.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
       }
     },
     {
@@ -649,6 +1342,72 @@
           }
         ],
         "markdown": "![A metal paper clip supported at the surface of water](/images/replacements/surface-tension-paperclip.jpg)\n\n![A water strider standing on the water surface](/images/replacements/water-strider.jpg)\n\nFirst photograph: surface tension helps support a metal paper clip at the surface of water. Second photograph: a water strider supported at the water surface. These examples illustrate the effects of water's high surface tension.\n\n*Photograph credits:* [Surface Tension 01.jpg](https://commons.wikimedia.org/wiki/File:Surface_Tension_01.jpg), Kuebi Armin Kübelbeck ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0)); [Water strider.jpg](https://commons.wikimedia.org/wiki/File:Water_strider.jpg), TimVickers ([Public domain](https://commons.wikimedia.org/wiki/Template:PD-self))."
+      }
+    },
+    {
+      "id": "FR035",
+      "figure": "11.11 Capillary rise",
+      "markdown_file": "chapters/ch-11-liquids.md",
+      "original_asset": "images/section_15/2fefe8a800e2a04221e7e902a97903e2.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show water rising higher in narrower glass capillaries, and a tilted capillary with the same vertical rise as a comparable vertical tube.",
+      "original_markdown": "![Figure 11.11 The Phenomenon of Capillary Action](/images/section_15/2fefe8a800e2a04221e7e902a97903e2.jpg)\n\nWhen a glass capillary is placed in liquid water, water rises up into the capillary. The smaller the diameter of the capillary, the higher the water rises. The height of the water does *not* depend on the angle at which the capillary is tilted.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew rise heights inversely proportional to tube radius and a tilted tube reaching the same vertical height; source caption retained.",
+        "assets": [
+          {
+            "title": "Capillary rise of water",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption; Jurin height proportional to 1/r.",
+            "sha256": "119f14987dc97ccd95518284b68a07e9488ba723eb054e8777e4b5b513246c81",
+            "path": "images/replacements/fig-11-11-capillary-rise.svg"
+          }
+        ],
+        "markdown": "![Three vertical glass capillaries of decreasing width stand in water; the water rises highest in the narrowest tube. A tilted tube with the same width as the middle tube has its water surface at the same vertical height above the reservoir, marked h.](/images/replacements/fig-11-11-capillary-rise.svg)\n\nWhen a glass capillary is placed in liquid water, water rises up into the capillary. The smaller the diameter of the capillary, the higher the water rises. The height of the water does *not* depend on the angle at which the capillary is tilted.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR036",
+      "figure": "11.12 Capillary depression and menisci",
+      "markdown_file": "chapters/ch-11-liquids.md",
+      "original_asset": "images/section_15/c0a4fafd7a1af4f665e11be34e511338.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw water/glass with concave meniscus and capillary rise, and mercury/glass with convex meniscus and depression; include a common reservoir reference level.",
+      "original_markdown": "![Figure 11.12 The Effects of Capillary Action](/images/section_15/c0a4fafd7a1af4f665e11be34e511338.jpg)\n\n\\(a\\) This drawing illustrates the shape of the meniscus and the relative height of a mercury column when a glass capillary is put into liquid mercury. The meniscus is convex and the surface of the liquid inside the tube is *lower* than the level of the liquid outside the tube. (b) Because water adheres strongly to the polar surface of glass, it has a concave meniscus, whereas mercury, which does not adhere to the glass, has a convex meniscus.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew mercury depression with the outside reference level and both meniscus shapes; source caption retained.",
+        "assets": [
+          {
+            "title": "Menisci of water and mercury",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "b0db7890b5889be13b897eecf1e060386998b06a3e89bc21730b2ec6acea7ea7",
+            "path": "images/replacements/fig-11-12-menisci.svg"
+          }
+        ],
+        "markdown": "![Left: a glass capillary in mercury, where the mercury inside the tube stands below the outside level and has a convex surface. Right: wide glass tubes showing that water forms a concave meniscus and mercury forms a convex meniscus.](/images/replacements/fig-11-12-menisci.svg)\n\n\\(a\\) This drawing illustrates the shape of the meniscus and the relative height of a mercury column when a glass capillary is put into liquid mercury. The meniscus is convex and the surface of the liquid inside the tube is *lower* than the level of the liquid outside the tube. (b) Because water adheres strongly to the polar surface of glass, it has a concave meniscus, whereas mercury, which does not adhere to the glass, has a convex meniscus.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
       }
     },
     {
@@ -740,6 +1499,105 @@
       "next_step": "Only a solid specimen and molecular diagrams were found, not the named isotropic/cholesteric phase comparison. A matched phase pair with documented temperatures is still needed."
     },
     {
+      "id": "FR039",
+      "figure": "13.5 Immiscible liquids",
+      "markdown_file": "chapters/ch-13-solutions.md",
+      "original_asset": "images/section_17/ebd84c04f48ea9ee55f8b7631557cac0.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "After chemistry review, draw the correct phase arrangement with solvent names, densities/order, and iodine distribution. Consider two separate binary-mixture panels.",
+      "original_markdown": "![Figure 13.5 Immiscible Liquids](/images/section_17/ebd84c04f48ea9ee55f8b7631557cac0.jpg)\n\nWater is immiscible with both CCl<sub>4</sub> and hexane. When all three liquids are mixed, they separate into three distinct layers. Because water is less dense than CCl<sub>4</sub>, the water layer floats on the CCl<sub>4</sub>. In contrast, hexane is less dense than water, so the hexane floats on the water layer. Because I<sub>2</sub> is intensely purple and quite soluble in both CCl<sub>4</sub> and hexane, but insoluble in water, a small amount of I<sub>2</sub> has been added to help identify the hexane and CCl<sub>4</sub> layers.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "The source caption described three separate layers of water, CCl<sub>4</sub>, and hexane. Hexane and CCl<sub>4</sub> are miscible, so the figure now shows two two-layer mixtures, with densities added.",
+        "assets": [
+          {
+            "title": "Water with hexane and with carbon tetrachloride",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Miscibility of hexane and CCl4; densities near 20 °C.",
+            "sha256": "774414209314930c7507b5722dd534fa8f8c723d0274bc692cf001314dbde20e",
+            "path": "images/replacements/fig-13-05-immiscible-liquids.svg"
+          }
+        ],
+        "markdown": "![Two test tubes. In the first, a violet layer of hexane containing iodine floats on colorless water. In the second, colorless water floats on a violet layer of carbon tetrachloride containing iodine. Densities are labeled: hexane 0.66, water 1.00, and carbon tetrachloride 1.59 grams per milliliter.](/images/replacements/fig-13-05-immiscible-liquids.svg)\n\nWater is immiscible with both hexane and CCl<sub>4</sub>. (a) Hexane (density about 0.66 g/mL) is less dense than water, so the hexane floats on the water layer. (b) Because water is less dense than CCl<sub>4</sub> (about 1.59 g/mL), the water layer floats on the CCl<sub>4</sub>. Because I<sub>2</sub> is intensely purple and much more soluble in hexane and CCl<sub>4</sub> than in water, a small amount of I<sub>2</sub> has been added to identify the organic layer in each tube. Hexane and CCl<sub>4</sub> are miscible with each other, so they are shown in separate tubes.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR040",
+      "figure": "13.8 Crown ether and solubility",
+      "markdown_file": "chapters/ch-13-solutions.md",
+      "original_asset": "images/section_17/6733c1aba721845e2de9f3af715fa2de.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show KMnO4 before/after addition of 18-crown-6 in isopropanol, with K+ binding and a qualitative purple solution indicator.",
+      "original_markdown": "![Figure 13.8 Effect of a Crown Ether on the Solubility of KMnO 4 in Isopropanol (2-Propanol)](/images/section_17/6733c1aba721845e2de9f3af715fa2de.jpg)\n\n\\(a\\) Normally KMnO<sub>4</sub>, which is intensely purple, is completely insoluble in isopropanol, which has a relatively low dielectric constant. (b) In the presence of a small amount of 18-crown-6, KMnO<sub>4</sub> dissolves in isopropanol, as shown by the reddish-purple color caused by permanganate ions in solution.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew both tubes and an inset of K<sup>+</sup> bound by 18-crown-6; source caption retained.",
+        "assets": [
+          {
+            "title": "Crown ether dissolves permanganate",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption; 18-crown-6 ring structure.",
+            "sha256": "9b9c7aba32d3a0619ed9715381f06ca9f806ba8ab0bcb84825d212361dab169a",
+            "path": "images/replacements/fig-13-08-crown-ether.svg"
+          }
+        ],
+        "markdown": "![First tube: dark purple potassium permanganate crystals sit undissolved in colorless isopropanol. Second tube: with a little 18-crown-6 added, the liquid is reddish purple. An inset shows a potassium ion held at the center of the 18-membered crown ether ring by six oxygen atoms, beside a separate permanganate ion.](/images/replacements/fig-13-08-crown-ether.svg)\n\n\\(a\\) Normally KMnO<sub>4</sub>, which is intensely purple, is completely insoluble in isopropanol, which has a relatively low dielectric constant. (b) In the presence of a small amount of 18-crown-6, KMnO<sub>4</sub> dissolves in isopropanol, as shown by the reddish-purple color caused by permanganate ions in solution.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR041",
+      "figure": "13.22 Tyndall effect",
+      "markdown_file": "chapters/ch-13-solutions.md",
+      "original_asset": "images/section_17/305b670de14e70a25dd291ae4e4e78ab.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show the same side-illuminating beam in true solution and gelatin colloid, with side scattering visible only for the colloid.",
+      "original_markdown": "![Figure 13.22 Tyndall Effect, the Scattering of Light by Colloids](/images/section_17/305b670de14e70a25dd291ae4e4e78ab.jpg)\n\nBoth cylinders contain a solution of red food coloring in water, but a small amount of gelatin has been added to the cylinder on the right to form a colloidal suspension of gelatin particles. The beam of light goes straight through the true solution on the left, but the light beam is scattered by the colloid on the right.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew one beam crossing a true solution and a gelatin colloid; source caption retained.",
+        "assets": [
+          {
+            "title": "Tyndall effect",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "a224ca02bd61d06aa69c312a93c95353ecee775f158fa135ed108252eaef329a",
+            "path": "images/replacements/fig-13-22-tyndall-effect.svg"
+          }
+        ],
+        "markdown": "![A light beam crosses two cylinders of red food coloring in water. In the true solution on the left the beam cannot be seen from the side. In the cylinder on the right, which also contains gelatin, the beam is visible because the colloidal particles scatter light.](/images/replacements/fig-13-22-tyndall-effect.svg)\n\nBoth cylinders contain a solution of red food coloring in water, but a small amount of gelatin has been added to the cylinder on the right to form a colloidal suspension of gelatin particles. The beam of light goes straight through the true solution on the left, but the light beam is scattered by the colloid on the right.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
       "id": "FR042",
       "figure": "14.1 Concentration and sucrose reaction",
       "markdown_file": "chapters/ch-14-chemical-kinetics.md",
@@ -795,6 +1653,204 @@
       "original_markdown": "![Figure 14.2 The Effect of Temperature on Reaction Rates](/images/section_18/ab6a96bbd04d93a7b0d6aa1111147e20.jpg)\n\nAt high temperature, the reaction that produces light in a chemiluminescent light stick occurs more rapidly, producing more photons of light per unit time. Consequently, the light glows brighter in hot water (left) than in ice water (right).",
       "candidates": [],
       "next_step": "No matching licensed hot/cold glow-stick comparison identified. Continue a targeted search or obtain an original photograph with documented temperature conditions and a common exposure."
+    },
+    {
+      "id": "FR044",
+      "figure": "14.3 Surface area and reaction rate",
+      "markdown_file": "chapters/ch-14-chemical-kinetics.md",
+      "original_asset": "images/section_18/546284255ee675e729dbdd95eae7977e.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Contrast bulk flour with dispersed flour particles exposed to a flame, using a schematic to explain increased accessible surface area.",
+      "original_markdown": "![Figure 14.3 The Effect of Surface Area on Reaction Rates](/images/section_18/546284255ee675e729dbdd95eae7977e.jpg)\n\nA pile of flour is only scorched by a flame (right), but when the same flour is sprayed into the flame, it burns rapidly (left).",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew a conceptual comparison and labeled it as such; source caption retained.",
+        "assets": [
+          {
+            "title": "Surface area and reaction rate",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "21e9b217c4e1ad28197d234690ec3453ed62712b32ef2f33c949d525a108e9c8",
+            "path": "images/replacements/fig-14-03-flour-surface-area.svg"
+          }
+        ],
+        "markdown": "![Left: flour sprayed into a burner flame is spread out as separate particles in air and burns as a large fireball. Right: a flame on a pile of the same flour only scorches its exposed surface.](/images/replacements/fig-14-03-flour-surface-area.svg)\n\nA pile of flour is only scorched by a flame (right), but when the same flour is sprayed into the flame, it burns rapidly (left).\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR045",
+      "figure": "14.4 Catalysts and H2O2 decomposition",
+      "markdown_file": "chapters/ch-14-chemical-kinetics.md",
+      "original_asset": "images/section_18/bc40662972d3e5c9c2e925039de3170e.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw control, iodide, and catalase panels, with qualitative O2 evolution and explanatory catalyst labels.",
+      "original_markdown": "![Figure 14.4 The Effect of Catalysts on Reaction Rates](/images/section_18/bc40662972d3e5c9c2e925039de3170e.jpg)\n\nA solution of hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) decomposes in water so slowly that the change is not noticeable (left). Iodide ion acts as a catalyst for the decomposition of H<sub>2</sub>O<sub>2</sub>, producing oxygen gas. The solution turns brown because of the reaction of H<sub>2</sub>O<sub>2</sub> with I<sup>−</sup>, which generates small amounts of I<sub>3</sub><sup>−</sup> (center). The enzyme catalase is about 3 *billion* times more effective than iodide as a catalyst. Even in the presence of very small amounts of enzyme, the decomposition is vigorous (right).",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew qualitative bubble amounts without implying measured rates; source caption retained.",
+        "assets": [
+          {
+            "title": "Catalysts and hydrogen peroxide",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "32acec1336ff60619affd6d24a557e1323ad491cbac44fe2f047b38bae77873f",
+            "path": "images/replacements/fig-14-04-catalysts.svg"
+          }
+        ],
+        "markdown": "![Three cylinders of hydrogen peroxide solution. With no catalyst nothing visible happens. With iodide the solution is brown and oxygen bubbles form. With the enzyme catalase, oxygen forms so vigorously that foam rises out of the liquid.](/images/replacements/fig-14-04-catalysts.svg)\n\nA solution of hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) decomposes in water so slowly that the change is not noticeable (left). Iodide ion acts as a catalyst for the decomposition of H<sub>2</sub>O<sub>2</sub>, producing oxygen gas. The solution turns brown because of the reaction of H<sub>2</sub>O<sub>2</sub> with I<sup>−</sup>, which generates small amounts of I<sub>3</sub><sup>−</sup> (center). The enzyme catalase is about 3 *billion* times more effective than iodide as a catalyst. Even in the presence of very small amounts of enzyme, the decomposition is vigorous (right).\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR046",
+      "figure": "15.1 N2O4/NO2 and temperature",
+      "markdown_file": "chapters/ch-15-chemical-equilibrium.md",
+      "original_asset": "images/section_19/3090659b4d8ee427ec0d7a79a3932a5c.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show cold colorless N2O4, warming/evaporation, and the room-temperature brown equilibrium mixture; label phases and the balanced equilibrium.",
+      "original_markdown": "$$\\left. \\underset{\\text{colorless}}{\\text{N}_{2}\\text{O(g)}}\\rightleftharpoons\\underset{\\text{red-brown}}{\\text{2NO}_{2}\\text{(g)}} \\right.$$\n\nThe double arrow indicates that both the forward and reverse reactions are occurring simultaneously; it is read \"is in equilibrium with.\"\n\n(src-averill-1-0-ch15-s01-f01)=\n\nFigure 15.1 The $\\left. \\text{N}_{2}\\text{O(g)}\\rightleftharpoons 2\\text{NO}_{2}\\text{(g)} \\right.$ System at Different Temperatures\n\n![Figure 15.1 The N 2 O(g) ⇌ 2 NO 2 (g) System at Different Temperatures](/images/section_19/3090659b4d8ee427ec0d7a79a3932a5c.jpg)\n\n(left) At dry ice temperature (−78.4°C), the system contains essentially pure solid N<sub>2</sub>O<sub>4</sub>, which is colorless. (center) As the system is warmed above the melting point of N<sub>2</sub>O<sub>4</sub> (−9.3°C), the N<sub>2</sub>O<sub>4</sub> melts and then evaporates, and some of the vapor dissociates to red-brown NO<sub>2</sub>. (right) Eventually the sample reaches room temperature, and a mixture of gaseous N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub> is present. The composition of the mixture and hence the color do not change further with time: the system has reached equilibrium at the new temperature.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Corrected N<sub>2</sub>O to N<sub>2</sub>O<sub>4</sub> in Equation 15.1 and the figure title, matching the surrounding text and caption; drew the three stages; source caption retained.",
+        "assets": [
+          {
+            "title": "Dinitrogen tetroxide warming",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption; N2O4 melting point stated there.",
+            "sha256": "7d9518bf17265b3f0af5929ca6f2dd4619c61ee7dfbe2b99e3d02f707eb0df52",
+            "path": "images/replacements/fig-15-01-n2o4-temperature.svg"
+          }
+        ],
+        "markdown": "$$\\left. \\underset{\\text{colorless}}{\\text{N}_{2}\\text{O}_{4}\\text{(g)}}\\rightleftharpoons\\underset{\\text{red-brown}}{\\text{2NO}_{2}\\text{(g)}} \\right.$$\n\nThe double arrow indicates that both the forward and reverse reactions are occurring simultaneously; it is read \"is in equilibrium with.\"\n\n(src-averill-1-0-ch15-s01-f01)=\n\nFigure 15.1 The $\\left. \\text{N}_{2}\\text{O}_{4}\\text{(g)}\\rightleftharpoons 2\\text{NO}_{2}\\text{(g)} \\right.$ System at Different Temperatures\n\n![Three views of one sealed tube. In dry ice it holds colorless solid N2O4. As it warms above minus 9.3 degrees Celsius, the N2O4 melts and evaporates and the gas turns pale brown. At room temperature it holds a red-brown equilibrium mixture of N2O4 and NO2 gas.](/images/replacements/fig-15-01-n2o4-temperature.svg)\n\n(left) At dry ice temperature (−78.4°C), the system contains essentially pure solid N<sub>2</sub>O<sub>4</sub>, which is colorless. (center) As the system is warmed above the melting point of N<sub>2</sub>O<sub>4</sub> (−9.3°C), the N<sub>2</sub>O<sub>4</sub> melts and then evaporates, and some of the vapor dissociates to red-brown NO<sub>2</sub>. (right) Eventually the sample reaches room temperature, and a mixture of gaseous N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub> is present. The composition of the mixture and hence the color do not change further with time: the system has reached equilibrium at the new temperature.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR047",
+      "figure": "15.12 Equilibrium after compression",
+      "markdown_file": "chapters/ch-15-chemical-equilibrium.md",
+      "original_asset": "images/section_19/840137e860cd5c5a652e62fc2085161a.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw three syringe states: 15 mL equilibrium, immediate compression to 7.5 mL with darker color, then relaxation toward N2O4.",
+      "original_markdown": "![Figure 15.12 The Effect of Changing the Volume (and Thus the Pressure) of an Equilibrium Mixture of N 2 O 4 and NO 2 at Constant Temperature](/images/section_19/840137e860cd5c5a652e62fc2085161a.jpg)\n\n\\(a\\) The syringe with a total volume of 15 mL contains an equilibrium mixture of N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub>; the red-brown color is proportional to the NO<sub>2</sub> concentration. (b) If the volume is rapidly decreased by a factor of 2 to 7.5 mL, the initial effect is to double the concentrations of all species present, including NO<sub>2</sub>. Hence the color becomes more intense. (c) With time, the system adjusts its composition in response to the stress as predicted by Le Châtelier's principle, forming colorless N<sub>2</sub>O<sub>4</sub> at the expense of red-brown NO<sub>2</sub>, which decreases the intensity of the color of the mixture.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew the compressed mixture at a new equilibrium lighter than just after compression but still darker than the original; source caption retained.",
+        "assets": [
+          {
+            "title": "Compressing an N2O4 and NO2 mixture",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption; Le Châtelier response.",
+            "sha256": "5973282bc7accc5789050c3cf4aeb121f45242f9a97a96776e17f9f08aecb492",
+            "path": "images/replacements/fig-15-12-compression.svg"
+          }
+        ],
+        "markdown": "![Three syringes. (a) 15 milliliters of a red-brown equilibrium mixture. (b) Immediately after compression to 7.5 milliliters the gas is darker. (c) After the system re-establishes equilibrium, it is lighter than in (b) but still darker than in (a).](/images/replacements/fig-15-12-compression.svg)\n\n\\(a\\) The syringe with a total volume of 15 mL contains an equilibrium mixture of N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub>; the red-brown color is proportional to the NO<sub>2</sub> concentration. (b) If the volume is rapidly decreased by a factor of 2 to 7.5 mL, the initial effect is to double the concentrations of all species present, including NO<sub>2</sub>. Hence the color becomes more intense. (c) With time, the system adjusts its composition in response to the stress as predicted by Le Châtelier's principle, forming colorless N<sub>2</sub>O<sub>4</sub> at the expense of red-brown NO<sub>2</sub>, which decreases the intensity of the color of the mixture.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR048",
+      "figure": "15.13 Equilibrium and temperature",
+      "markdown_file": "chapters/ch-15-chemical-equilibrium.md",
+      "original_asset": "images/section_19/97a1ee4b716e488b072fde27fd16c129.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw equal-volume N2O4/NO2 samples in cold, room-temperature, and hot conditions, with lighter-to-darker qualitative colors and shift arrows.",
+      "original_markdown": "![Figure 15.13 The Effect of Temperature on the Equilibrium between Gaseous N 2 O 4 and NO 2](/images/section_19/97a1ee4b716e488b072fde27fd16c129.jpg)\n\n(center) A tube containing a mixture of N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub> in the same proportion at room temperature is red-brown due to the NO<sub>2</sub> present. (left) Immersing the tube in ice water causes the mixture to become lighter in color due to a shift in the equilibrium composition toward colorless N<sub>2</sub>O<sub>4</sub>. (right) In contrast, immersing the same tube in boiling water causes the mixture to become darker due to a shift in the equilibrium composition toward the highly colored NO<sub>2</sub>.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew one tube in ice water, at room temperature, and in boiling water; source caption retained.",
+        "assets": [
+          {
+            "title": "Temperature and the N2O4 equilibrium",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "13506936dfc902b6967d9b5889cac7876c337b8108d9449c9df4810c69a4b737",
+            "path": "images/replacements/fig-15-13-temperature-shift.svg"
+          }
+        ],
+        "markdown": "![One sealed tube of N2O4 and NO2 shown in ice water, at room temperature, and in boiling water. The gas is pale in ice water, red-brown at room temperature, and darkest in boiling water.](/images/replacements/fig-15-13-temperature-shift.svg)\n\n(center) A tube containing a mixture of N<sub>2</sub>O<sub>4</sub> and NO<sub>2</sub> in the same proportion at room temperature is red-brown due to the NO<sub>2</sub> present. (left) Immersing the tube in ice water causes the mixture to become lighter in color due to a shift in the equilibrium composition toward colorless N<sub>2</sub>O<sub>4</sub>. (right) In contrast, immersing the same tube in boiling water causes the mixture to become darker due to a shift in the equilibrium composition toward the highly colored NO<sub>2</sub>.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR049",
+      "figure": "Ch. 16 opener: indicator colors",
+      "markdown_file": "chapters/ch-16-aqueous-acid-base-equilibriums.md",
+      "original_asset": "images/section_20/5b87c7da3887d432378a9972b230e850.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P2",
+      "route": "SVG",
+      "notes": "Create seven labeled indicator color bars over pH 1-10, using verified indicator identities and transition ranges.",
+      "original_markdown": "![Indicators are used to monitor changes in pH. The pH of a solution can be monitored using an acid--base indicator, a substance that undergoes a color change within a specific pH range that is characteristic of that indicator. The color changes for seven commonly used indicators over a pH range of 1--10 are shown here.](/images/section_20/5b87c7da3887d432378a9972b230e850.jpg)\n\n**Indicators are used to monitor changes in pH.** The pH of a solution can be monitored using an acid--base indicator, a substance that undergoes a color change within a specific pH range that is characteristic of that indicator. The color changes for seven commonly used indicators over a pH range of 1--10 are shown here.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "The seven indicators in the lost image are unknown. Selected seven from Figure 16.23 and stated the source of the ranges in the caption.",
+        "assets": [
+          {
+            "title": "Indicator colors from pH 1 to 10",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Figure 16.23 of this book.",
+            "sha256": "e31b62cc7388fce1865478c99b1babb14f4016befb63ee901b2e367de9507ae3",
+            "path": "images/replacements/fig-16-opener-indicators.svg"
+          }
+        ],
+        "markdown": "![Seven color bars across pH 1 to 10. Thymol blue changes red to yellow near pH 1.2 to 2.8 and yellow to blue near 8.0 to 9.6. Bromophenol blue goes yellow to blue, methyl red red to yellow, bromocresol purple yellow to purple, bromothymol blue yellow to blue, phenol red yellow to red, and phenolphthalein colorless to pink, each over its own range.](/images/replacements/fig-16-opener-indicators.svg)\n\n**Indicators are used to monitor changes in pH.** The pH of a solution can be monitored using an acid--base indicator, a substance that undergoes a color change within a specific pH range that is characteristic of that indicator. The color changes for seven commonly used indicators over a pH range of 1--10 are shown here, using the transition ranges and approximate colors of Figure 16.23.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
     },
     {
       "id": "FR050",
@@ -926,6 +1982,270 @@
           }
         ],
         "markdown": "![A transparent calcite crystal placed over a printed letter A, producing two offset images of the letter](/images/replacements/calcite-double-refraction.jpg)\n\n**Double refraction in calcite (CaCO<sub>3</sub>).** A transparent calcite crystal placed over a printed letter produces two offset images of that letter.\n\n*Photograph credits:* [Calcite and double refraction (GeoDIL number - 670).jpg](https://commons.wikimedia.org/wiki/File:Calcite_and_double_refraction_(GeoDIL_number_-_670).jpg), Twyla Baker ([CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en))."
+      }
+    },
+    {
+      "id": "FR053",
+      "figure": "17.4 Copper-ammonia complex ions",
+      "markdown_file": "chapters/ch-17-solubility-and-complexation-eq.md",
+      "original_asset": "images/section_21/ba2fa3e1313774b53eef3e71096d9a2c.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show pale-blue hydrated Cu2+ becoming the deep-blue ammonia complex; label coordination and ligand substitution.",
+      "original_markdown": "![Figure 17.4 The Formation of Complex Ions](/images/section_21/ba2fa3e1313774b53eef3e71096d9a2c.jpg)\n\nAn aqueous solution of CuSO<sub>4</sub> consists of hydrated Cu<sup>2+</sup> ions in the form of pale blue \\[Cu(H<sub>2</sub>O)<sub>6</sub>\\]<sup>2+</sup> (left). The addition of aqueous ammonia to the solution results in the formation of the intensely blue-violet \\[Cu(NH<sub>3</sub>)<sub>4</sub>(H<sub>2</sub>O)<sub>2</sub>\\]<sup>2+</sup> ions, usually written as \\[Cu(NH<sub>3</sub>)<sub>4</sub>\\]<sup>2+</sup> ion (right) because ammonia, a stronger base than H<sub>2</sub>O, replaces water molecules from the hydrated Cu<sup>2+</sup> ion.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew both solutions and both complex ions, with two axial water ligands retained; source caption retained.",
+        "assets": [
+          {
+            "title": "Copper complex ion formation",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "2b9ac3ae2abfc8d9cbb2b78eb7f55e2230cecbf6a35193d13c73ec194fc49468",
+            "path": "images/replacements/fig-17-04-copper-ammonia.svg"
+          }
+        ],
+        "markdown": "![A pale blue copper(II) sulfate solution turns deep blue-violet when aqueous ammonia is added. Below, the hexaaquacopper(II) ion has six water ligands, and in the ammine complex four ammonia molecules replace the four equatorial water ligands while two axial water ligands remain.](/images/replacements/fig-17-04-copper-ammonia.svg)\n\nAn aqueous solution of CuSO<sub>4</sub> consists of hydrated Cu<sup>2+</sup> ions in the form of pale blue \\[Cu(H<sub>2</sub>O)<sub>6</sub>\\]<sup>2+</sup> (left). The addition of aqueous ammonia to the solution results in the formation of the intensely blue-violet \\[Cu(NH<sub>3</sub>)<sub>4</sub>(H<sub>2</sub>O)<sub>2</sub>\\]<sup>2+</sup> ions, usually written as \\[Cu(NH<sub>3</sub>)<sub>4</sub>\\]<sup>2+</sup> ion (right) because ammonia, a stronger base than H<sub>2</sub>O, replaces water molecules from the hydrated Cu<sup>2+</sup> ion.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR054",
+      "figure": "17.9 Amphoteric chromium hydroxide",
+      "markdown_file": "chapters/ch-17-solubility-and-complexation-eq.md",
+      "original_asset": "images/section_21/b317dc13b726db4c180b3936738dacff.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw the central Cr(OH)3 suspension with acid and base branches giving the labeled dissolved complexes.",
+      "original_markdown": "![Figure 17.9 Chromium(III) Hydroxide \\[Cr(OH) 3 or Cr 2 O 3 ·3H 2 O\\] Is an Example of an Amphoteric Oxide](/images/section_21/b317dc13b726db4c180b3936738dacff.jpg)\n\nAll three beakers originally contained a suspension of brownish purple Cr(OH)<sub>3</sub>(s) (center). When concentrated acid (6 M H<sub>2</sub>SO<sub>4</sub>) was added to the beaker on the left, Cr(OH)<sub>3</sub> dissolved to produce violet \\[Cr(H<sub>2</sub>O)<sub>6</sub>\\]<sup>3+</sup> ions and water. The addition of concentrated base (6 M NaOH) to the beaker on the right caused Cr(OH)<sub>3</sub> to dissolve, producing green \\[Cr(OH)<sub>4</sub>\\]<sup>−</sup>ions.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew the central suspension and both dissolution products with schematic colors; source caption retained.",
+        "assets": [
+          {
+            "title": "Amphoteric chromium(III) hydroxide",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "60302b4364132c73c5a18e4084262ac403090fce89c548e0122c6c9730e0e624",
+            "path": "images/replacements/fig-17-09-chromium-hydroxide.svg"
+          }
+        ],
+        "markdown": "![A center beaker holds a brownish purple suspension of chromium(III) hydroxide. Adding sulfuric acid gives a violet solution of hexaaquachromium(III) ions, and adding sodium hydroxide gives a green solution of tetrahydroxochromate(III) ions.](/images/replacements/fig-17-09-chromium-hydroxide.svg)\n\nAll three beakers originally contained a suspension of brownish purple Cr(OH)<sub>3</sub>(s) (center). When concentrated acid (6 M H<sub>2</sub>SO<sub>4</sub>) was added to the beaker on the left, Cr(OH)<sub>3</sub> dissolved to produce violet \\[Cr(H<sub>2</sub>O)<sub>6</sub>\\]<sup>3+</sup> ions and water. The addition of concentrated base (6 M NaOH) to the beaker on the right caused Cr(OH)<sub>3</sub> to dissolve, producing green \\[Cr(OH)<sub>4</sub>\\]<sup>−</sup>ions.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR055",
+      "figure": "17.11 Qualitative cation separation",
+      "markdown_file": "chapters/ch-17-solubility-and-complexation-eq.md",
+      "original_asset": "images/section_21/811fa4e9ba09bd16335da299bb692da8.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Create a separation flowchart and small vessel panels for HCl precipitation, PbCrO4 confirmation, ammonia treatment, and AgCl reprecipitation.",
+      "original_markdown": "![Figure 17.11 The Separation of Metal Ions from Group 1 Using Qualitative Analysis](/images/section_21/811fa4e9ba09bd16335da299bb692da8.jpg)\n\nIn (a), the cations of group 1 precipitate when HCl(aq) is added to a solution containing a mixture of cations. (b) When a small amount of Na<sub>2</sub>CrO<sub>4</sub> solution is added to a sample containing Pb<sup>2+</sup> ions in water, a bright yellow precipitate of PbCrO<sub>4</sub> forms. (c) Adding aqueous ammonia to a second portion of the solid sample produces a black solid that is a mixture of finely divided metallic mercury, an insoluble mercury(II) compound \\[Hg(NH<sub>2</sub>)Cl\\], and a stable \\[Ag(NH<sub>3</sub>)<sub>2</sub>\\]<sup>+</sup>(aq) complex. (d) The presence of Ag<sup>+</sup> is detected by decanting the solution from the precipitated mercury and mercury complex and adding hydrochloric acid to the decanted solution, which causes AgCl to precipitate.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew a flowchart that follows the surrounding procedure and the four lettered steps; source caption retained.",
+        "assets": [
+          {
+            "title": "Separating group 1 cations",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption and surrounding text.",
+            "sha256": "46b459535c1fb6fd8fd1165b775dc312c136d9bff473ebd0769d47dfe3b9afa7",
+            "path": "images/replacements/fig-17-11-qualitative-analysis.svg"
+          }
+        ],
+        "markdown": "![Flowchart. Adding 6 M HCl to a solution containing silver, lead, and mercury(I) ions gives a white precipitate of AgCl, PbCl2, and Hg2Cl2 (a). Hot water dissolves PbCl2, and sodium chromate then gives yellow PbCrO4 (b). Aqueous ammonia added to a second portion of the precipitate leaves a black solid of mercury and Hg(NH2)Cl and dissolves silver as the diammine complex (c). Adding HCl to the decanted solution reprecipitates white AgCl (d).](/images/replacements/fig-17-11-qualitative-analysis.svg)\n\nIn (a), the cations of group 1 precipitate when HCl(aq) is added to a solution containing a mixture of cations. (b) When a small amount of Na<sub>2</sub>CrO<sub>4</sub> solution is added to a sample containing Pb<sup>2+</sup> ions in water, a bright yellow precipitate of PbCrO<sub>4</sub> forms. (c) Adding aqueous ammonia to a second portion of the solid sample produces a black solid that is a mixture of finely divided metallic mercury, an insoluble mercury(II) compound \\[Hg(NH<sub>2</sub>)Cl\\], and a stable \\[Ag(NH<sub>3</sub>)<sub>2</sub>\\]<sup>+</sup>(aq) complex. (d) The presence of Ag<sup>+</sup> is detected by decanting the solution from the precipitated mercury and mercury complex and adding hydrochloric acid to the decanted solution, which causes AgCl to precipitate.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR056",
+      "figure": "18.6 Spontaneous endothermic reaction",
+      "markdown_file": "chapters/ch-18-chemical-thermodynamics.md",
+      "original_asset": "images/section_22/e114d8b906636e9d35e46b12b2d9118b.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw the reaction flask on wet wood, heat flowing into the flask, and water freezing at the contact; label the reaction as endothermic and spontaneous under the stated conditions.",
+      "original_markdown": "![Figure 18.6 An Endothermic Reaction](/images/section_22/e114d8b906636e9d35e46b12b2d9118b.jpg)\n\nThe reaction of barium hydroxide with ammonium thiocyanate is spontaneous but highly endothermic, so water, one product of the reaction, quickly freezes into slush. When water is placed on a block of wood under the flask, the highly endothermic reaction that takes place in the flask freezes water that has been placed under the beaker, so the flask becomes frozen to the wood.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Clarified the flask/beaker wording and the direction of heat flow.",
+        "assets": [
+          {
+            "title": "A spontaneous endothermic reaction",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption; balanced equation for the hydrated reactant.",
+            "sha256": "bbe0c836a517a6d94dbd47e0a7e107f4c3d0f4a2091da724f86eb02215655b8e",
+            "path": "images/replacements/fig-18-06-endothermic.svg"
+          }
+        ],
+        "markdown": "![A flask of barium hydroxide and ammonium thiocyanate sits on a wet wooden block. Arrows show heat flowing from the surroundings into the flask, the mixture becomes a slush, and the water under the flask freezes it to the wood.](/images/replacements/fig-18-06-endothermic.svg)\n\nThe reaction of barium hydroxide with ammonium thiocyanate is spontaneous but highly endothermic, so water, one product of the reaction, quickly freezes into slush. When the flask stands on a block of wood with water placed under it, heat flows from that water into the flask, the water freezes, and the flask becomes frozen to the wood.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR057",
+      "figure": "18.7 Entropy and playing cards",
+      "markdown_file": "chapters/ch-18-chemical-thermodynamics.md",
+      "original_asset": "images/section_22/ca50eebb29059147760ce6b89af6fe50.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Draw an ordered deck and a set of possible shuffled arrangements, labeling the count 52! approximately 8 x 10^67.",
+      "original_markdown": "![Figure 18.7 Illustrating Low- and High-Entropy States with a Deck of Playing Cards](/images/section_22/ca50eebb29059147760ce6b89af6fe50.jpg)\n\nAn new, unshuffled deck (top) has only a single arrangement, so there is only one microstate. In contrast, a randomly shuffled deck (bottom) can have any one of approximately 10<sup>68</sup> different arrangements, which correspond to 10<sup>68</sup> different microstates.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Corrected \"An new\" and clarified that each exact ordering is one microstate.",
+        "assets": [
+          {
+            "title": "Ordered and shuffled playing cards",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption; 52! = 8.07 × 10^67.",
+            "sha256": "2a4b64c84a7477fb9307ce6b298297d16ef135763d06b68b4a81ac38a4f43e30",
+            "path": "images/replacements/fig-18-07-playing-cards.svg"
+          }
+        ],
+        "markdown": "![Top: a new deck in suit order, ace through king of spades followed by hearts. This one arrangement is a single microstate. Bottom: three different random sequences, each one of 52 factorial, about 8 times 10 to the 67th, possible orders.](/images/replacements/fig-18-07-playing-cards.svg)\n\nA new, unshuffled deck (top) is in one particular order, which corresponds to a single microstate. A randomly shuffled deck (bottom) could be in any one of 52! ≈ 8 × 10<sup>67</sup> (about 10<sup>68</sup>) possible orders. Each specific order is one microstate, so the shuffled condition corresponds to an enormous number of microstates.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR058",
+      "figure": "19.2 Zn in CuSO4: one compartment",
+      "markdown_file": "chapters/ch-19-electrochemistry.md",
+      "original_asset": "images/section_23/586c5f0ee11634b4f9b18bf570cd4f10.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P1",
+      "route": "SVG",
+      "notes": "Show a zinc strip in Cu2+ solution, Zn dissolution and fine dark copper deposition, and the balanced redox equation.",
+      "original_markdown": "![Figure 19.2 The Reaction of Metallic Zinc with Aqueous Copper(II) Ions in a Single Compartment](/images/section_23/586c5f0ee11634b4f9b18bf570cd4f10.jpg)\n\nWhen a zinc rod is inserted into a beaker that contains an aqueous solution of copper(II) sulfate, a spontaneous redox reaction occurs: the zinc electrode dissolves to give Zn<sup>2+</sup>(aq) ions, while Cu<sup>2+</sup>(aq) ions are simultaneously reduced to metallic copper. The reaction occurs so rapidly that the copper is deposited as very fine particles that appear black, rather than the usual reddish color of copper.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew the single-compartment reaction and distinguished it from Figure 19.3; source caption retained.",
+        "assets": [
+          {
+            "title": "Zinc in copper(II) sulfate",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption.",
+            "sha256": "c22a309efe2501a021a0c9fce2794bf3897d94061263c30af71c90400659e2b7",
+            "path": "images/replacements/fig-19-02-zinc-copper-sulfate.svg"
+          }
+        ],
+        "markdown": "![A zinc strip stands in blue copper(II) sulfate solution in one beaker and becomes coated with fine black copper particles. A particle view shows zinc atoms leaving as zinc ions while copper(II) ions gain electrons directly at the zinc surface and deposit as copper.](/images/replacements/fig-19-02-zinc-copper-sulfate.svg)\n\nWhen a zinc rod is inserted into a beaker that contains an aqueous solution of copper(II) sulfate, a spontaneous redox reaction occurs: the zinc electrode dissolves to give Zn<sup>2+</sup>(aq) ions, while Cu<sup>2+</sup>(aq) ions are simultaneously reduced to metallic copper. The reaction occurs so rapidly that the copper is deposited as very fine particles that appear black, rather than the usual reddish color of copper.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR059",
+      "figure": "Galvanic-cell unnumbered illustration",
+      "markdown_file": "chapters/ch-19-electrochemistry.md",
+      "original_asset": "images/section_23/f74ab898aa10ef1f61a85a3a01a6ca35.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P2",
+      "route": "SVG",
+      "notes": "Draw labeled Zn/Cu half-cells, salt bridge, electron direction, and charge-balancing ion migration; use surviving Figure 19.3 as a content reference.",
+      "original_markdown": "![A galvanic cell. This galvanic cell illustrates the use of a salt bridge to connect two solutions.](/images/section_23/f74ab898aa10ef1f61a85a3a01a6ca35.jpg)\n\n**A galvanic cell.** This galvanic cell illustrates the use of a salt bridge to connect two solutions.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Drew labeled Zn/Cu half-cells, electron flow, and salt-bridge ion migration; source caption retained.",
+        "assets": [
+          {
+            "title": "Galvanic cell with a salt bridge",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption and surrounding text.",
+            "sha256": "adb6b0fbeddef15efe4ab5ee30aa61daa64b5c6247f33b5b33fb4e3f59eeaba7",
+            "path": "images/replacements/fig-19-galvanic-cell.svg"
+          }
+        ],
+        "markdown": "![A zinc electrode in zinc ion solution and a copper electrode in copper(II) ion solution are joined by a wire through a voltmeter and by a salt bridge. Electrons flow through the wire from zinc to copper; in the salt bridge, anions move toward the zinc compartment and cations toward the copper compartment.](/images/replacements/fig-19-galvanic-cell.svg)\n\n**A galvanic cell.** This galvanic cell illustrates the use of a salt bridge to connect two solutions.\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
+      }
+    },
+    {
+      "id": "FR060",
+      "figure": "19.8 Dichromate and iodide",
+      "markdown_file": "chapters/ch-19-electrochemistry.md",
+      "original_asset": "images/section_23/938ee4792697f3670a59b9b49614f3b2.jpg",
+      "original_sha256": "93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b",
+      "status": "installed",
+      "priority": "P2",
+      "route": "SVG",
+      "notes": "Show labeled initial solutions and a qualitative final amber solution, with reaction species and electron transfer.",
+      "original_markdown": "![Figure 19.8 The Reaction of Dichromate with Iodide](/images/section_23/938ee4792697f3670a59b9b49614f3b2.jpg)\n\nThe reaction of a yellow solution of sodium dichromate with a colorless solution of sodium iodide produces a deep amber solution that contains a green Cr<sup>3+</sup>(aq) complex and brown I<sub>2</sub>(aq) ions.",
+      "candidates": [],
+      "next_step": "Installed; included in verification and automatic re-import application.",
+      "replacement": {
+        "installed": "2026-10-30",
+        "review": "Rendered in Chromium and visually checked for labels, panel order, species, and agreement between caption, alternative text, and drawing.",
+        "editorial_change": "Removed \"ions\" after I<sub>2</sub>(aq); molecular iodine is not an ion. The balanced equation is left to Example 3.",
+        "assets": [
+          {
+            "title": "Dichromate and iodide",
+            "creator": "General Chemistry (QuadriviumPress) contributors",
+            "origin": "original",
+            "license": "CC BY-NC-SA 3.0",
+            "license_url": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+            "created": "2026-10-30",
+            "basis": "Source caption and Example 3.",
+            "sha256": "c7b546043f7d732c6e441d2cfb8348c8affce5778dc4d5638c181dc6270c15b1",
+            "path": "images/replacements/fig-19-08-dichromate-iodide.svg"
+          }
+        ],
+        "markdown": "![A yellow sodium dichromate solution and a colorless sodium iodide solution are combined under acidic conditions to give a deep amber mixture containing green chromium(III) and brown iodine. Iodide is oxidized to iodine and chromium is reduced from +6 to +3.](/images/replacements/fig-19-08-dichromate-iodide.svg)\n\nThe reaction of a yellow solution of sodium dichromate with a colorless solution of sodium iodide produces a deep amber solution that contains a green Cr<sup>3+</sup>(aq) complex and brown I<sub>2</sub>(aq).\n\n*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/))."
       }
     },
     {

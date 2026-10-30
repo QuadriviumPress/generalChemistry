@@ -229,9 +229,11 @@ Under normal conditions, there are three distinct *states of matter*: solids, li
 
 Figure 1.6 The Three States of Matter
 
-![Figure 1.6 The Three States of Matter](/images/section_05/89cdde65815df68ebdfa394629f237fb.jpg)
+![A solid block keeps its shape; the same liquid volume takes the shape of a beaker or a flask; a gas fills a small and a large closed container. Insets show particles packed in place, close together, and far apart.](/images/replacements/fig-01-06-states-of-matter.svg)
 
 Solids have a defined shape and volume. Liquids have a fixed volume but flow to assume the shape of their containers. Gases completely fill their containers, regardless of volume.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ### Pure Substances and Mixtures
 
@@ -255,9 +257,11 @@ Homogeneous mixtures (solutions) can be separated into their component substance
 
 Figure 1.8 The Distillation of a Solution of Table Salt in Water
 
-![Figure 1.8 The Distillation of a Solution of Table Salt in Water](/images/section_05/d300e454dda0947c3a36bcd4a8ad38a3.jpg)
+![A burner heats salt water in a distilling flask with a thermometer. Water vapor passes into a sloping condenser cooled by water that enters at the lower end and leaves at the upper end. Condensed water drips into a receiving flask while the salt stays behind.](/images/replacements/fig-01-08-distillation.svg)
 
 The solution of salt in water is heated in the distilling flask until it boils. The resulting vapor is enriched in the more volatile component (water), which condenses to a liquid in the cold condenser and is then collected in the receiving flask.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Mixtures of two or more liquids with different boiling points can be separated with a more complex distillation apparatus. One example is the refining of crude petroleum into a range of useful products: aviation fuel, gasoline, kerosene, diesel fuel, and lubricating oil (in the approximate order of decreasing volatility). Another example is the distillation of alcoholic spirits such as brandy or whiskey. This relatively simple procedure caused more than a few headaches for federal authorities in the 1920s during the era of Prohibition, when illegal stills proliferated in remote regions of the United States.
 
@@ -1025,9 +1029,11 @@ Table 1.3 Properties of Subatomic Particles\*
 
 Figure 1.16 A Gas Discharge Tube Producing Cathode Rays
 
-![Figure 1.16 A Gas Discharge Tube Producing Cathode Rays](/images/section_05/ecacdde50f1e3d75944b451d9cbb58ab.jpg)
+![A sealed glass tube of low-pressure gas has a cathode at the left and an anode at the right, both wired to a high-voltage supply. Arrows inside show electrons moving from cathode to anode, and arrows outside show light emitted by the glowing gas.](/images/replacements/fig-01-16-gas-discharge-tube.svg)
 
 When a high voltage is applied to a gas contained at low pressure in a gas discharge tube, electricity flows through the gas, and energy is emitted in the form of light.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Long before the end of the 19th century, it was well known that applying a high voltage to a gas contained at low pressure in a sealed tube (called a gas discharge tube) caused electricity to flow through the gas, which then emitted light ([Figure 1.16 \"A Gas Discharge Tube Producing Cathode Rays\"](/chapters/ch-01-introduction-to-chemistry.md#src-averill-1-0-ch01-s05-s01-f01)). Researchers trying to understand this phenomenon found that an unusual form of energy was also emitted from the *cathode*, or negatively charged electrode; hence this form of energy was called *cathode rays*. In 1897, the British physicist J. J. Thomson (1856--1940) proved that atoms were not the ultimate form of matter. He demonstrated that cathode rays could be deflected, or bent, by magnetic or electric fields, which indicated that cathode rays consist of charged particles ([Figure 1.17 \"Deflection of Cathode Rays by an Electric Field\"](/chapters/ch-01-introduction-to-chemistry.md#src-averill-1-0-ch01-s05-s01-f02)). More important, by measuring the extent of the deflection of the cathode rays in magnetic or electric fields of various strengths, Thomson was able to calculate the *mass-to-charge ratio* of the particles. These particles were emitted by the negatively charged cathode and repelled by the negative terminal of an electric field. Because like charges repel each other and opposite charges attract, Thomson concluded that the particles had a net negative charge; we now call these particles **electrons**. Most important for chemistry, Thomson found that the mass-to-charge ratio of cathode rays was independent of the nature of the metal electrodes or the gas, which suggested that electrons were fundamental components of all atoms.
 

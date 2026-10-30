@@ -76,9 +76,11 @@ Automobile engines use surface area effects to increase reaction rates. Gasoline
 
 Figure 14.3 The Effect of Surface Area on Reaction Rates
 
-![Figure 14.3 The Effect of Surface Area on Reaction Rates](/images/section_18/546284255ee675e729dbdd95eae7977e.jpg)
+![Left: flour sprayed into a burner flame is spread out as separate particles in air and burns as a large fireball. Right: a flame on a pile of the same flour only scorches its exposed surface.](/images/replacements/fig-14-03-flour-surface-area.svg)
 
 A pile of flour is only scorched by a flame (right), but when the same flour is sprayed into the flame, it burns rapidly (left).
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ### Solvent Effects
 
@@ -102,9 +104,11 @@ You learned in [Chapter 3 \"Chemical Reactions\"](/chapters/ch-03-chemical-react
 
 Figure 14.4 The Effect of Catalysts on Reaction Rates
 
-![Figure 14.4 The Effect of Catalysts on Reaction Rates](/images/section_18/bc40662972d3e5c9c2e925039de3170e.jpg)
+![Three cylinders of hydrogen peroxide solution. With no catalyst nothing visible happens. With iodide the solution is brown and oxygen bubbles form. With the enzyme catalase, oxygen forms so vigorously that foam rises out of the liquid.](/images/replacements/fig-14-04-catalysts.svg)
 
 A solution of hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) decomposes in water so slowly that the change is not noticeable (left). Iodide ion acts as a catalyst for the decomposition of H<sub>2</sub>O<sub>2</sub>, producing oxygen gas. The solution turns brown because of the reaction of H<sub>2</sub>O<sub>2</sub> with I<sup>−</sup>, which generates small amounts of I<sub>3</sub><sup>−</sup> (center). The enzyme catalase is about 3 *billion* times more effective than iodide as a catalyst. Even in the presence of very small amounts of enzyme, the decomposition is vigorous (right).
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Most of the bulk chemicals produced in industry are formed with catalyzed reactions. Recent estimates indicate that about 30% of the gross national product of the United States and other industrialized nations relies either directly or indirectly on the use of catalysts.
 

@@ -7,6 +7,10 @@ from urllib.parse import urlsplit
 
 LEDGER = 'figure-replacements.json'
 NOTICE_SHA256 = '93f80bd15e870d30b31a3f2185d4a3d03408696daa0f2643462e8d604ce24a6b'
+SOURCED_FIELDS = ('title', 'creator', 'source_url', 'source_revision_url', 'download_url',
+                  'license', 'license_url', 'retrieved', 'changes')
+SOURCED_URLS = ('source_url', 'source_revision_url', 'download_url', 'license_url')
+ORIGINAL_FIELDS = ('title', 'creator', 'license', 'license_url', 'created', 'basis')
 
 
 def read_ledger(root):
@@ -95,15 +99,17 @@ def validate_ledger(root, manifest):
                 errors.append(f'Missing or modified replacement asset: {path}')
             if asset['sha256'] == NOTICE_SHA256:
                 errors.append(f'Replacement is an unavailable-image notice: {entry["id"]}')
-            for field in ('title', 'creator', 'source_url', 'source_revision_url', 'download_url',
-                          'license', 'license_url', 'retrieved', 'changes'):
+            # Original diagrams drawn for this edition have no download source to record.
+            fields, urls, date = ((ORIGINAL_FIELDS, ('license_url',), 'created') if asset.get('origin') == 'original'
+                                  else (SOURCED_FIELDS, SOURCED_URLS, 'retrieved'))
+            for field in fields:
                 if not asset.get(field):
                     errors.append(f'Replacement attribution missing {field}: {entry["id"]}: {path}')
-            for field in ('source_url', 'source_revision_url', 'download_url', 'license_url'):
+            for field in urls:
                 if urlsplit(asset.get(field, '')).scheme != 'https':
                     errors.append(f'Replacement attribution needs HTTPS {field}: {entry["id"]}')
-            if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', asset.get('retrieved', '')):
-                errors.append(f'Invalid retrieval date: {entry["id"]}')
+            if not re.fullmatch(r'\d{4}-\d{2}-\d{2}', asset.get(date, '')):
+                errors.append(f'Invalid {date} date: {entry["id"]}')
     return ledger, errors
 
 

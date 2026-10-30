@@ -194,7 +194,11 @@ The molar mass of ethanol is the mass of ethanol (C<sub>2</sub>H<sub>5</sub>OH) 
 
 Figure 3.1 Samples of 1 Mol of Some Common Substances
 
-![Figure 3.1 Samples of 1 Mol of Some Common Substances](/images/section_07/22512721ca0ad7f4ee979d01b755f5d5.jpg)
+![Five cards give the mass of one mole: carbon 12.01 g and copper 63.55 g of atoms, water 18.02 g and sucrose 342.30 g of molecules, and sodium chloride 58.44 g of formula units. Each mole contains 6.022 × 10^23 particles.](/images/replacements/fig-03-01-one-mole-samples.svg)
+
+One mole of each of five representative substances. Each sample contains 6.022 × 10<sup>23</sup> particles (atoms of carbon and copper, molecules of water and sucrose, and formula units of sodium chloride), but the masses differ. Sample volumes are not shown.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 The mole is the basis of quantitative chemistry. It provides chemists with a way to convert easily between the mass of a substance and the number of individual atoms, molecules, or formula units of that substance. Conversely, it enables chemists to calculate the mass of a substance needed to obtain a desired number of atoms, molecules, or formula units. For example, to convert moles of a substance to mass, we use the relationship
 
@@ -1266,9 +1270,11 @@ As shown in [Figure 3.7 \"An Ammonium Dichromate Volcano: Change during a Chemic
 
 Figure 3.7 An Ammonium Dichromate Volcano: Change during a Chemical Reaction
 
-![Figure 3.7 An Ammonium Dichromate Volcano: Change during a Chemical Reaction](/images/section_07/f984737a56da2c1fe4653baf3a49802b.jpg)
+![An orange pile of ammonium dichromate is heated and becomes a larger green pile of chromium(III) oxide while nitrogen gas and water vapor escape. Below, the balanced equation and a table show 2 N, 8 H, 2 Cr, and 7 O atoms on each side.](/images/replacements/fig-03-07-ammonium-dichromate.svg)
 
-The starting material (left) is solid ammonium dichromate. A chemical reaction (right) transforms it to solid chromium(III) oxide, depicted showing a portion of its chained structure, nitrogen gas, and water vapor. (In addition, energy in the form of heat and light is released.) During the reaction, the distribution of atoms changes, but the *number* of atoms of each element does not change. Because the numbers of each type of atom are the same in the reactants and the products, the chemical equation is balanced.
+The starting material (left) is solid orange ammonium dichromate. A chemical reaction (right) transforms it to solid green chromium(III) oxide, nitrogen gas, and water vapor. (In addition, energy in the form of heat and light is released.) During the reaction, the distribution of atoms changes, but the *number* of atoms of each element does not change, as the atom inventory shows. Because the numbers of each type of atom are the same in the reactants and the products, the chemical equation is balanced.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 (src-averill-1-0-ch03-s03-eq01)=
 
@@ -1492,9 +1498,11 @@ The complete combustion of any hydrocarbon with sufficient oxygen *always* yield
 
 Figure 3.9 An Example of a Combustion Reaction
 
-![Figure 3.9 An Example of a Combustion Reaction](/images/section_07/c270bcd05256872401de2a06c72b8377.jpg)
+![A lit candle stands inside a large flask. Arrows show hot carbon dioxide and water vapor rising, and water droplets have condensed on the cooler upper glass.](/images/replacements/fig-03-09-candle-combustion.svg)
 
 The wax in a candle is a high-molecular-mass hydrocarbon, which produces gaseous carbon dioxide and water vapor in a combustion reaction. When the candle is allowed to burn inside a flask, drops of water, one of the products of combustion, condense at the top of the inner surface of the flask.
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 [Equation 3.11](/chapters/ch-03-chemical-reactions.md#src-averill-1-0-ch03-s03-s02-eq01) is not balanced: the numbers of each type of atom on the reactant side of the equation (7 carbon atoms, 16 hydrogen atoms, and 2 oxygen atoms) is not the same as the numbers of each type of atom on the product side (1 carbon atom, 2 hydrogen atoms, and 3 oxygen atoms). Consequently, we must adjust the coefficients of the reactants and products to give the same numbers of atoms of each type on both sides of the equation. Because the identities of the reactants and products are fixed, we *cannot* balance the equation by changing the subscripts of the reactants or the products. To do so would change the chemical identity of the species being described, as illustrated in [Figure 3.10 \"Balancing Equations\"](/chapters/ch-03-chemical-reactions.md#src-averill-1-0-ch03-s03-s02-f02).
 
@@ -2751,9 +2759,11 @@ The following reactions have important industrial applications. Using [Table 3.1
 
     There is no change in the oxidation states, so this is not a redox reaction.
 
-    ![AgCl(s) precipitates when solutions of AgNO 3 (aq) and NaCl(aq) are mixed. NaNO 3 (aq) is in solution as Na + and NO 3 − ions.](/images/section_07/76e86358b7aa0733b7417501f2b34b7f.jpg)
+    ![A beaker of silver and nitrate ions and a beaker of sodium and chloride ions are mixed. In the product beaker, four silver ions and four chloride ions form white solid AgCl at the bottom, while four sodium ions and four nitrate ions remain dissolved.](/images/replacements/fig-03-ex15-silver-chloride.svg)
 
     **AgCl(s) precipitates when solutions of AgNO**<sub>**3**</sub>**(aq) and NaCl(aq) are mixed.** NaNO<sub>3</sub> (aq) is in solution as Na<sup>+</sup> and NO<sub>3</sub><sup>−</sup> ions.
+
+    *Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 3.  **A** This reaction is used to prepare lime (CaO) from limestone (CaCO<sub>3</sub>) and has the general form AB → A + B. The chemical equation's general form indicates that it can be classified as a cleavage reaction, the reverse of a condensation reaction. **B** The oxidation states of the atoms are as follows:
 

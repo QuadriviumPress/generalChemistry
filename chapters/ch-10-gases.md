@@ -2292,9 +2292,11 @@ As you have learned, the molecules of a gas are *not* stationary but in constant
 
 Figure 10.15 The Diffusion of Gaseous Molecules
 
-![Figure 10.15 The Diffusion of Gaseous Molecules](/images/section_14/9e557a2a52e50656c97d0aa3210d9064.jpg)
+![Open containers of aqueous ammonia on the left and hydrochloric acid on the right release gas molecules that diffuse toward each other. Where they meet, closer to the hydrochloric acid, they form a white cloud of solid ammonium chloride.](/images/replacements/fig-10-15-nh3-hcl-diffusion.svg)
 
 When open containers of aqueous NH<sub>3</sub> and HCl are placed near each other in a draft-free environment, molecules of the two substances diffuse, collide, and react to produce white fumes of solid ammonium chloride (NH<sub>4</sub>Cl).
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 Diffusion[^chem-26] is the gradual mixing of gases due to the motion of their component particles even in the absence of mechanical agitation such as stirring. The result is a gas mixture with uniform composition. As we shall see in [Chapter 11 \"Liquids\"](/chapters/ch-11-liquids.md#src-averill-1-0-ch11), [Chapter 12 \"Solids\"](/chapters/ch-12-solids.md#src-averill-1-0-ch12), and [Chapter 13 \"Solutions\"](/chapters/ch-13-solutions.md#src-averill-1-0-ch13), diffusion is also a property of the particles in liquids and liquid solutions and, to a lesser extent, of solids and solid solutions. We can describe the phenomenon shown in [Figure 10.15 \"The Diffusion of Gaseous Molecules\"](/chapters/ch-10-gases.md#src-averill-1-0-ch10-s07-s04-f01) by saying that the molecules of HCl and NH<sub>3</sub> are able to diffuse away from their containers, and that NH<sub>4</sub>Cl is formed where the two gases come into contact. Similarly, we say that a perfume or an aroma diffuses throughout a room or a house. The related process, effusion[^chem-27], is the escape of gaseous molecules through a small (usually microscopic) hole, such as a hole in a balloon, into an evacuated space.
 
@@ -2312,9 +2314,11 @@ Although diffusion and effusion are different phenomena, the rate of diffusion i
 
 Figure 10.16 A Simple Experiment to Measure the Relative Rates of the Diffusion of Two Gases
 
-![Figure 10.16 A Simple Experiment to Measure the Relative Rates of the Diffusion of Two Gases](/images/section_14/464fa85be435efd19cfab994e25f0b71.jpg)
+![A tube has cotton soaked in aqueous ammonia at 3.3 centimeters and cotton soaked in hydrochloric acid at 28.0 centimeters on a ruler. White ammonium chloride first appears with its left edge at 18.8 centimeters, 15.5 centimeters from the ammonia and 9.2 centimeters from the acid. The observed ratio is 1.7, compared with 1.47 predicted by Graham’s law.](/images/replacements/fig-10-16-graham-diffusion.svg)
 
 Cotton balls containing aqueous NH<sub>3</sub> (left) and HCl (right) are placed a measured distance apart in a draft-free environment, and the position at which white fumes of NH<sub>4</sub>Cl first appear is noted. The puff of white NH<sub>4</sub>Cl forms much closer to the HCl-containing ball than to the NH<sub>3</sub>-containing ball. The left edge of the white puff marks where the reaction was first observed. The position of the white puff (18.8 − 3.3 = 15.5 cm from the NH<sub>3</sub>, 28.0 − 18.8 = 9.2 cm from the HCl, giving a ratio of distances of 15.5/9.2 = 1.7) is approximately the location predicted by Graham's law based on the square root of the inverse ratio of the molar masses of the reactants (1.47).
+
+*Diagram credit:* original diagram for this edition ([CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)).
 
 ![Chemical illustration from Chapter 10: Gases](/images/section_14/940c076cd4ff1925b918c401ea2d5391.jpg)
 
